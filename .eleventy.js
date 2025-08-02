@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
     if (!Array.isArray(arr)) return [];
     return arr.slice(0, limit);
   });
+  
 
   // 2. Collection for blog posts
   eleventyConfig.addCollection("post", function (collectionApi) {
