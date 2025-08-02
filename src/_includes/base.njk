@@ -14,6 +14,16 @@
   <div class="logo"><a href="/">Harris Landgarten</a></div>
 </div>
 
+<!-- DEBUG: Alpine State Viewer -->
+<div 
+  x-data="{ navOpen: false }" 
+  x-init="$watch('navOpen', value => $refs.debug.textContent = 'navOpen = ' + value)" 
+  style="position: fixed; bottom: 1rem; left: 1rem; background: #333; color: #fff; padding: 0.5rem; font-size: 0.9rem; z-index: 1000;"
+>
+  <span x-ref="debug">navOpen = false</span>
+</div>
+
+
 <!-- NAV BAR (light) with Alpine dropdowns -->
 <nav x-data="{ navOpen: false }" class="site-nav" role="navigation" aria-label="Main menu">
   <button 
