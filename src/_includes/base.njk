@@ -15,20 +15,15 @@
 </div>
 
 <!-- NAV BAR (light) with Alpine dropdowns -->
-<nav 
-  x-data="{ navOpen: false }" 
-  class="site-nav" 
-  role="navigation" 
-  aria-label="Main menu"
->
+<nav x-data="{ navOpen: false }" class="site-nav" role="navigation" aria-label="Main menu">
   <button 
     @click="navOpen = !navOpen" 
     class="nav-toggle" 
     aria-label="Toggle menu"
   >☰</button>
 
-  <ul :class="{ 'open': navOpen }">
-    <template x-for="item in navigation" :key="item.url">
+  <ul :class="{ 'open': navOpen }" class="desktop-nav">
+    <template x-for="item in window.navigation" :key="item.url">
       <li 
         x-data="{ subOpen: false }" 
         class="nav-item" 
@@ -59,6 +54,8 @@
     </template>
   </ul>
 </nav>
+
+
 
 
   <!-- Backdrop for mobile -->
