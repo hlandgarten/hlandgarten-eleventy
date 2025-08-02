@@ -70,36 +70,40 @@
 </header>
 
 <script>
-// Expose your navigation data to Alpine
-window.navigation = [
-  {
-    title: "Home", url: "/"
-  },
-  {
-    title: "Bio", url: "/bio/",
-    submenu: [
-      { title: "Overview", url: "/bio/#overview" },
-      { title: "Key Influences", url: "/bio/#influences" },
-      { title: "Values", url: "/bio/#values" }
-    ]
-  },
-  {
-    title: "Volumes", url: "/volumes/",
-    submenu: [
-      { title: "Volume 1", url: "/volumes/volume1/" },
-      { title: "Volume 2", url: "/volumes/volume2/" },
-      { title: "Volume 3", url: "/volumes/volume3/" },
-      { title: "Volume 4", url: "/volumes/volume4/" },
-      { title: "Volume 5", url: "/volumes/volume5/" },
-      { title: "Volume 6", url: "/volumes/volume6/" }
-    ]
-  },
-  { title: "Timeline", url: "/timeline/" },
-  { title: "Work", url: "/work/" },
-  { title: "Blog", url: "/blog/" },
-  { title: "Contact", url: "/contact/" }
-];
+  // Dynamically expose Eleventy's pathPrefix (if any)
+  const base = '{{ "/" | url }}'.replace(/\/$/, '');
+
+  // Navigation config with dynamic URLs
+  window.navigation = [
+    {
+      title: "Home", url: base + "/"
+    },
+    {
+      title: "Bio", url: base + "/bio/",
+      submenu: [
+        { title: "Overview", url: base + "/bio/#overview" },
+        { title: "Key Influences", url: base + "/bio/#influences" },
+        { title: "Values", url: base + "/bio/#values" }
+      ]
+    },
+    {
+      title: "Volumes", url: base + "/volumes/",
+      submenu: [
+        { title: "Volume 1", url: base + "/volumes/volume1/" },
+        { title: "Volume 2", url: base + "/volumes/volume2/" },
+        { title: "Volume 3", url: base + "/volumes/volume3/" },
+        { title: "Volume 4", url: base + "/volumes/volume4/" },
+        { title: "Volume 5", url: base + "/volumes/volume5/" },
+        { title: "Volume 6", url: base + "/volumes/volume6/" }
+      ]
+    },
+    { title: "Timeline", url: base + "/timeline/" },
+    { title: "Work", url: base + "/work/" },
+    { title: "Blog", url: base + "/blog/" },
+    { title: "Contact", url: base + "/contact/" }
+  ];
 </script>
+
 
 
 

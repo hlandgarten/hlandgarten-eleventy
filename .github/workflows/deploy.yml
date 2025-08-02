@@ -2,26 +2,24 @@ name: Deploy Eleventy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main  # or 'master' if that's your default
+    branches: [main]
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 18
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build site with Eleventy
+      - name: Build with Eleventy
         run: npx eleventy
 
       - name: Deploy to GitHub Pages
