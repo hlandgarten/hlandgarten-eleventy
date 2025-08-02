@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title or "Harris Landgarten" }}</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+
+<!-- TOP BAR (dark) -->
+<div class="top-bar">
+  <div class="logo"><a href="/">Harris Landgarten</a></div>
+</div>
+
+<!-- NAV BAR (light) with Alpine dropdowns -->
+<nav 
+  x-data="{ navOpen: false }" 
+  class="site-nav" 
+  role="navigation" 
+  aria-label="Main menu"
+>
+  <button 
+    @click="navOpen = !navOpen" 
+    class="nav-toggle" 
+    aria-label="Toggle menu"
+  >☰</button>
+
+  <ul :class="{ 'open': navOpen }">
+    <template x-for="item in navigation" :key="item.url">
+      <li 
+        x-data="{ subOpen: false }" 
+        class="nav-item" 
+        :class="{ 'has-sub': item.submenu }"
+        @mouseenter="item.submenu && (subOpen = true)" 
+        @mouseleave="item.submenu && (subOpen = false)"
+      >
+        <a 
+          :href="item.url" 
+          @click.prevent="item.submenu ? subOpen = !subOpen : window.location = item.url"
+          :aria-expanded="item.submenu ? subOpen : undefined"
+          x-text="item.title"
+        ></a>
+
+        <template x-if="item.submenu">
+          <ul 
+            x-show="subOpen" 
+            @click.outside="subOpen = false" 
+            class="sub-menu"
+            x-transition
+          >
+            <template x-for="sub in item.submenu" :key="sub.url">
+              <li><a :href="sub.url" x-text="sub.title"></a></li>
+            </template>
+          </ul>
+        </template>
+      </li>
+    </template>
+  </ul>
+</nav>
+
+
+  <!-- Backdrop for mobile -->
+  <div 
+    class="nav-backdrop" 
+    @click="navOpen = false" 
+    :class="{ 'open': navOpen }"
+  ></div>
+</header>
+
+<script>
+// Expose your navigation data to Alpine
+window.navigation = [
+  {
+    title: "Home", url: "/"
+  },
+  {
+    title: "Bio", url: "/bio/",
+    submenu: [
+      { title: "Overview", url: "/bio/#overview" },
+      { title: "Key Influences", url: "/bio/#influences" },
+      { title: "Values", url: "/bio/#values" }
+    ]
+  },
+  {
+    title: "Volumes", url: "/volumes/",
+    submenu: [
+      { title: "Volume 1", url: "/volumes/volume1/" },
+      { title: "Volume 2", url: "/volumes/volume2/" },
+      { title: "Volume 3", url: "/volumes/volume3/" },
+      { title: "Volume 4", url: "/volumes/volume4/" },
+      { title: "Volume 5", url: "/volumes/volume5/" },
+      { title: "Volume 6", url: "/volumes/volume6/" }
+    ]
+  },
+  { title: "Timeline", url: "/timeline/" },
+  { title: "Work", url: "/work/" },
+  { title: "Blog", url: "/blog/" },
+  { title: "Contact", url: "/contact/" }
+];
+</script>
+
+
+
+<main>
+  {{ content | safe }}
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Harris Landgarten</p>
+</footer>
+
+<script src="/assets/js/scripts.js"></script>
+<script src="https://unpkg.com/alpinejs@3.x/dist/cdn.min.js" defer></script>
+
+</body>
+</html>
+
