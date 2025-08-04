@@ -5,17 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Volume 3</title>
   <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/site.css">
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 </head>
 <body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
 
 
-<header x-data="{ navOpen: false }" class="site-header">
+<header class="site-header" x-data="{ navOpen: false }">
   <div class="container">
-    <div class="site-header-inner">
-      <div class="site-brand">
-        <a href="/">Harris Landgarten</a>
-      </div>
+    <!-- Logo on top -->
+    <div class="site-logo-wrapper">
+      <a href="/" class="logo-link">
+        <img src="/assets/images/logo-hbl.png" alt="HBL Logo" class="logo-large" />
+      </a>
+    </div>
 
       <!-- Hamburger (mobile only) -->
       <button
@@ -37,7 +40,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/">Home</a>
+        <a href="/" class="">Home</a>
+
         
       </li>
     
@@ -47,7 +51,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/bio/">Bio</a>
+        <a href="/bio/" class="">Bio</a>
+
         
           <ul
             class="sub-menu"
@@ -72,7 +77,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/volumes/">Volumes</a>
+        <a href="/volumes/" class="">Volumes</a>
+
         
           <ul
             class="sub-menu"
@@ -103,7 +109,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/timeline/">Timeline</a>
+        <a href="/timeline/" class="">Timeline</a>
+
         
       </li>
     
@@ -113,7 +120,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/work/">Work</a>
+        <a href="/work/" class="">Work</a>
+
         
       </li>
     
@@ -123,7 +131,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/blog/">Blog</a>
+        <a href="/blog/" class="">Blog</a>
+
         
       </li>
     
@@ -133,7 +142,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/contact/">Contact</a>
+        <a href="/contact/" class="">Contact</a>
+
         
       </li>
     

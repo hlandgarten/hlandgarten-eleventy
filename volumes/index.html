@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Harris Landgarten</title>
+  <title>Volumes</title>
   <link rel="stylesheet" href="/assets/css/styles.css">
   <link rel="stylesheet" href="/assets/css/site.css">
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
@@ -40,7 +40,7 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/" class="active">Home</a>
+        <a href="/" class="">Home</a>
 
         
       </li>
@@ -77,7 +77,7 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="/volumes/" class="">Volumes</a>
+        <a href="/volumes/" class="active">Volumes</a>
 
         
           <ul
@@ -246,43 +246,20 @@
 
 <main class="site-content">
   
-  <!-- HERO -->
-  <section class="hero">
-    <h1 class="hero-title"></h1>
-    <p class="hero-subtitle"></p>
-    <a href="#timeline" class="btn">Explore My Journey</a>
-  </section>
+<article class="page-content">
+  <h1>Volumes</h1>
+  <h2>My Memoir Volumes</h2>
+<p>Explore the chapters of my life:</p>
+<ul>
+<li><a href="/volumes/volume1/">Volume 1: Early Years</a></li>
+<li><a href="/volumes/volume2/">Volume 2: College &amp; Counterculture</a></li>
+<li><a href="/volumes/volume3/">Volume 3: Lifeboat &amp; Techland</a></li>
+<li><a href="/volumes/volume4/">Volume 4: Samsung Era</a></li>
+<li><a href="/volumes/volume5/">Volume 5: Internet &amp; Trading</a></li>
+<li><a href="/volumes/volume6/">Volume 6: Zimbra &amp; Aftermath</a></li>
+</ul>
 
-  <script>
-    window.taglines = [
-      { title: "Seven Decades of Tech in My Rear‑View", subtitle: "From black-and-white TV to the AI frontier..." },
-      { title: "From Rabbit-Ears to Neural Nets", subtitle: "I watched WHT’s first test pattern..." },
-      { title: "Witness to Every Tech Revolution", subtitle: "TV → PC → Internet → Cloud → AI… and I’ve built at every turn." },
-      { title: "My 70-Year Ride Through Tech", subtitle: "Prop-planes in fog..." }
-    ];
-  </script>
-
-  <!-- Recent Posts -->
-<section class="recent-posts">
-  <h2>Recent Posts</h2>
-  <ul class="post-list">
-    
-        <li>
-            <a href="/posts/2025-07-22-welcome/">Welcome Post</a>
-            <p>This is the first post of the blog on my personal site. Stay tuned!</p>
-        </li>
-    
-        <li>
-            <a href="/posts/2025-07-22-first-post/">A New Beginning</a>
-            <p>This site marks a new chapter in sharing my ideas and technologies. Much more to come soon.</p>
-        </li>
-    
-
-  </ul>
-</section>
-
-
-
+</article>
 
 </main>
 
