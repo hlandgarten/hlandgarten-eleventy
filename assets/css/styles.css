@@ -45,6 +45,12 @@ body {
   font-size: 1.2rem;
 }
 
+.logo {
+  height: 10rem;
+  display: block;
+}
+
+
 .page-content {
   width: 70% ;
 }
@@ -206,4 +212,91 @@ body {
   .hamburger {
     display: block;
   }
+}
+.site-logo-wrapper {
+  text-align: left;
+  padding: 1rem 0 0.5rem;
+}
+
+.logo-large {
+  height: 6rem;
+  width: auto;
+}
+
+.site-header-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-top: 1px solid #333;
+}
+
+@media (max-width: 768px) {
+  .site-header-inner {
+    justify-content: space-between;
+  }
+
+  .logo-large {
+    height: 3rem;
+  }
+}
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #111; /* ensure it doesn't become transparent */
+}
+
+.site-header {
+  padding: 1rem 0;
+  background-color: #111;
+}
+
+.site-header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-link img.logo-large {
+  height: 6rem;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+.desktop-nav a {
+  font-weight: bold;
+  font-size: 1rem; /* Increase if needed */
+  color: white;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.desktop-nav a:hover,
+.desktop-nav a:focus {
+  background-color: #1a1a1a;
+  color: #00bfff; /* or another bright accent */
+  border-radius: 0.25rem;
+}
+.desktop-nav a {
+  font-weight: bold;
+  font-size: 1.5rem; /* Increase if needed */
+  color: white;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.desktop-nav a:hover,
+.desktop-nav a:focus {
+  background-color: #1a1a1a;
+  color: #00bfff; /* or another bright accent */
+  border-radius: 0.25rem;
+}
+.desktop-nav a.active {
+  color: #00bfff;
+  border-bottom: 2px solid #00bfff;
 }

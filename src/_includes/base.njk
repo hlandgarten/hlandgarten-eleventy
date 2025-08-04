@@ -5,17 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ title or "Harris Landgarten" }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | url }}">
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 </head>
 <body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
 
 
-<header x-data="{ navOpen: false }" class="site-header">
+<header class="site-header" x-data="{ navOpen: false }">
   <div class="container">
-    <div class="site-header-inner">
-      <div class="site-brand">
-        <a href="/">Harris Landgarten</a>
-      </div>
+    <!-- Logo on top -->
+    <div class="site-logo-wrapper">
+      <a href="/" class="logo-link">
+        <img src="{{ '/assets/images/logo-hbl.png' | url }}" alt="HBL Logo" class="logo-large" />
+      </a>
+    </div>
 
       <!-- Hamburger (mobile only) -->
       <button
@@ -37,7 +40,8 @@
         @mouseenter="subOpen = true"
         @mouseleave="subOpen = false"
       >
-        <a href="{{ item.url | url }}">{{ item.title }}</a>
+        <a href="{{ item.url | url }}" class="{% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
+
         {% if item.submenu %}
           <ul
             class="sub-menu"
