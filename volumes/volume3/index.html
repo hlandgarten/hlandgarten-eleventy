@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Volume 3</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
+
+
+<header x-data="{ navOpen: false }" class="site-header">
+  <div class="container">
+    <div class="site-header-inner">
+      <div class="site-brand">
+        <a href="/">Harris Landgarten</a>
+      </div>
+
+      <!-- Hamburger (mobile only) -->
+      <button
+        class="hamburger"
+        @click="navOpen = !navOpen"
+        :aria-expanded="navOpen"
+        aria-label="Toggle menu"
+      >
+        &#9776;
+      </button>
+
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+  <ul>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/">Home</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/bio/">Bio</a>
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/bio/#overview">Overview</a></li>
+            
+              <li><a href="/bio/#influences">Key Influences</a></li>
+            
+              <li><a href="/bio/#values">Values</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/volumes/">Volumes</a>
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/volumes/volume1/">Volume 1</a></li>
+            
+              <li><a href="/volumes/volume2/">Volume 2</a></li>
+            
+              <li><a href="/volumes/volume3/">Volume 3</a></li>
+            
+              <li><a href="/volumes/volume4/">Volume 4</a></li>
+            
+              <li><a href="/volumes/volume5/">Volume 5</a></li>
+            
+              <li><a href="/volumes/volume6/">Volume 6</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/timeline/">Timeline</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/work/">Work</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/blog/">Blog</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/contact/">Contact</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    </div>
+  </div>
+
+  <!-- Backdrop for mobile -->
+  <div
+    class="mobile-drawer-backdrop"
+    x-show="navOpen"
+    x-transition.opacity
+    @click="navOpen = false"
+    x-cloak
+  ></div>
+
+  <!-- Mobile Drawer Menu -->
+  <aside
+    class="mobile-drawer"
+    x-show="navOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="translate-x-full"
+    x-transition:enter-end="translate-x-0"
+    x-transition:leave="transition ease-in duration-200"
+    x-transition:leave-start="translate-x-0"
+    x-transition:leave-end="translate-x-full"
+    @click.away="navOpen = false"
+    x-cloak
+  >
+    <nav class="mobile-nav">
+      <ul>
+        
+          <li>
+            <a href="/">Home</a>
+            
+          </li>
+        
+          <li>
+            <a href="/bio/">Bio</a>
+            
+              <ul>
+                
+                  <li><a href="/bio/#overview">Overview</a></li>
+                
+                  <li><a href="/bio/#influences">Key Influences</a></li>
+                
+                  <li><a href="/bio/#values">Values</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/volumes/">Volumes</a>
+            
+              <ul>
+                
+                  <li><a href="/volumes/volume1/">Volume 1</a></li>
+                
+                  <li><a href="/volumes/volume2/">Volume 2</a></li>
+                
+                  <li><a href="/volumes/volume3/">Volume 3</a></li>
+                
+                  <li><a href="/volumes/volume4/">Volume 4</a></li>
+                
+                  <li><a href="/volumes/volume5/">Volume 5</a></li>
+                
+                  <li><a href="/volumes/volume6/">Volume 6</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/timeline/">Timeline</a>
+            
+          </li>
+        
+          <li>
+            <a href="/work/">Work</a>
+            
+          </li>
+        
+          <li>
+            <a href="/blog/">Blog</a>
+            
+          </li>
+        
+          <li>
+            <a href="/contact/">Contact</a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+  </aside>
+</header>
+
+<main class="site-content">
+  
+<article class="page-content">
+  <h1>Volume 3</h1>
+  <h2>Lifeboat, Xedex, and the Transition to Techland</h2>
+<p>I was first introduced to Lifeboat Associates as a customer. I had been buying software for my business when I received a call from Tony Gold, who offered me a job. My first assignment was to initiate <em>Lifelines</em>, a monthly newsletter. I became its editor, wrote monthly editorials, and was also put in charge of bringing in new software and managing our software catalog — including negotiating software royalty contracts and interfacing with numerous software developers.</p>
+<p>Lifeboat was a hub of early microcomputer software distribution, and I had extensive interaction with developers from Micro Focus, TeaMaker, and others. I made several trips to Austin, Texas, and developed a strong relationship with the Balcones brothers, who were behind several of the early productivity software packages. During my time there, I also helped Ford Motor Company develop a PC strategy and presented it to upper management at the Renaissance Center in Detroit. I was deeply involved in the emerging personal computer ecosystem, meeting many people who would later become famous — including Bill Gates, with whom I had numerous conversations.</p>
+<p>I also played a role in the birth of <em>PC Magazine</em>. I was present at the meeting with David Bunnell that led to its launch.</p>
+<p>Through my relationship with Neil Colvin and Mike Aaronson — Mike had previously developed the P-Mate text formatter — I suggested that Phoenix Technologies should focus on third-party BIOSes, which became a crucial part of the PC clone revolution. On a trip to an Intel developer conference with Neil, we visited Microsoft’s still-under-construction campus and were given a personal tour by Bill Gates himself.</p>
+<p>In 1983, I left Lifeboat to form <em>Xedex</em> with an outside investor. Roland Joffe, then Lifeboat's head of marketing, joined me, along with his assistant Rebecka and Bob, who had been Lifeboat’s BIOS engineer. Roland hired Burson-Marsteller, one of the top PR firms in the country, and set up our offices in the Burlington House on Sixth Avenue with views of Central Park. Bob established a hardware lab in Suffern, New York, to manufacture our products — including a board called <strong>Baby Blue</strong>, designed to make the IBM PC compatible with CP/M software.</p>
+<p>Although Baby Blue achieved some early success and press attention, hardware issues with Bob's designs led to internal friction. I left Xedex, taking Roland and Rebecka with me to form <em>Techland Systems</em>, leaving Bob and the investor with Xedex and the Baby Blue product.</p>
+<h2>Sale to York Research and Becoming Public (1985)</h2>
+<p>Techland grew quickly. With Richard Clowes, an ex-IBM top salesperson, we grew the company to over 50 employees. We released communication-focused products, including <strong>Blue Lynx</strong>, which connected PCs to IBM mainframes using 3270 emulation and supported Twinax connections to IBM System/34 and /36 machines. Our software was sophisticated, and thanks to connections from Neil Colvin, we licensed core technologies from elite programmers like Reid Smith, Bob, and Ken Campbell — one of the top communications programmers in the country.</p>
+<p>Our client list grew rapidly, and in our first year, Techland did over $2 million in sales, with major contracts from New England Life, R.J. Reynolds, and the Federal Reserve Bank of San Francisco. We traveled the world — including several trips on the Concorde — to support Techland UK and build global business relationships.</p>
+<p>In 1985, <em>York Research Corporation</em> acquired Techland Systems, making us part of a publicly traded company. This marked a major milestone in my entrepreneurial journey and set the stage for the next phase of my career.</p>
+<h1>Volume 3: The Techland Years (1980–1985)</h1>
+<h2>Founding Techland Systems</h2>
+<p>After the initial challenges with Xedex and its Baby Blue product for the IBM PC, I, along with Roland Joffe and Rebecka, left to found <strong>Techland Systems</strong>, leaving Bob with the investor. We established our new company at <strong>Waterside Plaza</strong> on Manhattan’s East Side, overlooking the East River. Richard Clowes, a former top IBM salesperson, joined shortly afterward.</p>
+<p>Our first goal was to bridge the gap between personal computers and IBM mainframes. This began with the development of a powerful <strong>IBM 3270 emulator</strong> that enabled IBM PCs to connect directly to mainframe systems.</p>
+<p>This required not only an <strong>add-in card</strong> that could support synchronous modem protocols but also <strong>sophisticated software</strong>. Reid Smith and Bob, two elite communications programmers introduced by Neil Colvin, were instrumental in developing the early software stack. Later, we hired <strong>Ken Campbell</strong>, one of the top communications programmers in the country.</p>
+<h2>Blue Lynx and Twin Lynx</h2>
+<p>The <strong>Blue Lynx</strong> software suite enabled seamless communication between PCs and IBM mainframes. Later, we developed <strong>Twin Lynx</strong>, which extended this functionality to <strong>IBM System/34</strong> and <strong>System/36</strong> environments.</p>
+<p>These solutions received strong interest from financial institutions and enterprises. Among our largest early wins were:</p>
+<ul>
+<li><strong>New England Life</strong></li>
+<li><strong>RJ Reynolds</strong></li>
+<li><strong>Federal Reserve Bank of San Francisco</strong></li>
+</ul>
+<p>We achieved <strong>$2 million in revenue in our first year</strong> of operations.</p>
+<h2>Company Growth</h2>
+<p>Techland quickly grew to more than <strong>50 employees</strong>, with development and support teams spread across multiple time zones. I was often traveling — both for sales and technical meetings — across Europe and Asia.</p>
+<p>We opened <strong>Techland UK</strong>, which was established through multiple <strong>trips on the Concorde</strong> to London, where I helped set up European distribution. I also traveled extensively to <strong>China</strong>, <strong>Malaysia</strong>, and other Southeast Asian countries as we explored partnerships and OEM opportunities.</p>
+<p>Our office in New York remained our headquarters. The East River views were inspiring — a reminder of how far we had come from our humble beginnings soldering early Altair kits.</p>
+<h2>Press and Publicity</h2>
+<p>Our products received strong press coverage and were featured in trade publications. Here's a list of some of the media coverage and key product documents (available in the <code>images</code> folder):</p>
+<ul>
+<li><code>images/techland_brochure.jpg</code></li>
+<li><code>images/babyblue_article_clip.jpg</code></li>
+<li><code>images/bluelynx_screenshot.png</code></li>
+</ul>
+<p><em>Insert links in your static site generator as needed.</em></p>
+<hr>
+<p>This period marked a pivotal evolution in my career: from experimenting with audio and personal computing to running a globally expanding tech company with real influence in the enterprise computing space.</p>
+
+</article>
+
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Harris Landgarten. All rights reserved.</p>
+</footer>
+
+<script src="/assets/js/scripts.js" defer></script>
+</body>
+</html>

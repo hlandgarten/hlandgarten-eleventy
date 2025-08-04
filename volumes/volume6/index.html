@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Volume 6</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
+
+
+<header x-data="{ navOpen: false }" class="site-header">
+  <div class="container">
+    <div class="site-header-inner">
+      <div class="site-brand">
+        <a href="/">Harris Landgarten</a>
+      </div>
+
+      <!-- Hamburger (mobile only) -->
+      <button
+        class="hamburger"
+        @click="navOpen = !navOpen"
+        :aria-expanded="navOpen"
+        aria-label="Toggle menu"
+      >
+        &#9776;
+      </button>
+
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+  <ul>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/">Home</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/bio/">Bio</a>
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/bio/#overview">Overview</a></li>
+            
+              <li><a href="/bio/#influences">Key Influences</a></li>
+            
+              <li><a href="/bio/#values">Values</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/volumes/">Volumes</a>
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/volumes/volume1/">Volume 1</a></li>
+            
+              <li><a href="/volumes/volume2/">Volume 2</a></li>
+            
+              <li><a href="/volumes/volume3/">Volume 3</a></li>
+            
+              <li><a href="/volumes/volume4/">Volume 4</a></li>
+            
+              <li><a href="/volumes/volume5/">Volume 5</a></li>
+            
+              <li><a href="/volumes/volume6/">Volume 6</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/timeline/">Timeline</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/work/">Work</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/blog/">Blog</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/contact/">Contact</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    </div>
+  </div>
+
+  <!-- Backdrop for mobile -->
+  <div
+    class="mobile-drawer-backdrop"
+    x-show="navOpen"
+    x-transition.opacity
+    @click="navOpen = false"
+    x-cloak
+  ></div>
+
+  <!-- Mobile Drawer Menu -->
+  <aside
+    class="mobile-drawer"
+    x-show="navOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="translate-x-full"
+    x-transition:enter-end="translate-x-0"
+    x-transition:leave="transition ease-in duration-200"
+    x-transition:leave-start="translate-x-0"
+    x-transition:leave-end="translate-x-full"
+    @click.away="navOpen = false"
+    x-cloak
+  >
+    <nav class="mobile-nav">
+      <ul>
+        
+          <li>
+            <a href="/">Home</a>
+            
+          </li>
+        
+          <li>
+            <a href="/bio/">Bio</a>
+            
+              <ul>
+                
+                  <li><a href="/bio/#overview">Overview</a></li>
+                
+                  <li><a href="/bio/#influences">Key Influences</a></li>
+                
+                  <li><a href="/bio/#values">Values</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/volumes/">Volumes</a>
+            
+              <ul>
+                
+                  <li><a href="/volumes/volume1/">Volume 1</a></li>
+                
+                  <li><a href="/volumes/volume2/">Volume 2</a></li>
+                
+                  <li><a href="/volumes/volume3/">Volume 3</a></li>
+                
+                  <li><a href="/volumes/volume4/">Volume 4</a></li>
+                
+                  <li><a href="/volumes/volume5/">Volume 5</a></li>
+                
+                  <li><a href="/volumes/volume6/">Volume 6</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/timeline/">Timeline</a>
+            
+          </li>
+        
+          <li>
+            <a href="/work/">Work</a>
+            
+          </li>
+        
+          <li>
+            <a href="/blog/">Blog</a>
+            
+          </li>
+        
+          <li>
+            <a href="/contact/">Contact</a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+  </aside>
+</header>
+
+<main class="site-content">
+  
+<article class="page-content">
+  <h1>Volume 6</h1>
+  <h1>Volume 6: Reinvention and Missed Revolutions (1998–2004)</h1>
+<p>By the late 1990s, the world of technology was changing fast — and so was I.</p>
+<h2>Seeing the Future at CES</h2>
+<p>In 1998, I attended CES and stumbled upon a device that would reshape my perspective on how software and data could redefine user experience: <strong>TiVo</strong>. The moment I saw it, I understood what it meant — not just a digital video recorder, but a model for <strong>time-shifting</strong>, <strong>personalization</strong>, and ultimately <strong>control</strong> over media.</p>
+<p>That experience rewired my thinking. It wasn’t just the TiVo — it was the <strong>concept</strong> behind it. CES in those days was a treasure trove of paradigm shifts waiting to be discovered. TiVo was the spark that got me thinking seriously about how technology could empower people — something that would influence many of my decisions in the years to come.</p>
+<h2>Switching to Linux</h2>
+<p>Around the same time, I began exploring <strong>Linux</strong>. I started with <strong>Red Hat 7</strong>, which I installed from CD. That later became Red Hat 8 and 9, and I ran Linux as my primary operating system. But every major update required a clean install, and I found that frustrating. That led me to search for a <strong>rolling release distribution</strong> — and I discovered <strong>Gentoo</strong>, which I’ve used ever since.</p>
+<p>Linux wasn’t just a hobby. It became my <strong>primary computing platform</strong> and part of my <strong>philosophy</strong> — one rooted in <strong>control</strong>, <strong>transparency</strong>, and <strong>efficiency</strong>.</p>
+<h2>Embedded Linux and Samsung Thermostat Project</h2>
+<p>One project in particular stands out: <strong>a thermostat controller developed by Samsung</strong>. Eldon Ziegler designed the system, and I built the embedded Linux software to run it. This was well before the era of smart homes and IoT appliances. It was a clear example of our vision: <strong>efficient, dedicated systems</strong>, engineered for performance, powered by open-source technology.</p>
+<h2>Compusport: Biomechanics and Golf</h2>
+<p>As you know, golf has been a lifelong passion. So when I saw the <strong>Compusport</strong> technology, I had to be part of it. They had developed a system that could record your golf swing and <strong>superimpose it over a model of the perfect swing</strong>, created by biomechanical analysis from Olympic-caliber athletes.</p>
+<p>The results were extraordinary. Using my method of training — assigning the analytical side of my brain to observe while the subconscious executed the motion — I was able to quickly adapt my swing to match the model. Their coaches often said they’d never seen anyone with my combination of <strong>mental agility</strong> and <strong>physical flexibility</strong>.</p>
+<p>In fact, they would often say: <em>“Any pro on the tour would sell his soul for the flexibility you have.”</em> I attribute that to having started the game young and keeping at it my whole life.</p>
+<h2>Samsung CCTV Investment</h2>
+<p>By <strong>early summer 2004</strong>, things heated up with one of my more lucrative ventures — an investment in <strong>Samsung CCTV</strong>. After <strong>two months of negotiation</strong>, I sold my stock — and my father-in-law’s — for a total of <strong>$2 million</strong>.</p>
+<p>David Weiner, the friend who led the group that bought our shares, later told me, <em>“You’re the toughest negotiator I’ve ever dealt with.”</em> I’m not sure if that’s true, but it stuck with me.</p>
+<p>That deal was a major milestone — both financially and psychologically. It closed a chapter and opened the way for new ventures.</p>
+<h2>Hello Network: The Almost-YouTube</h2>
+<p>Around the same time, I was asked by a fellow investor in Samsung CCTV to evaluate a company called <strong>Hello Network</strong>, based in Las Vegas. They had a novel system for streaming <strong>video over the internet</strong>, based on <strong>Java</strong>.</p>
+<p>I spent <strong>two weeks</strong> on-site evaluating their team and technology. Technically, it was sound — though I wasn’t thrilled about the reliance on Java. Still, I saw the potential. A few weeks later, I arranged an investment meeting at <strong>Bear Stearns</strong> in New York, where Hello Network’s CEO, <strong>Craig</strong>, was to pitch.</p>
+<p>I warned Craig that talking about <em>everything</em> his tech could do — all 20 or 30 possible use cases — would make him sound scattered. I told him to <strong>focus</strong> on one or two killer applications.</p>
+<p>Unfortunately, he didn’t listen.</p>
+<p>At the meeting, Craig told Bear Stearns about <strong>everything</strong> — all the possible use cases, all the hypothetical markets. The meeting fell flat. It was a missed opportunity.</p>
+<p>And I always remembered that moment because <strong>Hello Network had real potential</strong>. They were very close to being <strong>what YouTube would eventually become</strong>.</p>
+<p>To make matters worse, I had worked hard to get them in front of Bear Stearns. That was their shot — and it was squandered. It taught me that <strong>vision must be paired with focus</strong>, or it all slips away.</p>
+<hr>
+<p>These years — from 1998 to 2004 — were about <strong>recognizing revolutions</strong>, adapting quickly, and knowing when to commit and when to walk away. I missed some things. I made others work. But the lessons I learned during this time continue to shape how I see innovation — and opportunity — today.</p>
+<h3>A Hole-in-One in Mobile, Alabama</h3>
+<p>As part of a Compusport meeting, I traveled to Mobile, Alabama, where we held our annual golf outing. On the morning I was set to return home — with a connection through Atlanta to meet Joann in Orlando — I decided to play the front nine of the Legislator Course at Capitol Hill.</p>
+<p>The fifth hole on that course featured an elevated tee, a picture-perfect green surrounded by trees, and a lake in front of it. The hole measured about 160 yards. When I struck my tee shot, I knew immediately that it was headed straight for the pin. Because of the glare of the sun, we couldn't actually see it land, but we heard a loud clank.</p>
+<p>When we got to the green, we found that my ball had gone directly into the hole on the fly — a hole-in-one, right into what we joked was the clown’s mouth. That meant I had to finish the round to make the hole-in-one official, which I did. However, I missed my scheduled flight and had to drive all the way to Atlanta to catch up with my travel plans.</p>
+<p>It was a perfect example of how golf, serendipity, and timing continued to intersect in my life.</p>
+
+</article>
+
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Harris Landgarten. All rights reserved.</p>
+</footer>
+
+<script src="/assets/js/scripts.js" defer></script>
+</body>
+</html>

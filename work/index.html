@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Work</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
+
+
+<header x-data="{ navOpen: false }" class="site-header">
+  <div class="container">
+    <div class="site-header-inner">
+      <div class="site-brand">
+        <a href="/">Harris Landgarten</a>
+      </div>
+
+      <!-- Hamburger (mobile only) -->
+      <button
+        class="hamburger"
+        @click="navOpen = !navOpen"
+        :aria-expanded="navOpen"
+        aria-label="Toggle menu"
+      >
+        &#9776;
+      </button>
+
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+  <ul>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/">Home</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/bio/">Bio</a>
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/bio/#overview">Overview</a></li>
+            
+              <li><a href="/bio/#influences">Key Influences</a></li>
+            
+              <li><a href="/bio/#values">Values</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/volumes/">Volumes</a>
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/volumes/volume1/">Volume 1</a></li>
+            
+              <li><a href="/volumes/volume2/">Volume 2</a></li>
+            
+              <li><a href="/volumes/volume3/">Volume 3</a></li>
+            
+              <li><a href="/volumes/volume4/">Volume 4</a></li>
+            
+              <li><a href="/volumes/volume5/">Volume 5</a></li>
+            
+              <li><a href="/volumes/volume6/">Volume 6</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/timeline/">Timeline</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/work/">Work</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/blog/">Blog</a>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/contact/">Contact</a>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    </div>
+  </div>
+
+  <!-- Backdrop for mobile -->
+  <div
+    class="mobile-drawer-backdrop"
+    x-show="navOpen"
+    x-transition.opacity
+    @click="navOpen = false"
+    x-cloak
+  ></div>
+
+  <!-- Mobile Drawer Menu -->
+  <aside
+    class="mobile-drawer"
+    x-show="navOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="translate-x-full"
+    x-transition:enter-end="translate-x-0"
+    x-transition:leave="transition ease-in duration-200"
+    x-transition:leave-start="translate-x-0"
+    x-transition:leave-end="translate-x-full"
+    @click.away="navOpen = false"
+    x-cloak
+  >
+    <nav class="mobile-nav">
+      <ul>
+        
+          <li>
+            <a href="/">Home</a>
+            
+          </li>
+        
+          <li>
+            <a href="/bio/">Bio</a>
+            
+              <ul>
+                
+                  <li><a href="/bio/#overview">Overview</a></li>
+                
+                  <li><a href="/bio/#influences">Key Influences</a></li>
+                
+                  <li><a href="/bio/#values">Values</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/volumes/">Volumes</a>
+            
+              <ul>
+                
+                  <li><a href="/volumes/volume1/">Volume 1</a></li>
+                
+                  <li><a href="/volumes/volume2/">Volume 2</a></li>
+                
+                  <li><a href="/volumes/volume3/">Volume 3</a></li>
+                
+                  <li><a href="/volumes/volume4/">Volume 4</a></li>
+                
+                  <li><a href="/volumes/volume5/">Volume 5</a></li>
+                
+                  <li><a href="/volumes/volume6/">Volume 6</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/timeline/">Timeline</a>
+            
+          </li>
+        
+          <li>
+            <a href="/work/">Work</a>
+            
+          </li>
+        
+          <li>
+            <a href="/blog/">Blog</a>
+            
+          </li>
+        
+          <li>
+            <a href="/contact/">Contact</a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+  </aside>
+</header>
+
+<main class="site-content">
+  
+<article class="page-content">
+  <h1>Work</h1>
+  <h2>Projects</h2>
+<p>This is my work overview.</p>
+
+</article>
+
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Harris Landgarten. All rights reserved.</p>
+</footer>
+
+<script src="/assets/js/scripts.js" defer></script>
+</body>
+</html>
