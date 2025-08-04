@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 ---
 
-## Projects
 
-This is my work overview.
+
+<ul>
+  {% for post in collections.post %}
+    <li>
+      <a href="{{ post.url | url }}">{{ post.data.title }}</a><br>
+      <small>{{ post.date | readableDate }}</small>
+    </li>
+  {% endfor %}
+</ul>
