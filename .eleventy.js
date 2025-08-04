@@ -48,7 +48,7 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    pathPrefix: "/hlandgarten-eleventy/", // 👈 this is the key
+    pathPrefix: "/", // 👈 this is the key
     dir: {
       input: "src",
       output: "dist",
