@@ -1,0 +1,24 @@
+/* Page layout styling for page.njk */
+
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  background: #ffffff;
+  color: #111;
+  font-size: 1.125rem;
+  line-height: 1.7;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+
+.page-content h1 {
+  font-size: 2.25rem;
+  text-align: center;
+  color: #007acc;
+  margin-bottom: 1rem;
+}
+
+.page-content p {
+  margin-bottom: 1.5rem;
+}

@@ -1,4 +1,10 @@
 /* General Layout */
+main.site-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
@@ -37,6 +43,10 @@ body {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.2rem;
+}
+
+.page-content {
+  width: 70% ;
 }
 
 /* Desktop Navigation */
