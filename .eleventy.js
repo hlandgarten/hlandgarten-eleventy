@@ -3,7 +3,8 @@ const { DateTime } = require("luxon");
 module.exports = function(eleventyConfig) {
   // 1. Passthrough for assets (images, CSS, JS, etc.)
   eleventyConfig.addPassthroughCopy("assets");
- 
+  eleventyConfig.addPassthroughCopy("CNAME");
+
   // Add a 'limit' filter to Nunjucks (and Liquid too)
   eleventyConfig.addFilter("limit", function(arr, limit) {
     if (!Array.isArray(arr)) return [];
