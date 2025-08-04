@@ -17,8 +17,28 @@ module.exports = function(eleventyConfig) {
   });
 
   // 3. Optional: readable date filter
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("LLLL d, yyyy");
+  const { DateTime } = require("luxon");
+
+    eleventyConfig.addFilter("date", (value, format = "LLL dd, yyyy") => {
+    return DateTime.fromJSDate(value).toFormat(format);
+  });
+
+  eleventyConfig.addFilter("readableDate", (value, format = "LLL dd, yyyy") => {
+    return DateTime.fromJSDate(value).toFormat(format);
+  });
+    // Add a filter for date formatting
+  eleventyConfig.addFilter("date", (value, format = "yyyy") => {
+    let dt;
+
+    if (value === "now") {
+      dt = DateTime.now();
+    } else if (value instanceof Date) {
+      dt = DateTime.fromJSDate(value);
+    } else if (typeof value === "string") {
+      dt = DateTime.fromISO(value);
+    }
+
+    return dt && dt.isValid ? dt.toFormat(format) : "Invalid Date";
   });
 
   // 4. Optional: truncate filter for excerpts

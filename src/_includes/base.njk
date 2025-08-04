@@ -5,124 +5,108 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ title or "Harris Landgarten" }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | url }}">
-
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 </head>
-<body>
-
-<!-- TOP BAR (dark) -->
-<div class="top-bar">
-  <div class="logo"><a href="/">Harris Landgarten</a></div>
-</div>
-
-<!-- DEBUG: Alpine State Viewer -->
-<div 
-  x-data="{ navOpen: false }" 
-  x-init="$watch('navOpen', value => $refs.debug.textContent = 'navOpen = ' + value)" 
-  style="position: fixed; bottom: 1rem; left: 1rem; background: #333; color: #fff; padding: 0.5rem; font-size: 0.9rem; z-index: 1000;"
->
-  <span x-ref="debug">navOpen = false</span>
-</div>
+<body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
 
 
-<!-- NAV BAR (light) with Alpine dropdowns -->
-<!-- Mobile + Desktop Alpine Menu -->
-<nav 
-  x-data="{ navOpen: false }" 
-  class="site-nav" 
-  role="navigation" 
-  aria-label="Main menu"
->
-  <!-- Toggle button for mobile -->
-  <button 
-    @click="navOpen = !navOpen" 
-    class="nav-toggle" 
-    aria-label="Toggle menu"
-  >☰</button>
+<header x-data="{ navOpen: false }" class="site-header">
+  <div class="container">
+    <div class="site-header-inner">
+      <div class="site-brand">
+        <a href="/">Harris Landgarten</a>
+      </div>
 
-  <!-- Menu list -->
-  <ul :class="{ 'open': navOpen }" class="nav-menu">
-    <template x-for="item in window.navigation" :key="item.url">
-      <li x-data="{ subOpen: false }" class="nav-item" 
-          :class="{ 'has-sub': item.submenu }"
-          @mouseenter="item.submenu && (subOpen = true)" 
-          @mouseleave="item.submenu && (subOpen = false)">
-        
-        <a 
-          :href="item.url" 
-          @click.prevent="item.submenu ? subOpen = !subOpen : window.location = item.url" 
-          x-text="item.title"
-        ></a>
+      <!-- Hamburger (mobile only) -->
+      <button
+        class="hamburger"
+        @click="navOpen = !navOpen"
+        :aria-expanded="navOpen"
+        aria-label="Toggle menu"
+      >
+        &#9776;
+      </button>
 
-        <template x-if="item.submenu">
-          <ul x-show="subOpen" class="sub-menu" x-transition>
-            <template x-for="sub in item.submenu" :key="sub.url">
-              <li><a :href="sub.url" x-text="sub.title"></a></li>
-            </template>
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+  <ul>
+    {% for item in navigation %}
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="{{ item.url | url }}">{{ item.title }}</a>
+        {% if item.submenu %}
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            {% for sub in item.submenu %}
+              <li><a href="{{ sub.url | url }}">{{ sub.title }}</a></li>
+            {% endfor %}
           </ul>
-        </template>
+        {% endif %}
       </li>
-    </template>
+    {% endfor %}
   </ul>
 </nav>
 
+    </div>
+  </div>
 
   <!-- Backdrop for mobile -->
-  <div 
-    class="nav-backdrop" 
-    @click="navOpen = false" 
-    :class="{ 'open': navOpen }"
+  <div
+    class="mobile-drawer-backdrop"
+    x-show="navOpen"
+    x-transition.opacity
+    @click="navOpen = false"
+    x-cloak
   ></div>
+
+  <!-- Mobile Drawer Menu -->
+  <aside
+    class="mobile-drawer"
+    x-show="navOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="translate-x-full"
+    x-transition:enter-end="translate-x-0"
+    x-transition:leave="transition ease-in duration-200"
+    x-transition:leave-start="translate-x-0"
+    x-transition:leave-end="translate-x-full"
+    @click.away="navOpen = false"
+    x-cloak
+  >
+    <nav class="mobile-nav">
+      <ul>
+        {% for item in navigation %}
+          <li>
+            <a href="{{ item.url | url }}">{{ item.title }}</a>
+            {% if item.submenu %}
+              <ul>
+                {% for sub in item.submenu %}
+                  <li><a href="{{ sub.url | url }}">{{ sub.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </aside>
 </header>
 
-<script>
-  // Dynamically expose Eleventy's pathPrefix (if any)
-  const base = '{{ "/" | url }}'.replace(/\/$/, '');
-
-  // Navigation config with dynamic URLs
-  window.navigation = [
-    {
-      title: "Home", url: base + "/"
-    },
-    {
-      title: "Bio", url: base + "/bio/",
-      submenu: [
-        { title: "Overview", url: base + "/bio/#overview" },
-        { title: "Key Influences", url: base + "/bio/#influences" },
-        { title: "Values", url: base + "/bio/#values" }
-      ]
-    },
-    {
-      title: "Volumes", url: base + "/volumes/",
-      submenu: [
-        { title: "Volume 1", url: base + "/volumes/volume1/" },
-        { title: "Volume 2", url: base + "/volumes/volume2/" },
-        { title: "Volume 3", url: base + "/volumes/volume3/" },
-        { title: "Volume 4", url: base + "/volumes/volume4/" },
-        { title: "Volume 5", url: base + "/volumes/volume5/" },
-        { title: "Volume 6", url: base + "/volumes/volume6/" }
-      ]
-    },
-    { title: "Timeline", url: base + "/timeline/" },
-    { title: "Work", url: base + "/work/" },
-    { title: "Blog", url: base + "/blog/" },
-    { title: "Contact", url: base + "/contact/" }
-  ];
-</script>
-
-
-
-
-<main>
-  {{ content | safe }}
+<main class="site-content">
+  {% block content %}{% endblock %}
 </main>
 
 <footer class="site-footer">
-  <p>&copy; 2025 Harris Landgarten</p>
+  <p>&copy; {{ "now" | date("yyyy") }} Harris Landgarten. All rights reserved.</p>
 </footer>
 
-<script src="{{ '/assets/js/scripts.js' | url }}"></script>
-<script src="https://unpkg.com/alpinejs@3.x/dist/cdn.min.js" defer></script>
-
+<script src="{{ '/assets/js/scripts.js' | url }}" defer></script>
 </body>
 </html>
-
