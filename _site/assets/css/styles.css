@@ -318,12 +318,4 @@ body {
   color: #666;
   margin-top: 0.5rem;
 }
-img {
-  transition: transform 0.2s ease;
-}
-
-img:hover {
-  transform: scale(1.02);
-}
-
 

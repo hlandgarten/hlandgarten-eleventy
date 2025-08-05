@@ -10,23 +10,35 @@ permalink: /volumes/volume1/
 I was born on **November 23, 1951**, and grew up in a warm, tight-knit household in Flushing, Queens. From an early age, I experienced the closeness of family dinners, the daily visit from the milkman who left bottles in our front milk box, and the vegetable truck that rang its bell twice a week as it rolled down the street. It was a different era, where ingredients came to the doorstep. To get meat, you went to the butcher. For fish, to the fish store. Supermarkets hadn’t yet become widespread.
 
 My parents loved to play games. My mother played Mahjong weekly with her friends, and my parents hosted poker games both at home and at others’ homes. But the most formative were the nightly games we played in the kitchen — Pinochle and Cribbage. Both games require calculation, memory, and strategy. These nightly sessions trained my mind early and helped shape my future approach to logic and problem-solving.
+<figure style="text-align: center;">
+  <img src="/assets/images/1950s-tv.png" alt="A 1950s television set in a wooden cabinet" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <figcaption>A typical 13-inch black-and-white television housed in a large wooden cabinet, similar to the one we had.</figcaption>
+</figure>
+
 
 Our first television arrived shortly after — a huge wooden cabinet housing a small 13-inch black-and-white screen. I was captivated by westerns: *Hopalong Cassidy*, *The Rifleman*, and *The Life and Legend of Wyatt Earp*. That obsession shaped my 4th birthday party, which included a toy gun belt with greenie stick-um caps, a six-shooter, and an air rifle that made a loud bang when cocked. I loved firing it inside the house — much to my mother’s annoyance. Six months later, it disappeared. I never had another birthday party as a child.
 
 As a young child, I went through every common illness of the era — measles, mumps, chickenpox, German measles, and even jumbo hives — which eventually led to the removal of my tonsils when I was four. The one thing I still remember vividly is the metallic taste of the strainer they forced into my mouth during recovery.
 
-My grandfather was a partner in a plumbing supply company called **Sanitary Dash**, and both my father and his identical twin brother Gerald worked there after returning from World War II. Our two families lived on opposite corners of the same block, and I regularly played with my cousins. Eventually, Sanitary Dash decided to move the company to Worcester, Massachusetts. My uncle moved with them, but my parents chose to stay in New York. That decision split our family in a permanent way.
+My grandfather was a partner in a plumbing supply company called **Sanitary Dash**, and both my father and his paternal twin brother Gerald worked there after returning from World War II. Our two families lived on opposite corners of the same block, and I regularly played with my cousins. Eventually, Sanitary Dash decided to move the company to Worcester, Massachusetts. My uncle moved with them, but my parents chose to stay in New York. That decision split our family in a permanent way.
 
-As part of his exit agreement from Sanitary Dash, my father had to help the company set up its new Worcester factory — which meant traveling every weekend for months. His absence from home during this period had a noticeable impact on me as a child.
+After selling Sanitary Dash, my father set out to build something truly his own: Ace Brass MFG Corp, located at 999 Metropolitan Avenue in Brooklyn. To launch the business, he borrowed $40,000 from my Uncle Harry, who was married to my Aunt Judy. With that seed capital, he leased a modest industrial space and equipped it with the machinery necessary to manufacture brass plumbing fittings — the kind you’d find beneath nearly every kitchen or bathroom sink: tailpieces, J-bends, slip joints, flanges, and coupling nuts. These parts weren’t cast — they were fabricated from long lengths of thin-wall brass tubing, which were cut, bent, threaded, and polished entirely in-house.
 
-One of my earliest and most vivid sensory memories came when I was around **six years old**, when my family took me to a restaurant called the **Golden Falcon**. It was my first time eating in a real restaurant. I remember being dressed up, sitting at a table with linen napkins, and having waiters serve us. The sense of formality, the unique smells, and the taste of food I’d never had before — it left a lasting impression. That moment marked the beginning of my fascination with fine dining and a sense of occasion.
+The work was more delicate than it might sound. One of the most critical machines on the floor was the bending machine — a large, precise piece of equipment that had to curve the thin-walled brass tubing just right. Bend it too fast or at the wrong angle, and the tubing would crimp, fold, or even fracture. Clean, functional curves demanded not just the right machinery, but a careful operator with a feel for the material. Alongside the bender were cutting saws, threaders, drill presses, and polishing stations, all of which required daily adjustment and constant attention to detail.
+
+While he was setting up Ace Brass during the week, my father was still bound by his exit agreement with Sanitary Dash, which required him to spend every weekend in Worcester, Massachusetts, helping them set up their new factory. So for months, he worked double time — building his new business while honoring commitments to the old one. As a child, I didn’t yet grasp the business complexity of it all, but I keenly felt his absence. Weekends were quieter, and the missing presence of a father was something I couldn’t name — but always noticed. Only years later, when I had to run Ace Brass myself during a break from college, would I come to fully appreciate the complexity, pressure, and craftsmanship he managed to balance in that pivotal chapter of his life — and ours.
+
+One of my earliest and most vivid sensory memories came when I was around five years old, when my family flew to Miami on a plane known as the Golden Falcon — a large, elegant propeller-driven aircraft that Delta Airlines promoted heavily in the 1950s. This was no ordinary flight; the Golden Falcon was famous for its polished service and sense of glamour, and it was my first time ever on an airplane. We traveled with a few members of my mother’s side of the family — some of my aunts may have joined us — and while I don’t remember many specifics about the flight itself, I do remember the feeling of excitement, of being part of something special and grown-up.
+<figure class="photo-block">
+  <img src="/assets/images/golden-falcon.png" alt="Golden Falcon propeller aircraft at an airport gate in the 1950s" class="responsive-img" />
+  <figcaption>The Golden Falcon – A famous Delta propeller aircraft of the 1950s. My first airplane ride was on one of these.</figcaption>
+</figure>
+
+
+What I recall most clearly, though, came after we landed. At the hotel in Miami, I discovered a pinball machine in the lobby, and I was instantly captivated. The flashing lights, the clatter of the bumpers, the spring-loaded launch — I remember standing there, mesmerized, as the adults checked in and talked around me. That machine left a bigger impression on me than the hotel room or even the ocean. It was a moment of discovery, a blend of sensory overload and independence, and it marked the beginning of my lifelong curiosity about how things work — and a taste for environments where something exciting was always just around the corner.
+
 
 In 1958, my younger brother was born. To prepare us, my parents let my sister and me pick out presents that we would receive when he came home. I chose a satellite launcher; she chose a toy typewriter.
-
-A few years later, when I was around **10 to 12**, my parents took me to **Freedomland USA**, a theme park in the Bronx that was essentially the East Coast’s answer to Disneyland. It brought all the cowboy shows I loved to life. I remember watching re-enactments of shootouts, seeing stagecoaches and horses, and immersing myself in the wild west fantasy world I’d only seen on television. For a child who adored *Hopalong Cassidy* and *The Rifleman*, it was a magical place.
-
-
-
 
 Occasionally, my parents dropped my sister and me off at the movies while they ran errands. One such trip exposed me to *The 7th Voyage of Sinbad*, which terrified me. The cyclops and the dancing skeleton gave me nightmares for months. I couldn’t sleep without hanging my gun belt on the bedpost for protection.
 
@@ -42,6 +54,13 @@ Like many boys of that era, I sometimes got into fights. One stands out. A boy n
 I have little memory of school in Flushing. I attended **PS164** and I don't remember any friends from school, but did have several good friends in the neighborhood. That changed when we moved to **Douglaston**, Queens, in 1961, and I started fifth grade at a new school. Around this time, I started building **Heathkits**: digital clocks, radios, and even a digital radio receiver. My parents also got me an electronics breadboarding system. I taught myself how to use transistors and integrated circuits and later learned how to **program PROMs** — long before flash memory existed, firmware updates meant reprogramming these chips by hand.
 
 A few years later, when I was around **10 to 12**, my parents took me to **Freedomland USA**, a theme park in the Bronx that was essentially the East Coast’s answer to Disneyland. It brought all the cowboy shows I loved to life. I remember watching re-enactments of shootouts, seeing stagecoaches and horses, and immersing myself in the wild west fantasy world I’d only seen on television. For a child who adored *Hopalong Cassidy* and *The Rifleman*, it was a magical place.
+
+### Freedomland U.S.A.
+
+A magical theme park experience in the Bronx with staged cowboy shootouts, simulated fires, and a haunted house called Casa Loco.
+
+[Find out more →](/stories/freedomland/)
+
 
 By sixth grade, I was accepted into a **two-year SP (Special Progress) program**, allowing me to complete three years of schooling in two. The following year, I took the **Iowa Test**, a standardized assessment that oddly placed me in **advanced English** but not math, despite my deep love for math. This anomaly likely had to do with my habit of overanalyzing multiple-choice questions — something I later learned was a common trait among thoughtful students. Years later, I would study with **Dr. Banesh Hoffmann**, a collaborator of Einstein and critic of multiple-choice testing. He said students like me would get stuck trying to decide which of several flawed answers the test writer *intended* to be correct.
 

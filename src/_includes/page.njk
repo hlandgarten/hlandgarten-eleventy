@@ -1,7 +1,9 @@
 {% extends "base.njk" %}
 
-<link rel="stylesheet" href="{{ '/assets/css/page.css' | url }}">
-
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ '/assets/css/page.css' | url }}">
+{% endblock %}
 
 {% block content %}
 <article class="page-content">
