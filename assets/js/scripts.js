@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     updateTagline();
-    setInterval(updateTagline, 5000);
+    setInterval(updateTagline, 10000);
   }
 
   // Expand images on click (lightbox)
