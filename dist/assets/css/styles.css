@@ -300,3 +300,30 @@ body {
   color: #00bfff;
   border-bottom: 2px solid #00bfff;
 }
+.photo-block {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.photo-block img.responsive-img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.photo-block figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+img {
+  transition: transform 0.2s ease;
+}
+
+img:hover {
+  transform: scale(1.02);
+}
+
+

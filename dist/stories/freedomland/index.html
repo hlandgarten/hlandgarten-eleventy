@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Freedomland U.S.A.</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
+
+
+<header class="site-header" x-data="{ navOpen: false }">
+  <div class="container">
+    <!-- Logo on top -->
+    <div class="site-logo-wrapper">
+      <a href="/" class="logo-link">
+        <img src="/assets/images/logo-hbl.png" alt="HBL Logo" class="logo-large" />
+      </a>
+    </div>
+
+      <!-- Hamburger (mobile only) -->
+      <button
+        class="hamburger"
+        @click="navOpen = !navOpen"
+        :aria-expanded="navOpen"
+        aria-label="Toggle menu"
+      >
+        &#9776;
+      </button>
+
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+  <ul>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/" class="">Home</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/bio/" class="">Bio</a>
+
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/bio/#overview">Overview</a></li>
+            
+              <li><a href="/bio/#influences">Key Influences</a></li>
+            
+              <li><a href="/bio/#values">Values</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/volumes/" class="">Volumes</a>
+
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/volumes/volume1/">Volume 1</a></li>
+            
+              <li><a href="/volumes/volume2/">Volume 2</a></li>
+            
+              <li><a href="/volumes/volume3/">Volume 3</a></li>
+            
+              <li><a href="/volumes/volume4/">Volume 4</a></li>
+            
+              <li><a href="/volumes/volume5/">Volume 5</a></li>
+            
+              <li><a href="/volumes/volume6/">Volume 6</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/timeline/" class="">Timeline</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/work/" class="">Work</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/blog/" class="">Blog</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/contact/" class="">Contact</a>
+
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    </div>
+  </div>
+
+  <!-- Backdrop for mobile -->
+  <div
+    class="mobile-drawer-backdrop"
+    x-show="navOpen"
+    x-transition.opacity
+    @click="navOpen = false"
+    x-cloak
+  ></div>
+
+  <!-- Mobile Drawer Menu -->
+  <aside
+    class="mobile-drawer"
+    x-show="navOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="translate-x-full"
+    x-transition:enter-end="translate-x-0"
+    x-transition:leave="transition ease-in duration-200"
+    x-transition:leave-start="translate-x-0"
+    x-transition:leave-end="translate-x-full"
+    @click.away="navOpen = false"
+    x-cloak
+  >
+    <nav class="mobile-nav">
+      <ul>
+        
+          <li>
+            <a href="/">Home</a>
+            
+          </li>
+        
+          <li>
+            <a href="/bio/">Bio</a>
+            
+              <ul>
+                
+                  <li><a href="/bio/#overview">Overview</a></li>
+                
+                  <li><a href="/bio/#influences">Key Influences</a></li>
+                
+                  <li><a href="/bio/#values">Values</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/volumes/">Volumes</a>
+            
+              <ul>
+                
+                  <li><a href="/volumes/volume1/">Volume 1</a></li>
+                
+                  <li><a href="/volumes/volume2/">Volume 2</a></li>
+                
+                  <li><a href="/volumes/volume3/">Volume 3</a></li>
+                
+                  <li><a href="/volumes/volume4/">Volume 4</a></li>
+                
+                  <li><a href="/volumes/volume5/">Volume 5</a></li>
+                
+                  <li><a href="/volumes/volume6/">Volume 6</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/timeline/">Timeline</a>
+            
+          </li>
+        
+          <li>
+            <a href="/work/">Work</a>
+            
+          </li>
+        
+          <li>
+            <a href="/blog/">Blog</a>
+            
+          </li>
+        
+          <li>
+            <a href="/contact/">Contact</a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+  </aside>
+</header>
+
+<main class="site-content">
+  
+<article class="page-content">
+  <h1>Freedomland U.S.A.</h1>
+  <section class="hero">
+  <img src="/assets/images/freedomland-themed-overview.png" alt="Freedomland U.S.A. Illustration Banner" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 2rem;" />
+</section>
+<h1>Freedomland U.S.A.</h1>
+<p>One of the most magical places I ever visited as a child was <strong>Freedomland U.S.A.</strong>, a sprawling theme park in the Bronx that opened in 1960 and was unlike anything I had ever seen.</p>
+<p>When you arrived and parked, you didn’t just walk into an amusement park — you stepped back in <em>time</em>, entering through <strong>Little Old New York</strong>, styled after the 1890s. The streets were alive with <strong>Model T cars</strong>, <strong>horse-drawn trolleys</strong>, and actors in period clothing. I remember shopfronts selling old-time goods and costumed performers shouting political speeches and staging fake bank robberies. It was immersive before anyone used that word. I was a kid, but I felt like I had walked into a living movie.</p>
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;">
+  <figure style="flex: 1; min-width: 280px; text-align: center;">
+    <img src="/assets/images/freedomland-map.jpg" alt="Vintage map layout of Freedomland U.S.A." />
+    <figcaption>A map of Freedomland, laid out to resemble the continental United States.</figcaption>
+  </figure>
+  <figure style="flex: 1; min-width: 280px; text-align: center;">
+    <img src="/assets/images/freedomland-old-nyc.jpg" alt="Street scene from Little Old New York at Freedomland" />
+    <figcaption>Little Old New York: Model T cars, trolleys, and staged political rallies from the 1890s.</figcaption>
+  </figure>
+</div>
+<p>From the Old New York train station, you could board an authentic-looking train that looped through the park and dropped you at any of the themed areas — each one immersive in its own way.</p>
+<h3>Themed Areas and Experiences</h3>
+<h4>Old Chicago (1871)</h4>
+<p>Every 20 minutes, the Great Chicago Fire would &quot;break out,&quot; and kids like me could help put it out using hand pumps. We even got firefighter certificates! There was also a massive artificial lake that mimicked the Great Lakes.</p>
+<figure>
+  <img src="/assets/images/freedomland-chicago-fire.jpg" alt="Chicago Fire reenactment attraction" />
+  <figcaption>Old Chicago: A dramatic simulation of the Great Chicago Fire every 20 minutes.</figcaption>
+</figure>
+<h4>The Old Southwest (1890)</h4>
+<p>Cowboy shootouts in dusty towns. Actors fell from balconies after staged gunfights. The <strong>Casa Loco</strong> tilted house made you stumble like you were in a cartoon. It was exhilarating.</p>
+<figure>
+  <img src="/assets/images/freedomland-cowboy-town.jpg" alt="Cowboy gunfight show at Freedomland" />
+  <figcaption>The Old Southwest: Live cowboy stunt shows, mining rides, and Casa Loco.</figcaption>
+</figure>
+<h4>San Francisco (1906)</h4>
+<p>A dark ride simulated the 1906 earthquake. Chinatown was full of mystery and color. I remember lanterns glowing in the dark.</p>
+<h4>The Great Plains (1803–1900)</h4>
+<p>You could visit <strong>Fort Cavalry</strong>, <strong>Borden's Farm</strong>, and the <strong>Pony Express station</strong>. They had live farm animals and hay bales stacked up.</p>
+<h4>New Orleans</h4>
+<p>Pirates, Mardi Gras jazz, and a <strong>Crystal Maze</strong> mirror house that went on forever. They even had a simulated <strong>tornado ride</strong>.</p>
+<h4>Satellite City (The Future)</h4>
+<p>Rocket ships and moon landers! It was like walking through a sci-fi magazine from the barber shop.</p>
+<hr>
+<p>Though it only lasted from <strong>1960 to 1964</strong>, Freedomland made an impression that has lasted a lifetime. It wasn’t just a park. It was <em>storytelling you could walk through.</em></p>
+
+</article>
+
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Harris Landgarten. All rights reserved.</p>
+</footer>
+
+<script src="/assets/js/scripts.js" defer></script>
+
+<div id="lightbox" class="lightbox" onclick="this.style.display='none'">
+  <img id="lightbox-img" src="" alt="Expanded image">
+</div>
+
+</body>
+</html>
