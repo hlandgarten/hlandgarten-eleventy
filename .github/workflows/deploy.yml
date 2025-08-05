@@ -8,8 +8,12 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
     permissions:
-      contents: write
+      contents: read
       pages: write
       id-token: write
 
@@ -40,4 +44,5 @@ jobs:
         path: './dist'
 
     - name: Deploy to GitHub Pages
+      id: deployment
       uses: actions/deploy-pages@v4
