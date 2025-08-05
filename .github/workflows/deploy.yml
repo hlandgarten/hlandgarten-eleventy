@@ -1,4 +1,4 @@
-name: Deploy Eleventy to GitHub Pages
+name: Build and Deploy
 
 on:
   push:
@@ -7,27 +7,37 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
 
     steps:
-      - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+        cache: 'npm'
 
-      - name: Install dependencies
-        run: npm install
+    - name: Install dependencies
+      run: npm install
 
-      - name: Build with Eleventy
-        run: npx eleventy
+    - name: Build with Eleventy
+      run: npx eleventy
 
-      - name: Copy CNAME file
-        run: cp src/CNAME dist/CNAME
+    - name: Copy CNAME file
+      run: cp src/CNAME dist/CNAME
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          cname: harrislandgarten.com
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './dist'
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
