@@ -80,6 +80,9 @@ At age 12, my parents enrolled me in two weeks of **golf lessons**. I took to th
 
 But nothing had a deeper or more transformative effect than the **1964–65 World’s Fair**, which I attended multiple times between the ages of **13 and 15**. The **GE Carousel of Progress** wasn’t the only thing that captivated me. I was blown away by the **AT&T videophone**, which felt like pure science fiction at the time. I marveled at the **General Motors Futurama exhibit**, which envisioned future cities, and I spent a lot of time at the **IBM pavilion**, where computers and technology were on full display. All of this prefigured what was to come on television with the debut of *Star Trek* and reinforced my love of shows like *Mission: Impossible*, *The Outer Limits*, *Twilight Zone*, and *Get Smart*. These experiences opened my mind to the possibilities of science and technology in a way that would influence my path for years to come.
 
+[Read about my experience at the 1964–65 World’s Fair](/stories/1964-worlds-fair/)
+
+
 In 11th and 12th grades, I was on the **Bayside high school golf team**. We played against other NYC schools on courses like **Forest Park**, a Bronx course named **VAN CORTLANDT**, and even traveled to **LA TOURETTE** on **Staten Island**. Competing on the team gave me confidence and sharpened my skills.
 
 Another important thread from my high school years was my friendship with Alan Leifer. We were both passionate about mathematics, even though the school system didn’t recognize my aptitude due to flawed placement tests. Because I wasn’t allowed into advanced math classes, Alan and I began studying on our own. We explored advanced algebra and early calculus concepts together in our spare time — solving problems, working through textbooks, and pushing ourselves far beyond what was being taught in class. This was a powerful expression of inner directiveness — we weren’t doing it for grades or approval, just for the love of it.

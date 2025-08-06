@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The 1964–65 World’s Fair: A Great Big Beautiful Tomorrow</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+</head>
+<body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
+
+
+<header class="site-header" x-data="{ navOpen: false }">
+  <div class="container">
+    <!-- Logo on top -->
+    <div class="site-logo-wrapper">
+      <a href="/" class="logo-link">
+        <img src="/assets/images/logo-hbl.png" alt="HBL Logo" class="logo-large" />
+      </a>
+    </div>
+
+      <!-- Hamburger (mobile only) -->
+      <button
+        class="hamburger"
+        @click="navOpen = !navOpen"
+        :aria-expanded="navOpen"
+        aria-label="Toggle menu"
+      >
+        &#9776;
+      </button>
+
+      <!-- Desktop Navigation -->
+      <nav class="desktop-nav">
+  <ul>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/" class="">Home</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/bio/" class="">Bio</a>
+
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/bio/#overview">Overview</a></li>
+            
+              <li><a href="/bio/#influences">Key Influences</a></li>
+            
+              <li><a href="/bio/#values">Values</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/volumes/" class="">Volumes</a>
+
+        
+          <ul
+            class="sub-menu"
+            x-show="subOpen"
+            x-transition
+            x-cloak
+          >
+            
+              <li><a href="/volumes/volume1/">Volume 1</a></li>
+            
+              <li><a href="/volumes/volume2/">Volume 2</a></li>
+            
+              <li><a href="/volumes/volume3/">Volume 3</a></li>
+            
+              <li><a href="/volumes/volume4/">Volume 4</a></li>
+            
+              <li><a href="/volumes/volume5/">Volume 5</a></li>
+            
+              <li><a href="/volumes/volume6/">Volume 6</a></li>
+            
+          </ul>
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/timeline/" class="">Timeline</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/work/" class="">Work</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/blog/" class="">Blog</a>
+
+        
+      </li>
+    
+      <li
+        class="nav-item"
+        x-data="{ subOpen: false }"
+        @mouseenter="subOpen = true"
+        @mouseleave="subOpen = false"
+      >
+        <a href="/contact/" class="">Contact</a>
+
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    </div>
+  </div>
+
+  <!-- Backdrop for mobile -->
+  <div
+    class="mobile-drawer-backdrop"
+    x-show="navOpen"
+    x-transition.opacity
+    @click="navOpen = false"
+    x-cloak
+  ></div>
+
+  <!-- Mobile Drawer Menu -->
+  <aside
+    class="mobile-drawer"
+    x-show="navOpen"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="translate-x-full"
+    x-transition:enter-end="translate-x-0"
+    x-transition:leave="transition ease-in duration-200"
+    x-transition:leave-start="translate-x-0"
+    x-transition:leave-end="translate-x-full"
+    @click.away="navOpen = false"
+    x-cloak
+  >
+    <nav class="mobile-nav">
+      <ul>
+        
+          <li>
+            <a href="/">Home</a>
+            
+          </li>
+        
+          <li>
+            <a href="/bio/">Bio</a>
+            
+              <ul>
+                
+                  <li><a href="/bio/#overview">Overview</a></li>
+                
+                  <li><a href="/bio/#influences">Key Influences</a></li>
+                
+                  <li><a href="/bio/#values">Values</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/volumes/">Volumes</a>
+            
+              <ul>
+                
+                  <li><a href="/volumes/volume1/">Volume 1</a></li>
+                
+                  <li><a href="/volumes/volume2/">Volume 2</a></li>
+                
+                  <li><a href="/volumes/volume3/">Volume 3</a></li>
+                
+                  <li><a href="/volumes/volume4/">Volume 4</a></li>
+                
+                  <li><a href="/volumes/volume5/">Volume 5</a></li>
+                
+                  <li><a href="/volumes/volume6/">Volume 6</a></li>
+                
+              </ul>
+            
+          </li>
+        
+          <li>
+            <a href="/timeline/">Timeline</a>
+            
+          </li>
+        
+          <li>
+            <a href="/work/">Work</a>
+            
+          </li>
+        
+          <li>
+            <a href="/blog/">Blog</a>
+            
+          </li>
+        
+          <li>
+            <a href="/contact/">Contact</a>
+            
+          </li>
+        
+      </ul>
+    </nav>
+  </aside>
+</header>
+
+<main class="site-content">
+  
+<article class="page-content">
+  <h1>The 1964–65 World’s Fair: A Great Big Beautiful Tomorrow</h1>
+  <h1>1964–65 World’s Fair: The Greatest Show on Earth</h1>
+<p>In the fall of 1963, my parents had planned to take me to see <em>It’s a Mad, Mad, Mad, Mad World</em> for my birthday. It had just opened at the Warner Cinerama Theatre in Times Square — a comedy spectacular shown on a giant curved screen with stars in every frame. But the day before my birthday, President Kennedy was assassinated. Theaters went dark. Everything stopped.</p>
+<p>I eventually got to see the movie, and later <em>How the West Was Won</em> — both in Cinerama — and both bursting with the kind of optimism and scale that would soon define the 1964–65 World’s Fair.</p>
+<h2>The Journey to Tomorrow — Rough Roads and High Expectations</h2>
+<p>By summer 1964, I was ready to experience the Fair. But getting there was another story. The <strong>Long Island Expressway</strong>, part of our regular route to Ace Brass and the official path to the Fair, was in terrible shape — full of cracked pavement, construction delays, and summer heat buckling the concrete. <strong>It felt like riding a stagecoach across the Old West.</strong></p>
+<h2>Unisphere</h2>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/unisphere.jpeg" alt="Unisphere at the 1964 World’s Fair" />
+  <figcaption>The 140-foot Unisphere: centerpiece of the 1964–65 World’s Fair.</figcaption>
+</figure>
+<h2>General Motors – Futurama II</h2>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/gm-exhibit.jpeg" alt="Futurama Ride interior" />
+  <figcaption>Futurama ride: visitors glided through model cities of the future.</figcaption>
+</figure>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/gm-futurama.jpeg" alt="Futurama Model Exhibit" />
+  <figcaption>Model dioramas showed underwater cities, lunar colonies, and automated highways.</figcaption>
+</figure>
+<h2>IBM Pavilion</h2>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/ibm.jpeg" alt="IBM Pavilion" />
+  <figcaption>The IBM Pavilion's iconic egg structure sat atop steel columns.</figcaption>
+</figure>
+<h2>GE Carousel of Progress (Progressland)</h2>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/ge.jpeg" alt="Carousel of Progress exterior" />
+  <figcaption>Progressland’s dome, home of GE’s Carousel of Progress developed by Disney.</figcaption>
+</figure>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/crowds.jpeg" alt="Progressland crowd" />
+  <figcaption>Crowds waited hours for a rotating tour of 20th-century American life.</figcaption>
+</figure>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/ge-construction.jpg" alt="Progressland under construction" />
+  <figcaption>Progressland under construction in early 1964, showing its massive truss design.</figcaption>
+</figure>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/early.jpeg" alt="Progressland poster" />
+  <figcaption>Promotional artwork for GE’s “Carousel of Progress.”</figcaption>
+</figure>
+<h3>Inside the Show</h3>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/int-1.jpeg" alt="Interior scene from Carousel of Progress" />
+  <figcaption>The final scene: a futuristic family celebrating Christmas with VR and appliances.</figcaption>
+</figure>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/int-2.jpg" alt="Animatronic family scene" />
+  <figcaption>Each act featured animatronic families living through technological change.</figcaption>
+</figure>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/int-3.jpg" alt="Audience view during rotation" />
+  <figcaption>The audience rotated around six theater stages in a seamless loop.</figcaption>
+</figure>
+<h2>Other Highlights</h2>
+<ul>
+<li><strong>AT&amp;T’s Videophone</strong>: A working demo of a future where you could see who you were talking to.</li>
+<li><strong>New York State Pavilion</strong>: Giant terrazzo floor map, elevator towers, and a UFO-like observation deck.</li>
+<li><strong>Westinghouse Time Capsule</strong>: A sealed message to the year 6939.</li>
+<li><strong>Hall of Science</strong>: A modernist showcase of atomic energy and hands-on learning.</li>
+</ul>
+<h2>A World in a Few Blocks</h2>
+<p>But the Fair wasn’t just a display of American innovation — it was a <strong>global village</strong>. Walking through the International Zone felt like taking a whirlwind tour of several countries in one afternoon.</p>
+<h3>Belgian Village &amp; Waffles</h3>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/belgian.jpeg" alt="Belgian Village square at Fair" />
+  <figcaption>The Belgian Village courtyard — cafes, waffle stands, shops, and folk performers.</figcaption>
+</figure>
+<p>Though I was there as a 12-year-old, my wife later shared one of her earliest memories — the <strong>Bel‑Gem / Brussels waffles</strong> at the Belgian Village, crisp and warm, served with fresh strawberries and whipped cream. They cost about $1 and became the fair’s most talked-about treat. The Village itself was modeled on old Flemish streets, complete with a cobblestone square, shops, a carousel, and folk dancers in traditional costume. :contentReference[oaicite:6]{index=6}</p>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/waffle.jpeg" alt="Belgian waffles stand at Belgian Village" />
+  <figcaption>Visitors lining up for Belgian waffles at the Belgian Village pavilion.</figcaption>
+</figure>
+<h3>Vatican Pavilion &amp; Michelangelo’s Sistine Chapel Ceiling</h3>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/vatican-entrance.jpg" alt="Vatican Pavilion exterior at 1964 World's Fair" />
+  <figcaption>The Vatican Pavilion, an elegant oval-shaped building topped by a cross.</figcaption>
+</figure>
+<p>Inside the <strong>Vatican Pavilion</strong>, millions stood in reverent silence as they were carried past <em>Michelangelo's Sistine Chapel Ceiling</em> on a moving walkway. It was the second‑most visited pavilion after GM and remains one of the Fair’s most powerful moments.</p>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/vatican-sistine.jpg" alt="Interior view of Michelangelo’s sistine ceiling at the Vatican Pavilion" />
+  <figcaption>Visitors were moved past Michelangelo’s "Sistine Ceiling" on a conveyor belt inside the Pavilion.</figcaption>
+</figure>
+<h3>Republic of China Pavilion</h3>
+<p>Nearby was the <strong>Republic of China Pavilion</strong>, a vivid red-and-gold structure modeled on an imperial palace and filled with silks, jade, and artifacts. :contentReference[oaicite:8]{index=8}</p>
+<figure style="flex: 1; min-width: 280px; text-align: center;">
+  <img src="/assets/images/china_pavilion.jpeg" alt="Republic of China Pavilion at the Fair" />
+  <figcaption>The Republic of China Pavilion, modeled after an imperial palace, showcased Chinese culture and artistry.</figcaption>
+</figure>
+<h3>Other Notable Pavilions</h3>
+<p>Other pavilions left their mark too:</p>
+<ul>
+<li>The <strong>Philippines Pavilion</strong>, shaped like a woven hat and surrounded by a moat, featured native dance, carvings, and tropical art.</li>
+<li>The <strong>African Pavilion</strong>, a cooperative effort among more than twenty nations, showcased modern art, film, and cultural exhibits in a non‑colonial, post‑independence context.</li>
+</ul>
+<p>It was the first time I came to understand that culture and the future were more than just gadgets — they were ideas, identities, and global stories. And even if I didn’t taste a waffle that day, those memories feel vivid through someone else’s spark.</p>
+<h2>A Legacy of Wonder</h2>
+<p>The Fair didn’t just show off gadgets — it offered <strong>a coherent, optimistic vision of the future</strong>. For a kid in love with science and imagination, it was life-shaping.</p>
+<p>It echoed the promise of <em>Star Trek</em>, <em>The Outer Limits</em>, and <em>Get Smart</em>. It validated every fantasy I had about technology making the world better.</p>
+<p>“Just like the Cinerama screen that opened my eyes, the Fair pulled back the curtain on what was possible — and left me wanting to build part of that future myself.”</p>
+<p>Even if the road to get there was bumpy, the 1964–65 World’s Fair made one thing clear: <strong>the future was already under construction — and I wanted to be part of building it.</strong></p>
+
+</article>
+
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2025 Harris Landgarten. All rights reserved.</p>
+</footer>
+
+<script src="/assets/js/scripts.js" defer></script>
+
+<div id="lightbox" class="lightbox" onclick="this.style.display='none'">
+  <img id="lightbox-img" src="" alt="Expanded image">
+</div>
+
+</body>
+</html>
