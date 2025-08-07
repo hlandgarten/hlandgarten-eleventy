@@ -1,0 +1,43 @@
+/* Story/article-specific styles */
+.story-content {
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+.story-content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.story-content figure {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.story-content figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+}
+/* Limit image size inside stories */
+.story-content img,
+main img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 6px;
+  cursor: zoom-in;
+}
+
+/* Optional: Style captions cleanly */
+figure {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}

@@ -4,8 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Work</title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  <link rel="stylesheet" href="/assets/css/site.css">
+  <link rel="stylesheet" href="/assets/css/base.css">
+  <link rel="stylesheet" href="/assets/css/page.css">
+  <link rel="stylesheet" href="/assets/css/story.css">
+  <link rel="stylesheet" href="/assets/css/legacy.css">
+
   <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 </head>
 <body x-data="{ navOpen: false, isMobile: window.innerWidth < 768 }" x-init="$watch('navOpen', () => { if (!isMobile) navOpen = false })">
@@ -16,7 +19,7 @@
     <!-- Logo on top -->
     <div class="site-logo-wrapper">
       <a href="/" class="logo-link">
-        <img src="/assets/images/logo-hbl.png" alt="HBL Logo" class="logo-large" />
+        <img src="/assets/images/logo-hbl.png" alt="HBL Logo" class="logo-large no-lightbox" />
       </a>
     </div>
 
@@ -267,3 +270,4 @@
 
 </body>
 </html>
+
