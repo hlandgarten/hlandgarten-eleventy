@@ -67,3 +67,5 @@ Rocket ships and moon landers! It was like walking through a sci-fi magazine fro
 
 Though it only lasted from **1960 to 1964**, Freedomland made an impression that has lasted a lifetime. It wasn’t just a park. It was _storytelling you could walk through._
 
+<a href="/volumes/volume1/#from-freedomland" class="btn">← Back to Volume 1</a>
+

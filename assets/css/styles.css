@@ -325,5 +325,26 @@ img {
 img:hover {
   transform: scale(1.02);
 }
+/* Global button style */
+a.btn {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  background-color: #0057b7;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: background-color 0.2s ease-in-out;
+}
+
+a.btn:hover {
+  background-color: #004699;
+}
+
+/* Hero-specific override if needed */
+.hero a.btn {
+  font-size: 1.25rem;
+  padding: 0.75em 1.5em;
+}
 
 
