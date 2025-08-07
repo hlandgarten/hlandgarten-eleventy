@@ -1,67 +1,56 @@
-/* Page layout styling for page.njk */
-
-.page-content {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem 1.5rem;
-  background: #ffffff;
-  color: #111;
-  font-size: 1.125rem;
-  line-height: 1.7;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-  border-radius: 8px;
-}
-
-.page-content h1 {
-  font-size: 2.25rem;
-  text-align: center;
-  color: #007acc;
-  margin-bottom: 1rem;
-}
-
-.page-content p {
-  margin-bottom: 1.5rem;
-}
-.photo-block {
-  text-align: center;
-  margin: 2rem auto;
-  max-width: 600px;
-}
-
-.photo-block img.responsive-img {
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.photo-block figcaption {
-  font-size: 0.9rem;
-  color: #666;
-  margin-top: 0.5rem;
-}
-
-.story-hero {
-  width: 100%;
-  max-height: 500px;
-  object-fit: cover;
-  margin-bottom: 2rem;
-  border-radius: 8px;
-}
-.lightbox {
-  display: none;
-  position: fixed;
-  z-index: 9999;
-  top: 0; left: 0;
-  width: 100vw; height: 100vh;
-  background-color: rgba(0,0,0,0.8);
-  justify-content: center;
+/* Page-specific layout including responsive header and nav */
+.site-header {
+  display: flex;
   align-items: center;
-  cursor: zoom-out;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-.lightbox img {
-  max-width: 90%;
-  max-height: 90%;
-  box-shadow: 0 0 20px rgba(255,255,255,0.2);
-  border-radius: 8px;
+
+.site-logo img {
+  max-height: 50px;
+  width: auto;
+}
+
+nav.site-nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  color: white;
+}
+
+/* Mobile styles */
+@media (max-width: 767px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  nav.site-nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  nav.site-nav.active {
+    display: flex;
+  }
+}
+
+/* Desktop styles */
+@media (min-width: 768px) {
+  .menu-toggle {
+    display: none !important;
+  }
+
+  nav.site-nav {
+    display: flex !important;
+    flex-direction: row;
+    align-items: center;
+  }
 }

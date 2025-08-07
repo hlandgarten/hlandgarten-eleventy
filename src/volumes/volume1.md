@@ -11,7 +11,7 @@ I was born on **November 23, 1951**, and grew up in a warm, tight-knit household
 
 My parents loved to play games. My mother played Mahjong weekly with her friends, and my parents hosted poker games both at home and at others’ homes. But the most formative were the nightly games we played in the kitchen — Pinochle and Cribbage. Both games require calculation, memory, and strategy. These nightly sessions trained my mind early and helped shape my future approach to logic and problem-solving.
 <figure style="text-align: center;">
-  <img src="/assets/images/1950s-tv.png" alt="A 1950s television set in a wooden cabinet" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/assets/images/1950s-tv.png" alt="A 1950s television set in a wooden cabinet" class="responsive-img" />
   <figcaption>A typical 13-inch black-and-white television housed in a large wooden cabinet, similar to the one we had.</figcaption>
 </figure>
 

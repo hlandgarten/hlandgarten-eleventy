@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Expand images on click (lightbox)
-  const images = document.querySelectorAll("img");
+  const images = document.querySelectorAll("img:not(.no-lightbox)");
   images.forEach(img => {
     img.style.cursor = "zoom-in";
     img.addEventListener("click", () => {
