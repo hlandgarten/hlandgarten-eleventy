@@ -346,5 +346,9 @@ a.btn:hover {
   font-size: 1.25rem;
   padding: 0.75em 1.5em;
 }
+/* Prevent anchor scroll from hiding under sticky header */
+a[id] {
+  scroll-margin-top: 250px; /* Adjust to your header height */
+}
 
 
