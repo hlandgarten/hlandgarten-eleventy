@@ -149,3 +149,6 @@ It echoed the promise of *Star Trek*, *The Outer Limits*, and *Get Smart*. It va
 “Just like the Cinerama screen that opened my eyes, the Fair pulled back the curtain on what was possible — and left me wanting to build part of that future myself.”
 
 Even if the road to get there was bumpy, the 1964–65 World’s Fair made one thing clear: **the future was already under construction — and I wanted to be part of building it.**
+
+<a href="/volumes/volume1/#from-worlds-fair" class="btn">← Back to Volume 1</a>
+
