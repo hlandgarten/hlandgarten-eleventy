@@ -48,15 +48,37 @@ Occasionally, my parents dropped my sister and me off at the movies while they r
 
 Around 7 years old, I learned to ride a bicycle. My father held me upright, walked alongside me, and eventually let go. That first moment of balancing on my own became symbolic — it gave me independence.
 
-When I was 7, I also began taking guitar lessons. I stayed with it for eight years and even performed *Malagueña* at a student concert. Later, I got a Guild electric guitar with an amplifier and tried starting a garage band in college. Though it never quite got off the ground, it connected me to music in a lasting way.
-
 When I was 6 or 7, I joined the **Cub Scouts** and found great pride in earning merit badges. But one project — carving a race car from a block of wood — led to a painful lesson. I mistakenly cut toward myself and sliced my thumb open. That left a visable scar.
 
 Like many boys of that era, I sometimes got into fights. One stands out. A boy named Jan, son of our Cub Scout leader, and I got into it. I won the first fight. A few weeks later, he retaliated — pushed me into a thorn bush and held me down for 15 minutes. That shook me. Afterward, I withdrew into books and spent an entire summer reading every one of the **Dr. Doolittle** novels — some as long as 900 pages.
 
+### Building Before the Circuits
+
+Before I started building **Heathkits**, I was already drawn to intricate projects. I built model battleships and aircraft carriers — carefully gluing together dozens of tiny parts, painting hull numbers, and applying decals with tweezers. I loved the precision, the patience it demanded, and the feeling of creating something complex from a box of parts. It was my first taste of building systems, long before the soldering iron replaced the hobby knife.
+
 ### Moving to Douglaston
 
 I have little memory of school in Flushing. I attended **PS164** and I don't remember any friends from school, but did have several good friends in the neighborhood. That changed when we moved to **Douglaston**, Queens, in 1961, and I started fifth grade at a new school. Around this time, I started building **Heathkits**: digital clocks, radios, and even a digital radio receiver. My parents also got me an electronics breadboarding system. I taught myself how to use transistors and integrated circuits and later learned how to **program PROMs** — long before flash memory existed, firmware updates meant reprogramming these chips by hand.
+
+### Soundtrack of a Generation
+
+I had a deep interest in rock and roll, especially the rise of bands like **The Beatles**, **The Rolling Stones**, and many of the other stars lighting up the charts in the 1960s. During high school, I would carefully record Cousin Brucie’s Top 100 countdown off the radio onto my Reel-to-Reel tape recorder, so I could replay all the songs on demand — no commercials, just music.
+
+My first real music system was something I built myself. The heart of it was a Heathkit stereo receiver that I assembled from a kit, wire by wire, capacitor by capacitor. I paired it with a set of JVC speakers, creating a sound system that, at the time, felt state-of-the-art. The fact that I had built it myself made every song sound even better.
+
+### Guitar Lessons
+
+Music wasn’t just something I listened to — it was something I played. I started taking guitar lessons at age seven, and I stuck with it for eight years. I even performed “Malagueña” at a student recital, one of the more challenging pieces I learned. I especially loved playing “I Want to Hold Your Hand” and “Michelle” — two Beatles songs that felt both accessible and emotionally powerful. Later on, I graduated to a Guild electric guitar and amplifier, and during college I even tried to start a garage band. It never quite took off, but the experience deepened my connection to music in a lasting and meaningful way.
+
+### Summer Beaches and Family Rituals
+
+When we lived in Flushing, my parents would rent a small bungalow in **Bal Harbour** every summer. Each day we’d head to the beach at **Reese Park**, spending hours by the water. My father would join us on weekends, and those days felt like a proper family escape from the city.
+
+After we moved to Douglaston, the routine shifted. My mother would take us to **Jones Beach**, always parking in Lot 9, which had the shortest walk to the water. We’d leave early — usually around 8 a.m. — and start back for home around 11. I eventually stopped joining those morning trips when I started playing golf on **Douglaston Golf Course** every day in summer.
+
+We were a very close family. We ate dinner together every night — always around the table in Flushing, and later at a nearby diner almost every evening in Douglaston. That kind of closeness shaped much of my early life, and it was a source of security and identity. But as I grew older, especially after starting college, I began to rebel. I needed space to define myself — to become more independent and start carving out a path of my own.
+
+Interestingly, all that forced exposure to the beach — day after day, year after year — left its mark. I’ve carried a slight dislike for the beach and the ocean for the rest of my life.
 
 ### Freedomland U.S.A.
 
@@ -84,6 +106,18 @@ Looking back, it’s clear that a fib to avoid class might have saved my life �
 
 At age 12, my parents enrolled me in two weeks of **golf lessons**. I took to the game quickly and began practicing regularly. I improved fast. I read **Jack Nicklaus’ books**, studied the swings of **Arnold Palmer** and **Gary Player**, and watched every pro golf broadcast I could. One of my father’s friends took me to the **Westchester Classic** every year. I noticed that **Nicklaus’ distance gave him an edge** on long courses, while players like **Al Geiberger**, who wasn’t as long but extremely consistent, could **win on tighter setups** like the PGA. This helped me understand that **different strategies succeed in different environments** — a concept I would carry into other parts of my life.
 
+### A Birthday, a Movie, and a Nation in Mourning
+
+In the fall of 1963, my parents had promised me a birthday treat I couldn’t stop thinking about: a trip to see It’s a **Mad, Mad, Mad, Mad World** at the Warner **Cinerama** Theatre. The film had just opened to enormous fanfare — with its giant curved screen, booming soundtrack, and all-star cast. For a kid growing up in New York, it felt like the biggest comedy event of the decade.
+
+But history had other plans.
+
+**President John F. Kennedy was assassinated on November 22, 1963** — the day before my birthday. The city, the country, and my family were plunged into shock and grief. Every television was tuned to Walter Cronkite. Flags were lowered. People wept openly in the streets. And in that strange, heavy stillness, all the theaters went dark.
+
+There was no birthday movie. Just silence.
+
+I did eventually get to see Mad World a little later — and yes, it was as wild and hilarious as I’d hoped. But I’ll never forget how that moment wrapped together personal excitement and national tragedy, how a child's anticipation collided with the loss of a president. Even today, whenever I hear that zany overture or see the film’s logo, it’s not just the comedy I remember — it’s the weekend everything changed. I also saw **How the West was Won** in **Cinerama** a few months later.
+
 ### 1964 Worlds Fair
 
 But nothing had a deeper or more transformative effect than the **1964–65 World’s Fair**, which I attended multiple times between the ages of **13 and 15**. The **GE Carousel of Progress** wasn’t the only thing that captivated me. I was blown away by the **AT&T videophone**, which felt like pure science fiction at the time. I marveled at the **General Motors Futurama exhibit**, which envisioned future cities, and I spent a lot of time at the **IBM pavilion**, where computers and technology were on full display. All of this prefigured what was to come on television with the debut of *Star Trek* and reinforced my love of shows like *Mission: Impossible*, *The Outer Limits*, *Twilight Zone*, and *Get Smart*. These experiences opened my mind to the possibilities of science and technology in a way that would influence my path for years to come.
@@ -100,7 +134,7 @@ Another important thread from my high school years was my friendship with Alan L
 
 ### James Bond
 
-It was also during that time that Alan and I discovered the world of James Bond. We became obsessed with the Ian Fleming books and read every one of them. When *Goldfinger* and later *Thunderball* were released in theaters, we traveled together into Manhattan to see them at the Forum Theater in Times Square. The combination of espionage, technology, and confidence that Bond exuded captivated us, and it added a new dimension to our adolescent worldview. This fascination would eventually feed into my later appreciation for spy fiction, strategy, and gadgets — all part of the intellectual and cultural backdrop that shaped my formative years.
+It was also during that time that Alan and I discovered the world of James Bond. I became obsessed with the Ian Fleming books and read every one of them. When *Goldfinger* and later *Thunderball* were released in theaters, we traveled together into Manhattan to see them at the Forum Theater in Times Square. The combination of espionage, technology, and confidence that Bond exuded captivated us, and it added a new dimension to our adolescent worldview. This fascination would eventually feed into my later appreciation for spy fiction, strategy, and gadgets — all part of the intellectual and cultural backdrop that shaped my formative years.
 
 ### Learning to Drive
 
