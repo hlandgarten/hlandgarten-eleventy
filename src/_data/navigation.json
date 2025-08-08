@@ -16,6 +16,7 @@
     "title": "Volumes",
     "url": "/volumes/",
     "submenu": [
+      { "title": "preface", "url": "volumes/preface"},
       { "title": "Volume 1", "url": "/volumes/volume1/" },
       { "title": "Volume 2", "url": "/volumes/volume2/" },
       { "title": "Volume 3", "url": "/volumes/volume3/" },

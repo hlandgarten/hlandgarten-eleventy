@@ -18,7 +18,17 @@ My parents loved to play games. My mother played Mahjong weekly with her friends
 
 Our first television arrived shortly after — a huge wooden cabinet housing a small 13-inch black-and-white screen. I was captivated by westerns: *Hopalong Cassidy*, *The Rifleman*, and *The Life and Legend of Wyatt Earp*. That obsession shaped my 4th birthday party, which included a toy gun belt with greenie stick-um caps, a six-shooter, and an air rifle that made a loud bang when cocked. I loved firing it inside the house — much to my mother’s annoyance. Six months later, it disappeared. I never had another birthday party as a child.
 
-As a young child, I went through every common illness of the era — measles, mumps, chickenpox, German measles, and even jumbo hives — which eventually led to the removal of my tonsils when I was four. The one thing I still remember vividly is the metallic taste of the strainer they forced into my mouth during recovery.
+## Preface: Life Before the Remote Control
+
+When our family brought home our brand-new television, it did not come with a remote control like today. If you wanted to change the chanel of adjust the volume, you had to get up, walk to the set, and turn a dial.
+
+Our time, remote controls begam to appear - first as clickers that used sound to change channels, and later infrared devices appeared and became a standard feature. I remember our first **RCA color television** in out Douglaston house, in 1963, came with a remote control.
+
+<a id="from-remote" href="/stories/remote-control-history/" class="btn">Read the full story of the television remote control</a>
+
+### Tonsils out
+
+As a young child, I went through every common illness of the era — measles, mumps, chickenpox, German measles, and even jumbo hives — which eventually led to the removal of my tonsils when I was four. I believe the operation was done in a doctors office -- not a hospital The one thing I still remember vividly is the metallic taste of the strainer they forced into my mouth while I was in the recovery room with lots of crying children.
 
 ### Family Business
 
