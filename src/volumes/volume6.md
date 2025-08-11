@@ -63,7 +63,7 @@ These years — from 1998 to 2004 — were about **recognizing revolutions**, ad
 
 As part of a Compusport meeting, I traveled to Mobile, Alabama, where we held our annual golf outing. On the morning I was set to return home — with a connection through Atlanta to meet Joann in Orlando — I decided to play the front nine of the Legislator Course at Capitol Hill.
 
-The fifth hole on that course featured an elevated tee, a picture-perfect green surrounded by trees, and a lake in front of it. The hole measured about 160 yards. When I struck my tee shot, I knew immediately that it was headed straight for the pin. Because of the glare of the sun, we couldn't actually see it land, but we heard a loud clank.
+The sixth hole on that course featured an elevated tee, a picture-perfect green surrounded by trees, and a lake in front of it. The hole measured about 160 yards. When I struck my tee shot, I knew immediately that it was headed straight for the pin. Because of the glare of the sun, we couldn't actually see it land, but we heard a loud clank.
 
 When we got to the green, we found that my ball had gone directly into the hole on the fly — a hole-in-one, right into what we joked was the clown’s mouth. That meant I had to finish the round to make the hole-in-one official, which I did. However, I missed my scheduled flight and had to drive all the way to Atlanta to catch up with my travel plans.
 

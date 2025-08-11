@@ -4,17 +4,79 @@ layout: page
 permalink: /volumes/volume2/
 ---
 
-## Volume 2: College, Counterculture, and Early Computing (1968–1978)
+# Volume 2 — College and Counterculture (1968–1972)
 
-I started college at the age of 16 in the fall of 1968. From the beginning, I made a conscious decision to be more outgoing. I started talking to everyone on the bus ride to Queens College and immediately joined a house plan called Knight House, which had its own space on Roosevelt Avenue in Flushing. Most of the other members were older and more experienced, including two friends who would become influential in my college years — Michael Berkeley and Art Fishman. I saw Knight House as a hub of social activity and mentorship.
+### The Political Climate of 1968
 
-Registration was chaotic that first semester. The gymnasium was filled with long tables labeled for different departments. You had to figure out which classes to register for without any clear guidance and hope you made it in before the lists filled. I signed up for a mix of liberal arts, physics, math, and an introductory computer science course.
+The summer of 1968 was one of the most turbulent in modern American history. Just months before I began college, Robert F. Kennedy was assassinated in Los Angeles, shocking the nation. Only weeks earlier, Dr. Martin Luther King Jr. had been assassinated, triggering grief and unrest across the country. That August, the Democratic National Convention in Chicago descended into chaos, with police clashing violently with anti-war demonstrators in the streets. Television brought these images into American homes — tear gas clouds, chanting crowds, and the famous line: “The whole world is watching.” The Democratic Party ultimately nominated Vice President Hubert Humphrey, despite many in the anti-war movement supporting Senator Eugene McCarthy. This left the party deeply divided and helped pave the way for Richard Nixon’s election as President in November.
 
-That fall, I attended a Halloween party hosted by Knight House. It was my first real social event at college, and I had a great time. There was a giant garbage can filled with what everyone called “bash” — a potent mixture of fruit punch, cut-up fruit, and various alcohols. After that night, I began casually dating a few different girls over the next few months. It wasn’t until early the following year that I met Debbie at another Knight House party — and that meeting would eventually lead to our trip to Woodstock.
+## Commuting to College
 
-On my **17th birthday**, the first day I was legally allowed to drive solo under New York law (having already passed both Driver's Ed and the road test), I drove to Queens College and spent an hour looking for parking — eventually having to walk three-quarters of a mile to class. Later that night, I drove to the house plan to meet friends. That turned into an impromptu adventure: they convinced me to drive all the way into **Chinatown** — an ambitious trip for someone’s first legal day behind the wheel. I don’t recall whether we crossed the Manhattan or Williamsburg Bridge, but I do remember this became a tradition. **Every Friday night at 11 PM**, we would pile into the car and drive to the **same Chinese restaurant** in Chinatown. **Pork chow fun cost $0.80** and **shrimp chow fun was $1.25** — cheap eats and great memories.
+I started college at the age of 16 in the fall of 1968, living at home in Douglaston with my family. My car, shown at the end of Volume 1, was waiting in the driveway, but I couldn’t drive myself until my 17th birthday in November.  
+That meant commuting every day by bus to Queens College. From the beginning, I made a conscious decision to be more outgoing. I started talking to everyone on the bus ride and began to make friends even before the semester truly started.
 
-One frustrating academic experience was my introductory computer science class. The professor, a Czechoslovakian man with a heavy accent, scribbled indecipherable equations on the board without explanation and offered no textbook or structure. I also struggled with submitting FORTRAN programs to the Xerox mainframe — punching cards and waiting days to find out if your code had a syntax error. These two experiences turned me off from majoring in computer science — a major decision that would later be dramatically reversed by my hands-on PC experience.
+![Queens College Bus Commute](/images/queens_college_bus_commute.jpg)
+
+## Orientation
+
+Before classes began, I attended an off-campus orientation for new students. The event lasted overnight, with speeches from various campus leaders, casual hangouts, and the first chance to connect socially with other freshmen. We were also introduced to the process for registering for classes for the first time.
+
+![Off-Campus Orientation](/images/off_campus_orientation.jpg)
+
+## Registration Chaos
+
+Registration that first semester was held in the college gymnasium, which was lined with long tables labeled for different departments. You had to figure out which courses to take with minimal guidance, then rush to sign up before the classes filled.  
+I ended up with a schedule that included liberal arts, math, physics, and an introductory computer science class.
+
+![Registration Day Gymnasium](/images/registration_day_gymnasium.jpg)
+
+By the time I arrived on campus, the atmosphere was already charged. A very vocal protest group — Students for a Democratic Society (SDS) — was constantly organizing rallies and trying to recruit new students like myself. They were relentless in their outreach, but I was completely non-political at the time and had no interest in joining. While the national headlines were dominated by Vietnam War protests and political unrest, my focus was on preparing for classes, meeting new friends, and adjusting to college life.
+
+## Joining Knight House
+
+I didn’t join Knight House until after registration, when different house plans began soliciting new members. House plans at Queens College were like fraternities at other schools, but without any freshman hazing.  
+Knight House had its own space on Roosevelt Avenue in Flushing, and most of the members were older and more experienced, including two friends who would become influential in my college years — Michael Berkeley and Art Fishman. The group quickly became a hub of social activity and mentorship for me.
+
+![Knight House Exterior](/images/knight_house_exterior.jpg)
+
+"The cafeteria was another central part of campus life — a lively social hub where students gathered at tables to talk, laugh, and share stories. It was the place to catch up with friends between classes, hear about upcoming events, or just relax over lunch. For me, it became part of the daily rhythm of college life, and often, the most memorable conversations happened there."
+
+## Social Life and Weekends
+
+Those first months developed into a routine: weekends at Knight House with parties, card games, and camaraderie. It was also the first time I began dating — something I never did in high school. I went out with several girls during my first semester and enjoyed the new social freedom of college life.
+
+![Knight House Weekend Party](/images/knight_house_weekend_party.jpg)
+
+## My 17th Birthday and Chinatown Adventures
+
+On my 17th birthday — the first day I could legally drive solo in New York, having already passed Driver’s Ed and the road test — I drove to Queens College. It took me an hour to find parking, and I still had to walk three-quarters of a mile to class.
+
+That night, I drove to the house plan to meet friends. Around 11:00pm and they convinced me to head all the way into Chinatown in Manhattan. I don’t recall whether we crossed the Manhattan or Williamsburg Bridge, but it became a weekly tradition: every Friday night at 11 PM, we piled into the car and drove to the same Chinese restaurant. Pork chow fun cost $0.80, shrimp chow fun $1.25 — cheap eats and great memories.
+
+![Chinatown Late Night](/images/chinatown_late_night.jpg)
+
+## First Semester Classes
+
+I was struck by the much higher quality of most of my college professors compared to my high school teachers, particularly in math and physics.
+
+One exception was my introductory computer science course, taught by a Czechoslovakian professor with a heavy accent. He filled the board with indecipherable equations and offered no textbook or structured guidance. Submitting assignments was equally frustrating: we had to punch FORTRAN programs into cards for the Xerox mainframe, then wait days to find out if a single syntax error ruined the run. These early experiences soured me on computer science — a decision I would later reverse after hands-on PC work.
+
+![Punch Cards FORTRAN](/images/punch_cards_fortran.jpg)
+
+###Spring 1969 — First Romance
+
+The spring term of 1969 brought a big change in my personal life. One Friday night at Knight House — where girls from outside Queens College often came on weekends to meet college guys, some of them still in high school — I met Debbie, who would become my first real girlfriend. I wasn’t interested in dating high school girls, but Debbie, who was out of high school and not attending Queens College, immediately caught my attention. We hit it off right away. Debbie was fun, smart, and loved music — especially The Doors. We spent a lot of time together that semester, going to movies, hanging out with friends, and sometimes just walking and talking for hours. For several months, life felt lighter and more exciting with her around.
+
+By early June, as finals ended, our relationship had started to cool. We were seeing each other less, and I thought that might be the quiet end of it. But in late June, Debbie surprised me with a phone call. She wanted to know if I could drive her and two of her girlfriends to Woodstock that summer. We met at Knight House to talk about it, and that conversation would set the stage for one of the most unforgettable weeks of my life.
+### A Ride to Woodstock
+
+In the summer of 1969, just days before the most legendary music festival in history, I found myself driving Debbie and two of her friends upstate. What began as a simple trip turned into an eight-hour crawl toward Bethel, a radiator rescue courtesy of passing Boy Scouts, and three days of music, mud, and a peaceful crowd unlike anything I’d ever seen.
+
+<a id="from-woodstock" href="/stories/woodstock/" class="btn">Read the full story of the of Woodstock</a>
+
+
+
+
 
 During **intercession breaks** in January, I took some memorable trips. In **1970**, I flew with friends to **Puerto Rico** and stayed at a hotel I can’t quite recall. It was warm, social, and fun. Then in **1972**, I flew to **Las Vegas** with a math buddy and stayed at the **Flamingo Hotel**. We took a side trip to the **Grand Canyon**, flying on a small aircraft that gave me serious nausea while flying through the canyon. Despite that, I snapped dozens of photos with my **Nikon F3**. After returning to Vegas, I was still queasy — but played blackjack at the Flamingo while **chugging Pepto-Bismol at the table**. I knew basic strategy from reading *Beat the Dealer*, and surprisingly, I kept winning — enough that casino personnel started watching me. It was my first sense of what it felt like to win against the odds.
 
@@ -37,3 +99,4 @@ By late 1975, I was using an **IMSAI 8080** with an **8" floppy drive** (160K ca
 In **May 1978**, I married **Joann**. Later that year, we bought our first house in **Douglaston**.
 
 Volume 2 ends there — a decade of exploration, technology, self-development, and personal transformation.
+
