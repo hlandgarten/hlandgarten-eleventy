@@ -113,15 +113,46 @@ That night, I drove to the house plan to meet friends. Around 11:00pm and they c
 
 I was struck by the much higher quality of most of my college professors compared to my high school teachers, particularly in math and physics.
 
-One exception was my introductory computer science course, taught by a Czechoslovakian professor with a heavy accent. He filled the board with indecipherable equations and offered no textbook or structured guidance. Submitting assignments was equally frustrating: we had to punch FORTRAN programs into cards for the Xerox mainframe, then wait days to find out if a single syntax error ruined the run. These early experiences soured me on computer science — a decision I would later reverse after hands-on PC work.
+### First Semester: Learning FORTRAN the Slow Way
 
-![Punch Cards FORTRAN](/images/punch_cards_fortran.jpg)
+Our intro computer science assignments meant **writing FORTRAN on paper first**, then heading to the **keypunch room**—a long row of machines where you waited your turn.  
+Each **line** of code became **one punch card**. When the stack was done, that was your “program.” We handed it in for batch processing on the college’s **Xerox mainframe**—one of only a few in the country—then waited a **week (sometimes ten days)** for results.
 
-###Spring 1969 — First Romance
+Most printouts came back like this:
+
+SYNTAX ERROR LINE 3
+
+Fix the line, resubmit, wait another week… and get:
+
+SYNTAX ERROR LINE 15
+
+
+That glacial feedback loop made it brutally hard to learn—especially compared to today’s instant compilers and to make things worse, I never actually saw the Xerox Mainframe.
+
+<figure>
+  <img src="/assets/images/fortran-keypunch-mainframe.png" alt="Side-by-side photos of the keypunch room and the Xerox mainframe">
+  <figcaption>Left: Keypunch lab where every line of FORTRAN went on its own card. Right: Xerox mainframe — one of only a handful in the U.S. at the time.</figcaption>
+</figure>
+
+
+### Spring 1969 — First Romance
 
 The spring term of 1969 brought a big change in my personal life. One Friday night at Knight House — where girls from outside Queens College often came on weekends to meet college guys, some of them still in high school — I met Debbie, who would become my first real girlfriend. I wasn’t interested in dating high school girls, but Debbie, who was out of high school and not attending Queens College, immediately caught my attention. We hit it off right away. Debbie was fun, smart, and loved music — especially The Doors. We spent a lot of time together that semester, going to movies, hanging out with friends, and sometimes just walking and talking for hours. For several months, life felt lighter and more exciting with her around.
 
-By early June, as finals ended, our relationship had started to cool. We were seeing each other less, and I thought that might be the quiet end of it. But in late June, Debbie surprised me with a phone call. She wanted to know if I could drive her and two of her girlfriends to Woodstock that summer. We met at Knight House to talk about it, and that conversation would set the stage for one of the most unforgettable weeks of my life.
+### Annual Queens College Canival
+
+At the end of May, Queens College held its annual spring carnival, a tradition that brought together all the house plans and student groups. Each group set up booths, games, or displays to raise funds and show off their creativity. Since this was my first year, I wasn’t deeply involved in the building of Knight House’s exhibit, but I made sure to attend and help out. The campus was filled with music, food, and laughter, and I walked around visiting the exhibits, taking in the energy of an event that marked the unofficial close of the academic year.
+
+<figure>
+  <img src="/assets/images/knight_house_carnival.png" alt="Knight House booth at Queens College spring carnival in the 1960s" style="width:100%; max-width:800px;">
+  <figcaption>
+    The Knight House booth at the Queens College spring carnival, late May in the 1969.  
+    This was my first year attending the event, but I still helped out with the Knight House exhibit and enjoyed the lively atmosphere.
+  </figcaption>
+</figure>
+
+
+By early June, as the school ended, our relationship had started to cool. We were seeing each other less, and I thought that might be the quiet end of it. But in late June, Debbie surprised me with a phone call. She wanted to know if I could drive her and two of her girlfriends to Woodstock that summer. We met at Knight House to talk about it, and that conversation would set the stage for one of the most unforgettable weeks of my life.
 
 ### A Ride to Woodstock
 
