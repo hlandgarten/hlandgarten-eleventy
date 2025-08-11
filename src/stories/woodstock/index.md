@@ -91,7 +91,7 @@ By Saturday afternoon, the relentless rain had turned the festival grounds into 
 
 <p style="text-align:center; font-style: italic; margin-top:0.5rem;">
   Santana performing “Soul Sacrifice” on Saturday afternoon at Woodstock 1969 — a final highlight before our departure.
-</p>
+</p>-
 
 
 

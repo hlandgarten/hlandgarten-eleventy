@@ -13,22 +13,53 @@ The summer of 1968 was one of the most turbulent in modern American history. Jus
 ## Commuting to College
 
 I started college at the age of 16 in the fall of 1968, living at home in Douglaston with my family. My car, shown at the end of Volume 1, was waiting in the driveway, but I couldn’t drive myself until my 17th birthday in November.  
-That meant commuting every day by bus to Queens College. From the beginning, I made a conscious decision to be more outgoing. I started talking to everyone on the bus ride and began to make friends even before the semester truly started.
 
-![Queens College Bus Commute](/images/queens_college_bus_commute.jpg)
+Mornings began with the Q27 bus rumbling down Marathon Parkway toward Queens College.  
+From day one, I made a deliberate choice to be more outgoing.  
+On those rides along the Long Island Expressway service road, I struck up conversations with fellow commuters,  
+turning the bus into a rolling introduction to campus life — friendships forming before the first lecture even began.
+
+<figure style="text-align:center; margin:1.25rem auto; max-width:780px;">
+  <img src="/assets/images/q27-bus-1970s.jpeg" alt="Q27 bus in Queens in the late 1960s–early 1970s" style="width:100%; height:auto; border-radius:6px;" loading="lazy" />
+  <figcaption style="font-size:.95rem; color:#666; margin-top:.4rem;">
+    Morning commute on the <strong>Q27</strong> to Queens College.
+  </figcaption>
+</figure>
+
 
 ## Orientation
 
 Before classes began, I attended an off-campus orientation for new students. The event lasted overnight, with speeches from various campus leaders, casual hangouts, and the first chance to connect socially with other freshmen. We were also introduced to the process for registering for classes for the first time.
 
-![Off-Campus Orientation](/images/off_campus_orientation.jpg)
+<figure class="photo-block">
+  <img
+    src="/assets/images/qc-orientation-vintage.jpeg"
+    alt="Queens College freshmen gathered during orientation activities outdoors, early 1970s"
+    class="responsive-img"
+    loading="lazy"
+  />
+  <figcaption>
+    Queens College freshmen during orientation—an introduction not just to the campus but to a community, circa early 1970s.
+  </figcaption>
+</figure>
 
 ## Registration Chaos
 
 Registration that first semester was held in the college gymnasium, which was lined with long tables labeled for different departments. You had to figure out which courses to take with minimal guidance, then rush to sign up before the classes filled.  
 I ended up with a schedule that included liberal arts, math, physics, and an introductory computer science class.
 
-![Registration Day Gymnasium](/images/registration_day_gymnasium.jpg)
+<figure class="photo-block">
+  <img
+    src="/assets/images/qc-registration-1970s.png"
+    alt="Queens College registration day in the gymnasium, early 1970s. Long tables set by department, students rushing to sign up for classes."
+    class="responsive-img"
+    loading="lazy"
+  />
+  <figcaption>
+    “Registration chaos” — freshmen running from table to table in the QC gym, first chance to piece together a semester schedule.
+  </figcaption>
+</figure>
+
 
 By the time I arrived on campus, the atmosphere was already charged. A very vocal protest group — Students for a Democratic Society (SDS) — was constantly organizing rallies and trying to recruit new students like myself. They were relentless in their outreach, but I was completely non-political at the time and had no interest in joining. While the national headlines were dominated by Vietnam War protests and political unrest, my focus was on preparing for classes, meeting new friends, and adjusting to college life.
 
@@ -37,7 +68,17 @@ By the time I arrived on campus, the atmosphere was already charged. A very voca
 I didn’t join Knight House until after registration, when different house plans began soliciting new members. House plans at Queens College were like fraternities at other schools, but without any freshman hazing.  
 Knight House had its own space on Roosevelt Avenue in Flushing, and most of the members were older and more experienced, including two friends who would become influential in my college years — Michael Berkeley and Art Fishman. The group quickly became a hub of social activity and mentorship for me.
 
-![Knight House Exterior](/images/knight_house_exterior.jpg)
+<figure class="photo-block" style="max-width: 820px; margin: 1.5rem auto;">
+  <img
+    src="/assets/images/knight_house_exterior.png"
+    alt="Knight House on Roosevelt Avenue in Flushing, late 1960s — the house-plan space that became our social hub"
+    class="responsive-img"
+  />
+  <figcaption>
+    Knight House on Roosevelt Avenue, Flushing — our home base for parties, card games, and instant friendships.
+  </figcaption>
+</figure>
+
 
 "The cafeteria was another central part of campus life — a lively social hub where students gathered at tables to talk, laugh, and share stories. It was the place to catch up with friends between classes, hear about upcoming events, or just relax over lunch. For me, it became part of the daily rhythm of college life, and often, the most memorable conversations happened there."
 
@@ -45,7 +86,11 @@ Knight House had its own space on Roosevelt Avenue in Flushing, and most of the 
 
 Those first months developed into a routine: weekends at Knight House with parties, card games, and camaraderie. It was also the first time I began dating — something I never did in high school. I went out with several girls during my first semester and enjoyed the new social freedom of college life.
 
-![Knight House Weekend Party](/images/knight_house_weekend_party.jpg)
+<figure class="photo-block">
+  <img src="/assets/images/knighthouse-halloween-bash-1.png" alt="Late-60s Halloween party in a house kitchen—students dipping cups into a gray trash can of punch nicknamed 'Bash'">
+  <figcaption>Halloween at Knight House: the infamous kitchen “Bash” — fruit punch in a gray trash can, cups dipped all night.</figcaption>
+</figure>
+
 
 ## My 17th Birthday and Chinatown Adventures
 
@@ -53,7 +98,16 @@ On my 17th birthday — the first day I could legally drive solo in New York, ha
 
 That night, I drove to the house plan to meet friends. Around 11:00pm and they convinced me to head all the way into Chinatown in Manhattan. I don’t recall whether we crossed the Manhattan or Williamsburg Bridge, but it became a weekly tradition: every Friday night at 11 PM, we piled into the car and drove to the same Chinese restaurant. Pork chow fun cost $0.80, shrimp chow fun $1.25 — cheap eats and great memories.
 
-![Chinatown Late Night](/images/chinatown_late_night.jpg)
+<figure style="text-align:center; margin: 1.5rem auto; max-width: 880px;">
+  <img
+    src="/assets/images/chinatown-mott-1968.png"
+    alt="Mott Street at night in 1968—neon signs, steam, and late-night foot traffic"
+    style="width:100%; height:auto; border-radius:8px;"
+  />
+  <figcaption style="font-size:0.95rem; color:#666; margin-top:0.5rem;">
+    Late-night Chinatown run — Mott Street, circa 1968. Our weekly chow fun stop after the Friday 11 PM drive.
+  </figcaption>
+</figure>
 
 ## First Semester Classes
 
@@ -68,6 +122,7 @@ One exception was my introductory computer science course, taught by a Czechoslo
 The spring term of 1969 brought a big change in my personal life. One Friday night at Knight House — where girls from outside Queens College often came on weekends to meet college guys, some of them still in high school — I met Debbie, who would become my first real girlfriend. I wasn’t interested in dating high school girls, but Debbie, who was out of high school and not attending Queens College, immediately caught my attention. We hit it off right away. Debbie was fun, smart, and loved music — especially The Doors. We spent a lot of time together that semester, going to movies, hanging out with friends, and sometimes just walking and talking for hours. For several months, life felt lighter and more exciting with her around.
 
 By early June, as finals ended, our relationship had started to cool. We were seeing each other less, and I thought that might be the quiet end of it. But in late June, Debbie surprised me with a phone call. She wanted to know if I could drive her and two of her girlfriends to Woodstock that summer. We met at Knight House to talk about it, and that conversation would set the stage for one of the most unforgettable weeks of my life.
+
 ### A Ride to Woodstock
 
 In the summer of 1969, just days before the most legendary music festival in history, I found myself driving Debbie and two of her friends upstate. What began as a simple trip turned into an eight-hour crawl toward Bethel, a radiator rescue courtesy of passing Boy Scouts, and three days of music, mud, and a peaceful crowd unlike anything I’d ever seen.
