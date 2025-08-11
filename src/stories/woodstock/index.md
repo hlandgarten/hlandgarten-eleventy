@@ -80,7 +80,7 @@ By Saturday afternoon, the relentless rain had turned the festival grounds into 
 
 <div class="video-card">
   <video controls preload="metadata" poster="/assets/images/santana-poster.jpg">
-    <source src="/assets/videos/Santana.mp4" type="video/mp4" />
+    <source src="/assets/videos/Santana-720p.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
   <div class="video-title">Santana — “Soul Sacrifice” (Woodstock 1969)</div>
