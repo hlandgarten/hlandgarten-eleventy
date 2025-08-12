@@ -166,9 +166,158 @@ In the summer of 1969, just days before the most legendary music festival in his
 
 During **intercession breaks** in January, I took some memorable trips. In **1970**, I flew with friends to **Puerto Rico** and stayed at a hotel I can’t quite recall. It was warm, social, and fun. Then in **1972**, I flew to **Las Vegas** with a math buddy and stayed at the **Flamingo Hotel**. We took a side trip to the **Grand Canyon**, flying on a small aircraft that gave me serious nausea while flying through the canyon. Despite that, I snapped dozens of photos with my **Nikon F3**. After returning to Vegas, I was still queasy — but played blackjack at the Flamingo while **chugging Pepto-Bismol at the table**. I knew basic strategy from reading *Beat the Dealer*, and surprisingly, I kept winning — enough that casino personnel started watching me. It was my first sense of what it felt like to win against the odds.
 
-In 1970, Queens College dropped required courses, likely due to student protest. That gave me freedom to craft a self-directed curriculum. I took music appreciation and learned about the structure of classical music — including the **four movements of symphonies**, and forms like **sonata**, **theme and variation**, and **rondo**. It deepened my love of music and showed me how mathematical music really was.
 
-In the spring of 1970, while building a replica of the college’s administration tower for a **Knight House carnival exhibit**, I was standing at the top hammering boards into place when I suddenly saw **stormtroopers marching across the lawn**. We later found out a riot had broken out in the cafeteria — students had thrown chairs through windows in response to **Kent State**, and police had been called in. **The semester ended early.**
+### Back from Woodstock, Into a New Academic World
+
+We were home from Woodstock, the mud still barely washed out of our clothes, and the 1969–1970 school year was about to begin.  
+
+Queens College dropped a surprise on us right away: **there were no longer any required courses**. The old core curriculum was gone, replaced by complete academic freedom.  
+
+For me, this was liberating. It meant I could focus on the subjects I truly cared about — mathematics, science, and anything technical — without being forced through a maze of unwanted liberal arts requirements. But with that freedom also came the chance to explore areas I’d never considered before. I signed up for **music appreciation**, which deepened my understanding of the classical works I was already collecting on reel-to-reel and vinyl. I also enrolled in **business law**, which planted early seeds for the entrepreneurial ventures I would take on later in life.  
+
+Between classes, the **student cafeteria** became the center of my social life. This is where I began to form lasting friendships with people like **Brian Fairweather**, who would become my bowling and travel companion, and **Celia**, who seemed to be part of every trip and adventure I took during those years. We’d gather at the long cafeteria tables, sharing stories, debating everything from campus gossip to music, and mapping out our next great outing.
+
+<div style="text-align:center; margin: 20px 0;">
+  <img src="/assets/images/queens_college_cafeteria.png" alt="Queens College cafeteria in the early 1970s" style="max-width: 90%; border-radius: 8px;">
+  <p style="font-size: 0.9em; color: #666;">Queens College cafeteria, the social hub where friendships like mine with Brian and Celia were forged.</p>
+</div>
+
+The idea for our first big event of the year came together almost casually over coffee in the cafeteria. Someone mentioned that **The Band** was playing on **New Year’s Day at Colden Hall**, right on our own Queens College campus. For music fans in 1970, this was a can’t-miss opportunity.
+
+This concert was part of their tour supporting their acclaimed second album, **"The Band"** — often called *the Brown Album* — which had been released just a few months earlier, in September 1969. At that moment, The Band was at the height of their popularity and critical acclaim, already recognized as one of the most influential groups in rock music.
+
+<figure class="photo-block">
+  <img
+    src="/assets/images/the_band_colden_1970.png"
+    alt="The Band performing at Queens College’s Colden Auditorium, Jan 1, 1970 — warm stage lights over Robbie Robertson, Levon Helm, Rick Danko"
+    class="responsive-img"
+    loading="lazy"
+    width="1200" height="800"
+  />
+  <figcaption>
+    The Band at Colden Auditorium, New Year’s Day 1970 — part of the tour behind <em>The Band</em> (“The Brown Album”).
+  </figcaption>
+</figure>
+
+That night, in the intimate setting of Colden Hall, we got to hear songs like *"The Weight,"* *"Up on Cripple Creek,"* and *"The Night They Drove Old Dixie Down"* when they were still relatively new — the kind of fresh, electric performances that only happen when a band is still living inside the songs they’ve just created. The energy in the room was palpable, the crowd locked in, and we left knowing we’d just seen something timeless.
+
+<h3 id="qc-calendar">The Queens College Calendar, 1969–70</h3>
+<p>
+In those years, Queens College wrapped fall classes before Christmas. We returned on <strong>January 1</strong> and took <strong>finals from Jan 1–15</strong>. After that came <strong>Intersession (Jan 16–Feb 1)</strong>—a perfect window for quick trips or one-off classes—before the spring term began in early February.
+</p>
+
+## InterSession 1970 — Puerto Rico
+
+After the excitement of the New Year’s Day concert, the campus eased into the quieter pace of InterSession — that short break between the fall and spring terms.  
+For me, it was anything but quiet.
+
+Brian Fairweather — a good friend from Queens College with whom I bowled at Utopia Lanes — suggested we take a trip to Puerto Rico along with a few friends.  
+Among them were several girls from school, including Celia, who seemed to be a constant presence on these adventures, from ski trips to beach getaways.
+
+<figure>
+  <img src="/assets/images/el-san-juan-hotel-1970.png" alt="The El San Juan Hotel in 1970, Puerto Rico" style="max-width:100%; height:auto;">
+  <figcaption>
+    The El San Juan Hotel in Puerto Rico, where we stayed during the January 1970 intersession trip.
+  </figcaption>
+</figure>
+
+We landed in San Juan with no real itinerary except to enjoy ourselves.  
+Our “routine” was simple: Brian and I would stay out late every night, wandering from clubs to beachside bars, soaking in the island’s rhythms.  
+We’d sleep in until nearly noon, then make our way down to the hotel pool around two in the afternoon — sunglasses on, moving at island speed.  
+The girls, meanwhile, were up early to claim prime spots by the pool, determined to return home with the deepest tans.
+
+Puerto Rico was a perfect blend of warm breezes, new music drifting from open doorways, and the feeling of being far from the gray New York winter.  
+It was the kind of trip that tightened friendships and built stories to retell in the cafeteria once classes resumed.
+
+### Bowling Life at Queens College (1969–1970)
+
+During this period, one of my favorite pastimes outside of academics and music was bowling—and not just casually. I bowled regularly with my good friend Brian Fairweather, even though he wasn’t in my house plan. We spent countless evenings at Utopia Lanes on Union Turnpike, competing in league play and in Kegler tournaments.
+
+These tournaments were serious business—five-man teams, cash prizes, and a lineup of bowlers who could spin a ball like it was a ping-pong ball. One of our regular teammates was a friend named J. Power, an extraordinary bowler with an uncanny ability to control spin. Brian and I would recruit two other strong players, and more often than not, we’d finish near the top—sometimes second place—in these high-stakes matches.
+
+Individually, I had my share of big moments. One day at Utopia Lanes, I rolled 11 straight strikes and finished with an eight for a 278, which earned me a trophy. My average hovered around 180–185, respectable even among competitive bowlers.
+
+Through bowling, I also got to know Kenny Barber, the pro at Whitestone Lanes. Brian and I would sometimes head up to the Bronx to watch PBA pros in intense, cash-based head-to-head matches—a side of the sport most casual bowlers never see.
+
+Bowling wasn’t just recreation; it was another way I built lasting friendships and embraced competition during my college years—blending skill, camaraderie, and a bit of a gambler’s edge.
+
+<figure style="text-align:center; margin: 1.25rem auto; max-width: 900px;">
+  <img 
+    src="/assets/images/utopia_lanes_1970.png" 
+    alt="Utopia Lanes on Union Turnpike, circa 1970—long wood approaches, overhead score monitors, and bowlers lining up frames."
+    class="responsive-img"
+    style="width:100%; height:auto; border-radius:8px;"
+  />
+  <figcaption style="font-size:0.95rem; color:#666; margin-top:0.5rem;">
+    Utopia Lanes, our home base for leagues and Kegler tournaments. My 278 came here—11 straight strikes and an eight to finish.
+  </figcaption>
+</figure>
+
+## New York Philharmonic Subscription (1969–1973)
+
+My brother and I held Thursday-night subscriptions to the New York Philharmonic starting in 1969 and kept them for several seasons, through 1973. We sat in the orchestra, about three-quarters back on the aisle—close enough to watch the conductor’s face and the front desks, yet far enough to feel the hall bloom. We were usually the youngest people in our section.
+
+Those first years bridged a historic shift: Leonard Bernstein’s charismatic, romantic programming giving way to Pierre Boulez’s more avant-garde, atonal/serial repertoire. Some of those Boulez evenings felt more like experiments than concerts—fascinating, sometimes baffling—but we stayed for all of it. Looking back, even the strangest nights became part of a shared adventure we still talk about.
+
+<figure style="text-align:center; margin: 1.25rem auto; max-width: 900px;">
+  <img
+    src="/assets/images/avery_fisher_hall_1970.png"
+    alt="Avery Fisher Hall at Lincoln Center, late 1960s: view toward the stage from mid-orchestra"
+    class="responsive-img"
+    style="width:100%; height:auto; border-radius:8px;"
+  />
+  <figcaption style="font-size:0.95rem; color:#666; margin-top:0.5rem;">
+    Thursday-night subscription, <strong>1969–1973</strong>—orchestra aisle seats about three-quarters back. 
+    We witnessed the transition from <strong>Bernstein</strong> to <strong>Boulez</strong>, including plenty of adventurous, atonal programs.
+  </figcaption>
+</figure>
+
+### Time for the Carnival
+
+As April was ending, It was time for the **Queens College Carnival** and **Knight House** had something special in store for this year.
+
+<h2 id="carnival-1970-an-unexpected-sight-from-the-tower">Carnival 1970: An Unexpected Sight from the Tower</h2>
+
+<p>
+In the May of 1970, Knight House decided to go all-out for the annual Queens College carnival. Our exhibit was ambitious: a large-scale replica of the campus administration building, complete with a tall tower. The plan was to have visitors climb the stairs to the top and then slide back down — a whimsical centerpiece for the event.
+</p>
+
+<p>
+I was at the very top of the tower on a warm afternoon, hammering boards into place, when I paused for a moment to look out over the campus. From my elevated perch, I could see straight down the long central pathway that stretched toward the low administration building in the distance. The grass in the center was neatly framed by two parallel walkways, creating a natural stage.
+</p>
+
+<p>
+What I saw next stopped me mid-swing. Far away, moving in perfect unison, were two long columns of figures dressed entirely in black. They were heavily armed and wore body armor that gleamed in the sunlight. From my vantage point, they were marching directly toward the carnival.
+</p>
+
+<figure style="text-align:center; margin: 1.25rem auto; max-width: 900px;">
+  <img 
+    src="/assets/images/queens_carnival_tower_view.png" 
+    alt="View from atop the Knight House carnival tower: distant armored police columns advancing along the campus walk at Queens College, Spring 1970." 
+    class="responsive-img" 
+    style="width:100%; height:auto; border-radius:8px;"
+  />
+  <figcaption style="font-size:0.95rem; color:#666; margin-top:0.5rem;">
+    From the top of our carnival tower I saw two columns in black armor approaching along the paths. Within minutes, we cleared out.
+  </figcaption>
+</figure>
+
+<p>
+It was an unsettling sight — not something you expected during what was supposed to be a lighthearted campus tradition. They never actually reached us; at some point out of view, they turned off and went elsewhere. I climbed down and told everyone what I’d seen, and the carnival emptied fast. When things were declared safe, I packed the tools and drove home.
+</p>
+
+<p>
+Only later did I learn the wider context: a <strong>riot had broken out in the cafeteria</strong> — chairs thrown through windows, police called in — and the whole moment was part of the national tension following the <strong>Kent State shootings on May 4, 1970</strong>. Soon after, we were notified that the <strong>school year was effectively over</strong>, and the carnival was officially canceled.
+</p>
+
+<p>
+Students were alerted that the school year was effectively over. Carnival was officially canceled. What I experienced on the tower that day was a strange collision between innocent Spring juxtapositions—and the unraveling of a very tense moment in history.
+</p>
+
+
+_______________________
+
+
 
 The following year (1971), classes ended early again. That fall, students were even **given two weeks off in October for “political activity.”** My friends and I used it to **road-trip to Washington, D.C.**, though our goal was sightseeing, not activism.
 
