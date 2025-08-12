@@ -308,10 +308,81 @@ Only later did I learn the wider context: a <strong>riot had broken out in the c
 Students were alerted that the school year was effectively over. Carnival was officially canceled. What I experienced on the tower that day was a strange collision between innocent Spring juxtapositions—and the unraveling of a very tense moment in history.
 </p>
 
+### Summer of 1970 — Political Upheaval and Campus Unrest
 
-_______________________
+The summer of 1970 was a period of intense social and political upheaval in the United States, with the Kent State shootings on May 4th serving as a major catalyst for nationwide unrest.
+
+**Immediate Aftermath of Kent State:**  
+The killing of four students and wounding of nine others by Ohio National Guard troops sparked massive student protests across the country. Over 4 million students participated in strikes at approximately 1,350 colleges and universities — the largest student movement in U.S. history at that time. Many campuses, including Queens College, shut down entirely or ended their spring semesters early.
+
+**The Cambodia Invasion Context:**  
+The Kent State protests were triggered by President Nixon's April 30th announcement that U.S. forces were invading Cambodia, expanding the Vietnam War despite earlier promises of withdrawal. This escalation fueled antiwar sentiment that had been building for years.
+
+**Continuing Tensions Through Summer:**  
+- Student activism continued through the summer months, though at reduced levels as many returned home  
+- The Pentagon Papers controversy was brewing (though they wouldn’t be published until 1971)  
+- Antiwar demonstrations persisted, including the massive August 1970 march in Washington D.C.  
+- The trial of the Chicago Seven was ongoing, keeping radical politics in the headlines  
+
+**Cultural and Social Climate:**  
+The summer also saw the height of the counterculture movement, with music festivals, the rise of communes, and growing environmental awareness following the first Earth Day earlier that spring. There was a palpable generational divide between young Americans questioning authority and older Americans supporting traditional institutions.
+
+The period marked a critical moment when many young people lost faith in their government’s honesty about the war and its willingness to listen to peaceful dissent.
+
+When classes resumed in the fall, the political climate remained tense. In an unprecedented move, Queens College gave students the last two weeks of October off for political activity, underscoring the depth of the unrest.
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div style="border: 2px solid #444; padding: 10px; border-radius: 8px; background-color: #f9f9f9; max-width: 800px;">
+    <figure style="margin: 0; text-align: center;">
+      <img src="/assets/images/A_historical_photograph_captures_a_student_protest.png" alt="Queens College Vietnam War Protest, Fall 1970" style="max-width: 100%; border-radius: 4px;">
+      <figcaption style="margin-top: 8px; font-size: 0.9em; color: #555;">
+        Queens College students march in protest against the Vietnam War, Fall 1970.
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+### The New Sememter Begins
+
+In the fall of 1970, when the new semester began, the campus atmosphere at Queens College was still charged with political energy. In an unprecedented move, the administration gave students the last two weeks of October off specifically for political activity. This decision underscored just how deeply the events of the spring — from the Cambodia incursion to the Kent State shootings — had shaped the student body’s priorities and the institution’s willingness to accommodate activism.
+
+---
+
+### The Washington Road Trip
+
+Rather than using those two weeks for political purposes, I — along with my friends Brian Celia and others — decided to take a road trip to Washington, D.C. This wasn’t political in any way; it was simply a chance to see the capital and take in the sights.
+
+We spent the two weeks exploring the city, visiting all the classic tourist attractions:  
+- The U.S. Capitol  
+- The Washington Monument and Lincoln Memorial  
+- The Smithsonian museums  
+- Arlington National Cemetery  
+- And even a guided tour of the **inside of the FBI building** — something that would be unthinkable today.
+
+We wandered the **National Mall**, toured the **U.S. Capitol**, admired the **White House**, and even got a guided peek inside the **FBI Headquarters** (then at the old Department of Justice building while the J. Edgar Hoover building was being completed). In between, we camped out at the Smithsonian museums, grabbed casual dinners, and talked late into the night back at the motel. Two weeks of history, architecture, and friendship.
+
+---
+
+<div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": 3000 }'>
+  <div class="carousel-cell">
+    <img src="/assets/images/washington_monument_1970.png" alt="Washington Monument, circa 1970">
+    <p class="caption">National Mall on a crisp fall afternoon — our base camp for wandering.</p>
+  </div>
+  <div class="carousel-cell">
+    <img src="/assets/images/fbi_building_1970.png" alt="FBI Headquarters, circa 1970">
+    <p class="caption">FBI tour highlight: exhibits on forensics and law‑enforcement tools of the day</p>
+  </div>
+  <div class="carousel-cell">
+    <img src="/assets/images/capitol_building_1970.png" alt="U.S. Capitol, circa 1970">
+    <p class="caption">Inside the Capitol: rotunda, corridors, and a sense of the place at work.</p>
+  </div>
+  <div class="carousel-cell">
+    <img src="/assets/images/dc_white_house_1970.png" alt="U.S. Capitol, circa 1970">
+    <p class="caption">White House walk‑by: quick photos, then on to the Smithsonian.</p>
+</div>
 
 
+------------------------
 
 The following year (1971), classes ended early again. That fall, students were even **given two weeks off in October for “political activity.”** My friends and I used it to **road-trip to Washington, D.C.**, though our goal was sightseeing, not activism.
 
@@ -328,4 +399,35 @@ By late 1975, I was using an **IMSAI 8080** with an **8" floppy drive** (160K ca
 In **May 1978**, I married **Joann**. Later that year, we bought our first house in **Douglaston**.
 
 Volume 2 ends there — a decade of exploration, technology, self-development, and personal transformation.
+
+<script>
+(function(){
+  document.querySelectorAll('.carousel').forEach(carousel => {
+    const track = carousel.querySelector('.carousel-track');
+    const slides = [...carousel.querySelectorAll('.slide')];
+    const prev = carousel.querySelector('.carousel-btn.prev');
+    const next = carousel.querySelector('.carousel-btn.next');
+
+    function slideWidth(){ return slides[0].getBoundingClientRect().width + 12; } // +gap
+    function updateButtons(){
+      prev.disabled = track.scrollLeft < 8;
+      const maxScroll = track.scrollWidth - track.clientWidth - 8;
+      next.disabled = track.scrollLeft > maxScroll;
+    }
+    prev.addEventListener('click', () => { track.scrollBy({left: -slideWidth(), behavior:'smooth'}); });
+    next.addEventListener('click', () => { track.scrollBy({left:  slideWidth(), behavior:'smooth'}); });
+    track.addEventListener('scroll', updateButtons);
+    window.addEventListener('resize', updateButtons);
+    updateButtons();
+
+    // Keyboard support
+    carousel.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') prev.click();
+      if (e.key === 'ArrowRight') next.click();
+    });
+    // Make the track focusable for keyboard users
+    track.tabIndex = 0;
+  });
+})();
+</script>
 
