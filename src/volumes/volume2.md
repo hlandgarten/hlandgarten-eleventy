@@ -161,12 +161,6 @@ In the summer of 1969, just days before the most legendary music festival in his
 <a id="from-woodstock" href="/stories/woodstock/" class="btn">Read the full story of the of Woodstock</a>
 
 
-
-
-
-During **intercession breaks** in January, I took some memorable trips. In **1970**, I flew with friends to **Puerto Rico** and stayed at a hotel I can’t quite recall. It was warm, social, and fun. Then in **1972**, I flew to **Las Vegas** with a math buddy and stayed at the **Flamingo Hotel**. We took a side trip to the **Grand Canyon**, flying on a small aircraft that gave me serious nausea while flying through the canyon. Despite that, I snapped dozens of photos with my **Nikon F3**. After returning to Vegas, I was still queasy — but played blackjack at the Flamingo while **chugging Pepto-Bismol at the table**. I knew basic strategy from reading *Beat the Dealer*, and surprisingly, I kept winning — enough that casino personnel started watching me. It was my first sense of what it felt like to win against the odds.
-
-
 ### Back from Woodstock, Into a New Academic World
 
 We were home from Woodstock, the mud still barely washed out of our clothes, and the 1969–1970 school year was about to begin.  
