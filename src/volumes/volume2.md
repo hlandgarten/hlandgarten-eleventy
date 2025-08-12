@@ -176,6 +176,14 @@ Between classes, the **student cafeteria** became the center of my social life. 
   <p style="font-size: 0.9em; color: #666;">Queens College cafeteria, the social hub where friendships like mine with Brian and Celia were forged.</p>
 </div>
 
+### I turn 18 and have to Register for the Draft
+
+On November 23, 1969, the day I turned 18, my father took me to the Selective Service office to register for the draft. At the time, all men were required to register within 30 days of their 18th birthday. I still had a student deferment because I was enrolled full-time at Queens College, which meant I was classified as 2-S and not immediately eligible for induction as long as I maintained my studies.
+
+The Vietnam War was still escalating, and the draft was the main way the U.S. military filled its ranks. Until 1969, local draft boards decided the order in which men were called, often favoring those with connections or certain backgrounds. That changed with the introduction of the national draft lottery. The first modern lottery was held on December 1, 1969, but it only applied to men born between 1944 and 1950 — just before my birth year — so I wasn’t included. My turn in the lottery would come in 1970, and as it turned out, that year’s drawing would loom much larger in my mind.
+
+### The Band comes to Colden for New Years Day 1970
+
 The idea for our first big event of the year came together almost casually over coffee in the cafeteria. Someone mentioned that **The Band** was playing on **New Year’s Day at Colden Hall**, right on our own Queens College campus. For music fans in 1970, this was a can’t-miss opportunity.
 
 This concert was part of their tour supporting their acclaimed second album, **"The Band"** — often called *the Brown Album* — which had been released just a few months earlier, in September 1969. At that moment, The Band was at the height of their popularity and critical acclaim, already recognized as one of the most influential groups in rock music.
@@ -342,9 +350,29 @@ When classes resumed in the fall, the political climate remained tense. In an un
   </div>
 </div>
 
-### The New Sememter Begins
+### The 1970 Draft Lottery
 
-In the fall of 1970, when the new semester began, the campus atmosphere at Queens College was still charged with political energy. In an unprecedented move, the administration gave students the last two weeks of October off specifically for political activity. This decision underscored just how deeply the events of the spring — from the Cambodia incursion to the Kent State shootings — had shaped the student body’s priorities and the institution’s willingness to accommodate activism.
+On July 1, 1970, the United States held its second draft lottery to determine the order of call for men born in 1951. Since I was born on November 23, my birthdate was assigned lottery number **182**. In the Selective Service system, the lower your number, the more likely you were to be drafted. While a number in the 180s meant I wasn’t in the most immediate danger, it still wasn’t far enough away from the cutoff to feel entirely secure.  
+
+In the context of the Vietnam War, this number carried real weight — the draft was not an abstract threat. Everyone my age knew their number, and those with low numbers often faced the difficult choice between military service, seeking deferments, or making life-changing decisions about their futures.
+
+<figure style="text-align:center; border: 1px solid #ccc; padding: 10px; display: inline-block;">
+  <img src="/assets/images/draft_lottery_1970_highlighted.png" alt="1970 Draft Lottery – Highlighted Result" style="max-width:100%; height:auto;">
+  <figcaption style="font-size:0.9em; color:#555; margin-top:5px;">
+    The July 1, 1970 Draft Lottery results for men born in 1951, with my birthdate, November 23, highlighted in red.
+  </figcaption>
+</figure>
+
+
+### The New Semester Begins
+
+The new semester began against a backdrop of political tension and uncertainty, still echoing from the spring shutdown after Kent State. In an unprecedented move, the administration gave students the last two weeks of October off specifically for political activity. This decision underscored just how deeply the events of the spring — from the Cambodia incursion to the Kent State shootings — had shaped the student body’s priorities and the institution’s willingness to accommodate activism.
+
+### The 1970 Draft Lottery
+
+But in the fall of 1970, one topic dominated the cafeteria conversations — the Vietnam draft lottery. On July 1, 1970, the Selective Service held its second lottery, determining the order in which men born in 1951 would be called for possible military service. Each birth date was assigned a random number from 1 to 366, drawn in sequence.
+
+My birthday came up at number **182**, high enough to make me cautiously optimistic but still close enough to leave a trace of uncertainty. The cafeteria buzzed with the sound of people comparing numbers as if they were trading baseball stats. “What’s your number?” became a standard greeting. Those with low numbers often faced immediate and difficult choices. Several people I knew enlisted in the Army Reserves or the National Guard right away, hoping to serve under more controlled conditions rather than risk being drafted into active combat in Vietnam. For those of us with higher numbers, there was some relief — but no one knew exactly where the cutoff would be, so the topic stayed in the air all semester.
 
 ---
 
