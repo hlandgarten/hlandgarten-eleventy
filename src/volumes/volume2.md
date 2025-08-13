@@ -409,6 +409,66 @@ We wandered the **National Mall**, toured the **U.S. Capitol**, admired the **Wh
     <p class="caption">White House walk‑by: quick photos, then on to the Smithsonian.</p>
 </div>
 
+As the semester moved forward, I decided to take a chemistry course — not because it was required, since Queens College had no required courses at the time, but simply out of curiosity. The open curriculum meant I could take whatever interested me, and chemistry seemed like a change of pace. My history with chemistry, however, wasn’t exactly positive. Back in my first year living in Douglaston, my parents had given me a chemistry set. I did my experiments in the basement, and one of the early ones was to make a purple dye. It worked beautifully — but when I went to pour it down the basement sink, I didn’t realize my mother had been soaking her best linens there. Those linens came out permanently purple, and my chemistry set disappeared shortly afterward. That left me with a lingering dislike for the subject.
+
+Still, I showed up to class, though I found it a bit dull. Around that time, I had also completed an Evelyn Wood speed-reading course and had become very fast at reading. Before our first test, I simply speed-read the textbook and sat for the exam. A few weeks later, some classmates confronted me, annoyed that I had “blown the curve” by scoring a 90. I hadn’t realized it at the time, but the class was graded on a curve, and my high score had raised the bar for everyone else.
+
+During that period, I was dating a girl named Jody. She was determined to earn top marks so she could get into medical school, though competition was fierce and I’m not sure she managed to get the grades she needed. We dated for about a month, and one of the highlights was a trip we took together to the Caribbean — though I can’t remember whether it was Jamaica or another island. The days were warm, the breeze carried the scent of salt and flowers, and the pace of life couldn’t have been more different from the stress of campus life. But after the trip, our relationship began to fade, and we eventually drifted apart.
+
+<figure style="border: 2px solid #ccc; padding: 10px; display: inline-block; background-color: #fafafa;">
+  <img src="/assets/images/A_photograph_captures_a_serene_beach_scene_likely.png" alt="Caribbean Beach Scene, circa 1970" style="max-width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+    Caribbean beach, early 1970s — reminiscent of the trip I took with Jody during our brief time together.
+  </figcaption>
+</figure>
+
+### Intersession 1971 – A Ski Trip for the Non-Skiers
+
+As the January break of 1971 approached, a group of us decided to do something different. We planned a ski trip—though, truth be told, many of us had never been near a ski slope before. Instead of booking a fancy resort, we rented a rustic cabin at an upstate New York campsite, the kind with wood walls, a fireplace, and just enough amenities to keep things cozy.
+
+We did make it to a nearby ski area, but my own “skiing career” never really took off. I signed up for a beginner’s lesson, made a few awkward attempts to stay upright, and decided I preferred riding the ski lift up and then back down again. It was less exhausting and a lot warmer.
+
+Snowmobiles were another story—I loved them. We’d take them out across the frozen fields and wooded trails, racing in pairs, sometimes competing to see who could throw the longest rooster tail of snow behind the sled.
+
+At night, we’d head back to the cabin, dry out by the fire, and share drinks, stories, and plenty of laughs. Nobody cared whether you were an expert skier or a novice. It was about the camaraderie—a few days of fun, snow, and freedom before the semester picked up again.
+
+<figure style="border: 2px solid #ccc; padding: 10px; display: inline-block; background-color: #fafafa;">
+  <img src="/assets/images/intersession_ski.png" alt="Caribbean Beach Scene, circa 1970" style="max-width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+    Snow mobiles with college friends during interssion 1971.
+  </figcaption>
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Late 1971–1972 — My First Porsche
+
+In late 1971 my father and I drove up to a Westchester dealer and found a 1971 Porsche 911E demo car with only a few hundred miles on it. The original sticker had been around $11,500, but as a demo we bought it for $7,500. It was the first truly high-performance car I’d ever driven—and the first 5-speed manual I owned.
+<figure style="text-align:center; margin:1.25rem auto; max-width:900px;"> <img src="/assets/images/porsche-1971-911e-green.png" alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens" class="responsive-img" style="width:100%; height:auto; border-radius:8px;" /> <figcaption style="font-size:0.95rem; color:#666; margin-top:0.5rem;"> My 1971 Porsche 911E (demo car, ~hundreds of miles when we bought it for $7,500). Five-speed manual, rear-engine, and a feeling like you were sitting on the road. </figcaption> </figure>
+
+At that point my only stick-shift “experience” was helping a Knight House friend with his ice-cream truck—a column-shift manual—so the 911’s floor shifter was a crash course. One quiet evening on the Clearview Expressway, the speedometer swept toward 180 in the left lane before I backed off—whether the gauge was optimistic or not, it felt like flying. I never did anything like that again.
+
+Owning the Porsche taught me another lesson: service was expensive. New York’s rough roads knocked the alignment out regularly, and Porsche charged about $150 for a wheel alignment in the early ’70s—real money back then.
+
+A practical upside came soon after: I began driving my sister to her program on 164th Street each morning. Because of that responsibility I received a campus parking pass, which completely changed my Queens College routine (no more circling for an hour hunting spots).
+
+I kept the 911E until 1978. When it came time to sell, a buyer drove from Albuquerque to New York and paid me the same $7,500 we’d spent in 1971. Not a bad run for a first Porsche.
+
+
 
 ------------------------
 
