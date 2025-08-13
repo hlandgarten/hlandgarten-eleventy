@@ -352,3 +352,28 @@ a[id] {
 .carousel-btn[disabled] { opacity: .4; cursor: default; }
 .carousel-btn.prev { left: -6px; }
 .carousel-btn.next { right: -6px; }
+/* Style for Spring 1971 context box */
+.context-box {
+  background-color: #f9f9f9;       /* light gray background */
+  border-left: 4px solid #336699;  /* colored left border */
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.context-box h3 {
+  margin-top: 0;
+  color: #336699;                  /* header color matches border */
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.context-box ul {
+  margin: 0.5rem 0 0 1rem;
+  padding: 0;
+}
+
+.context-box li {
+  margin-bottom: 0.5rem;
+}

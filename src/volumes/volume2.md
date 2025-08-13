@@ -440,39 +440,158 @@ At night, we’d head back to the cabin, dry out by the fire, and share drinks, 
 </figure>
 
 
+## Winter–Spring 1971: Fairways, Fillmore Nights, and a College in Crisis
 
+As the winter of 1971 set in, my life found a rhythm that balanced discipline and pure freedom. By day, I was a member of the **Queens College golf team**, which played its home matches and held regular practices at the **Black course in Bethpage**. I spent many afternoons honing my game on **Bethpage Black**, a course already known for its difficulty — long carries, narrow fairways, and greens that punished even the faintest misread.
 
+<figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/bethpage-black-18th.png" alt="The 18th hole at Bethpage Black" style="width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    The 18th hole at Bethpage Black — where I learned just how demanding those greens could be.
+  </figcaption>
+</figure>
 
+Competition wasn’t just limited to practice rounds. I remember matches at other venues — **Briar Hall**, a tight, tree-lined course that demanded precision, and **Baltusrol** in New Jersey, a storied championship layout whose prestige felt alive under my feet.
 
+<figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/briar-hall-clubhouse.jpg" alt="Briar Hall (Briar Hills) — clubhouse, Briarcliff Manor" style="width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Briar Hall (Briar Hills), Briarcliff Manor — narrow corridors of trees where every shot needed focus.
+  </figcaption>
+</figure>
 
+<figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/baltusrol-fairway.jpg" alt="Baltusrol — championship fairway" style="width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Baltusrol, New Jersey — immaculate fairways and the weight of golf history underfoot.
+  </figcaption>
+</figure>
 
+That season, two teammates stood out by more than their swings: **Danny Rosenthal** and **Barry Kurland**. Even though I was registered for my normal load of classes, once golf season started it was just as likely as not that I’d skip class for a match or practice, and I accumulated a decent number of incompletes.
 
+When dusk fell, I traded the quiet of fairways for the raw electricity of concert halls, becoming a regular at the legendary **Fillmore East** in Manhattan. The atmosphere — shadowed aisles, the murmur just before the first chord — was something you felt in your bones.
 
+<figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/fillmore-east-marque.jpg" alt="Fillmore East marquee, 1971" style="width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Fillmore East marquee, 1971 — the crowd knew the end of an era was near.
+  </figcaption>
+</figure>
 
+That spring’s concert lineup was one for the record books:
 
+- **March 13, 1971** — *The Allman Brothers Band*, part of their landmark *At Fillmore East* recording run — Duane Allman and Dickey Betts traded licks like a conversation of fire.  
+- **April 20, 1971** — *Ten Years After* with *The J. Geils Band*. Alvin Lee’s guitar sang like lightning; Geils ripped through the night with raw power.  
+- **May 4, 1971** — *Jethro Tull* with *Cowboy*, on the theatrical *Aqualung* tour — Ian Anderson’s flute notes hung in the air long after the set ended.  
+- **June 26, 1971** — *The Grateful Dead*, headlining the Saturday night of the Fillmore East’s closing weekend. A charged farewell, as music and emotion collided in an unforgettable close to an era.
 
+<figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/allman-brothers-fillmore.jpg" alt="Allman Brothers Band — Fillmore East, March 1971" style="width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    The Allman Brothers Band — Saturday night at Fillmore East, March 1971.
+  </figcaption>
+</figure>
 
+<figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/grateful-dead-fillmore-0629.jpg" alt="Grateful Dead — Fillmore East, June 26, 1971" style="width: 100%; height: auto; display: block; margin: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    The Grateful Dead — Saturday, June 26, 1971, the night before the Fillmore’s final show.
+  </figcaption>
+</figure>
 
+Meanwhile, the country was in turmoil — Vietnam, the Pentagon Papers, the 26th Amendment. And even on campus, unrest hit home. **Queens College ended the school year early — before May — and canceled the spring carnival.** I remember talking with friends about how strange it was that school never seemed to finish in the spring.
 
+That gap — no lectures, no carnival, no closure — mirrored the larger uncertainty. My days on the course and nights at the Fillmore were a way to hold onto something steady when everything else felt in flux.
 
-Late 1971–1972 — My First Porsche
+<aside class="context-box">
+  <h3>Spring 1971: National Context</h3>
+  <ul>
+    <li><strong>Vietnam War:</strong> The <em>Pentagon Papers</em> were published in June; anti-war protests surged nationwide.</li>
+    <li><strong>Politics:</strong> The 26th Amendment lowered the voting age to 18 in July; distrust in government deepened.</li>
+    <li><strong>Social Movements:</strong> Counterculture remained strong; women’s liberation gained momentum; environmentalism grew after Earth Day.</li>
+    <li><strong>Economy:</strong> Inflation and trade deficits mounted; Nixon imposed wage/price controls in August.</li>
+    <li><strong>Space Program:</strong> Apollo missions continued.</li>
+  </ul>
+</aside>
 
-In late 1971 my father and I drove up to a Westchester dealer and found a 1971 Porsche 911E demo car with only a few hundred miles on it. The original sticker had been around $11,500, but as a demo we bought it for $7,500. It was the first truly high-performance car I’d ever driven—and the first 5-speed manual I owned.
-<figure style="text-align:center; margin:1.25rem auto; max-width:900px;"> <img src="/assets/images/porsche-1971-911e-green.png" alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens" class="responsive-img" style="width:100%; height:auto; border-radius:8px;" /> <figcaption style="font-size:0.95rem; color:#666; margin-top:0.5rem;"> My 1971 Porsche 911E (demo car, ~hundreds of miles when we bought it for $7,500). Five-speed manual, rear-engine, and a feeling like you were sitting on the road. </figcaption> </figure>
+## Fall 1971: Ice Cream Routes, Music, and the War on the Mind
 
-At that point my only stick-shift “experience” was helping a Knight House friend with his ice-cream truck—a column-shift manual—so the 911’s floor shifter was a crash course. One quiet evening on the Clearview Expressway, the speedometer swept toward 180 in the left lane before I backed off—whether the gauge was optimistic or not, it felt like flying. I never did anything like that again.
+Just after school started, a friend of mine at Knight House named **Andy Moss** asked if I would help him with his ice cream truck. I agreed — it sounded like fun.
 
-Owning the Porsche taught me another lesson: service was expensive. New York’s rough roads knocked the alignment out regularly, and Porsche charged about $150 for a wheel alignment in the early ’70s—real money back then.
+The first thing he did was teach me how to drive it. It wasn’t a sports car-style manual; this was a **three-on-the-tree column shift**, clutch on the floor, lever on the steering column. It took an hour or two before I got the hang of it.
 
-A practical upside came soon after: I began driving my sister to her program on 164th Street each morning. Because of that responsibility I received a campus parking pass, which completely changed my Queens College routine (no more circling for an hour hunting spots).
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <a href="/assets/images/good-humor-side-window-full.jpg" data-lightbox="icecream" data-title="Good Humor truck with side serving window — just like Andy’s">
+    <img src="/assets/images/good-humor-side-window.jpg"
+         alt="Good Humor ice cream truck with side serving window"
+         loading="lazy"
+         style="width:100%; height:auto; display:block; margin:auto;">
+  </a>
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    Good Humor truck with side serving window — just like Andy’s.
+  </figcaption>
+</figure>
 
-I kept the 911E until 1978. When it came time to sell, a buyer drove from Albuquerque to New York and paid me the same $7,500 we’d spent in 1971. Not a bad run for a first Porsche.
+Once I could drive it, Andy showed me the route — cruising neighborhood streets, music playing, serving kids waiting at the window. Over the next few weeks, I ran the truck solo about six times. It wasn’t just popsicles — it was joy delivered, one cone at a time.
+
+After that month on the route, I was left with more than memories — I had learned to drive a manual-clutch truck, and that’s a skill I carried long after the music faded.
+
+Meanwhile, campus life was shifting too. In the cafeteria, conversations about Vietnam and the draft became daily fare. Debates at every table, protests growing louder outside — it was impossible to ignore. Nixon’s announcement of wage-and-price controls raised alarms about possible shortages, but in my own life — at home, with friends — nothing seemed to change immediately.
+
+Semester routines continued: a walk to the bookstore became necessary at the beginning of each term. A detail I’ve never mentioned: I’d earned a **Regents Scholarship** before college, and since Queens College had no tuition, they sent me **$125 per semester for books** — a nice support for those bookstore trips.
+
+I stayed active on campus — regularly attending **New York Audio Society meetings**, participating in Knight House life (though I skipped most parties), and diving deeper into advanced music courses. Classical music and theory began to hold even more fascination. I also kept going to **New York Philharmonic concerts** with my brother, a steady refuge.
+
+Then as December neared, the draft news changed everything. The government announced that they had stopped calling numbers — they’d only gone as high as **125 from the July 1970 lottery** (for 1951 births) :contentReference[oaicite:1]{index=1}.
+
+I prepared myself: at year’s end, I declared myself **1-A**, eligible for immediate induction. But on **January 1**, I was reclassified as **1-H**, meaning I was no longer subject to processing :contentReference[oaicite:2]{index=2}. It was an enormous relief — I didn’t have to worry about being drafted myself, even while the war raged on around me, affecting friends and the nation.
+
+---
+## 1972: A Year in Motion
+
+The year 1972 opened with the feeling that things were about to change — for the country, for Queens College, and for me. The war in Vietnam was still an ever-present backdrop, protests still flared on campus, and I had a full slate of classes, friends, and commitments. But as winter set in, one obsession began to dominate my thoughts: sports cars.
+
+I had been poring over the car magazines for months, memorizing performance charts and technical write-ups. One statistic about the Porsche 911E stopped me cold — it could climb a **75-degree incline**. That was the kind of figure that didn’t just suggest engineering excellence; it made the car sound almost superhuman. Every review I read seemed to describe it as something between a precision instrument and a living creature.
+
+That fascination, coupled with the constant hassle of trying to park my big Pontiac Bonneville near campus, set the stage for the first big event of the year — the day my father and I walked into a Porsche showroom in Westchester and changed the way I thought about driving forever.
+
+---
+
+### My First Porsche
+
+Parking the Bonneville around Queens College was its own problem. More than once, I’d waste so much time circling for a spot that it interfered with getting to class. The idea of a smaller, more nimble car started to make more and more sense — and the fact that it happened to be a Porsche didn’t hurt.
+
+One day, my father and I drove up to a Porsche dealer in Westchester. The showroom gleamed — polished floors, bright lights bouncing off paintwork. A salesman asked if I’d like a demo ride. I climbed into the passenger seat while he took the wheel, and we set off down the **iconic, twisty parkway** nearby. The way the car carved through corners was unlike anything I’d felt before — direct, poised, and alive. By the time we rolled back into the dealership, I was already sold.
+
+My father asked me what I thought.  
+“I’d definitely like it,” I told him.  
+He negotiated quickly, and the dealer agreed to drop the price from the **$11,500 list** to **$7,500** — a steep and immediate discount for the Irish Green 1971 Porsche 911E, a demo model with only a few hundred miles.
+
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <a href="/assets/images/porsche-1971-911e-green-full.png" data-lightbox="porsche" data-title="1971 Porsche 911E in Irish Green — my first sports car">
+    <img src="/assets/images/porsche-1971-911e-green.png"
+         alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens"
+         loading="lazy"
+         style="width:100%; height:auto; display:block; margin:auto;">
+  </a>
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    My 1971 Porsche 911E (demo car, a few hundred miles when we bought it for $7,500).  
+    Five-speed manual, rear-engine, and a feeling like you were sitting on the road.
+  </figcaption>
+</figure>
+
+I drove it home from Westchester myself, being very careful at first. My only stick-shift experience had been helping a Knight House friend with his ice cream truck’s column-shift manual, so the Porsche’s short-throw floor shifter was new territory. I had a couple of rough clutch starts in the first twenty feet, but after that I settled in. By the time I reached Queens, it felt natural.
+
+One quiet night on the Clearview Expressway, I let the speedometer sweep up toward 180 in the left lane before backing off — whether the gauge was optimistic or not, it felt like flying. I never tried anything like that again.
+
+I was still concerned about trying to park the Porsche on the crowded streets around Queens College. Even though the car was smaller than the Bonneville, parking was always tight. It turned out my sister had been going to the **Handicap Center on 164th Street**, as she had been born with cerebral palsy. Up to that point, my father had been driving her there each morning on his way to work. He suggested that if I took over that responsibility, he would try to arrange for the college to grant me an on-campus parking pass so I could get to class without being late. The college agreed. From then on, and for the rest of my time at Queens College, I had the rare privilege of an **on-campus parking space** — a small but meaningful benefit that made both commuting and classes far easier.
+
+Owning the 911E came with a few lessons. New York’s rough roads meant frequent alignments, and Porsche charged about $150 for the service — real money in the early ’70s. But every time I slid into the low-slung seat, turned the key, and heard that flat-six come to life, it felt worth it.
+
 
 
 
 ------------------------
-
-The following year (1971), classes ended early again. That fall, students were even **given two weeks off in October for “political activity.”** My friends and I used it to **road-trip to Washington, D.C.**, though our goal was sightseeing, not activism.
 
 Sometime during the **summer of 1973**, I was paired in a golf round at Douglaston Golf Course with a woman named **Barbara** and her father. We hit it off, and although we dated briefly, we mostly became close friends. Through Barbara, I met **Bryan Popko**, who was a distributor for a company called **SYBERVISION**. That connection would become life-changing. SYBERVISION, founded on neuropsychological principles, offered programs like *The Neuropsychology of Achievement* and *The Neuropsychology of Self-Determination*. These taught you to **reprogram your brain** to overcome limiting beliefs, build confidence, and change behavior through mental rehearsal and visualization. 
 
