@@ -43,7 +43,7 @@ We staked out a spot. Talked to people. Took it all in. It felt surreal, like wa
 At some point **Tuesday night the rain started** — and then it **never let up**. Heavy, soaking rain. **Wednesday, all day. Thursday, late.** It **destroyed my sleeping bag** and even **ruined my moccasins**; I was basically barefoot. At least one night (maybe two), Debbie and I went back to the car to sleep just to get out of the downpour.
 
 <figure style="text-align:center; margin: 1rem auto; max-width: 980px;">
-  <img src="/assets/images/woodstock-wet.jpeg" alt="Mud Everywhere" class="responsive-img" />
+  <img src="/assets/images/woodstock-wet_upscayl_4x_upscayl-standard-4x.png" alt="Mud Everywhere" class="responsive-img" />
   <figcaption>The Rain didn't stop.</figcaption>
 </figure>
 
@@ -61,15 +61,15 @@ Below is a quick **mini carousel** of Richie Havens images from that opening set
 
 <div class="mini-carousel">
   <figure>
-    <img src="/assets/images/woodstock-richie-havens-1.jpeg" alt="Richie Havens on stage, early evening light" />
+    <img src="/assets/images/woodstock-richie-havens-1_upscayl_4x_upscayl-standard-4x.png" alt="Richie Havens on stage, early evening light" />
     <figcaption>Richie Havens, setting the tone — raw, soulful, immediate.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/woodstock-richie-havens-2.jpeg" alt="Richie Havens strumming his guitar, intense focus" />
+    <img src="/assets/images/woodstock-richie-havens-2_upscayl_4x_upscayl-standard-4x.png" alt="Richie Havens strumming his guitar, intense focus" />
     <figcaption>That strumming — relentless and hypnotic.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/woodstock-richie-havens-3.jpeg" alt="Richie Havens building to 'Freedom' improvisation" />
+    <img src="/assets/images/woodstock-richie-havens-3_upscayl_4x_upscayl-standard-4x.png" alt="Richie Havens building to 'Freedom' improvisation" />
     <figcaption>Building to “Freedom.” You could feel the field breathing with him.</figcaption>
   </figure>
 </div>
@@ -100,7 +100,7 @@ We could still get back up to the tents for supplies, even late. The **crowd was
 ---
 
 <figure style="text-align:center; margin: 1rem auto; max-width: 980px;">
-  <img src="/assets/images/woodstock-crowd.jpeg" alt="A sea of people stretching out from the Woodstock stage" class="responsive-img" />
+  <img src="/assets/images/woodstock-crowd_upscayl_4x_upscayl-standard-4x.png" alt="A sea of people stretching out from the Woodstock stage" class="responsive-img" />
   <figcaption>The scale of it all — a sea of people stretching way beyond the stage.</figcaption>
 </figure>
 
