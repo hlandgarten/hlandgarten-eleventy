@@ -445,7 +445,7 @@ At night, we’d head back to the cabin, dry out by the fire, and share drinks, 
 As the winter of 1971 set in, my life found a rhythm that balanced discipline and pure freedom. By day, I was a member of the **Queens College golf team**, which played its home matches and held regular practices at the **Black course in Bethpage**. I spent many afternoons honing my game on **Bethpage Black**, a course already known for its difficulty — long carries, narrow fairways, and greens that punished even the faintest misread.
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/bethpage-black-18th.png" alt="The 18th hole at Bethpage Black" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/bethpage-black-18th-1.png" alt="The 18th hole at Bethpage Black" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     The 18th hole at Bethpage Black — where I learned just how demanding those greens could be.
   </figcaption>
@@ -542,9 +542,9 @@ Semester routines continued: a walk to the bookstore became necessary at the beg
 
 I stayed active on campus — regularly attending **New York Audio Society meetings**, participating in Knight House life (though I skipped most parties), and diving deeper into advanced music courses. Classical music and theory began to hold even more fascination. I also kept going to **New York Philharmonic concerts** with my brother, a steady refuge.
 
-Then as December neared, the draft news changed everything. The government announced that they had stopped calling numbers — they’d only gone as high as **125 from the July 1970 lottery** (for 1951 births) :contentReference[oaicite:1]{index=1}.
+Then as December neared, the draft news changed everything. The government announced that they had stopped calling numbers — they’d only gone as high as **125 from the July 1970 lottery** (for 1951 births) .
 
-I prepared myself: at year’s end, I declared myself **1-A**, eligible for immediate induction. But on **January 1**, I was reclassified as **1-H**, meaning I was no longer subject to processing :contentReference[oaicite:2]{index=2}. It was an enormous relief — I didn’t have to worry about being drafted myself, even while the war raged on around me, affecting friends and the nation.
+I prepared myself: at year’s end, I declared myself **1-A**, eligible for immediate induction. But on **January 1**, I was reclassified as **1-H**, meaning I was no longer subject to processing. It was an enormous relief — I didn’t have to worry about being drafted myself, even while the war raged on around me, affecting friends and the nation.
 
 ---
 ## 1972: A Year in Motion
@@ -584,10 +584,15 @@ I drove it home from Westchester myself, being very careful at first. My only st
 
 One quiet night on the Clearview Expressway, I let the speedometer sweep up toward 180 in the left lane before backing off — whether the gauge was optimistic or not, it felt like flying. I never tried anything like that again.
 
-I was still concerned about trying to park the Porsche on the crowded streets around Queens College. Even though the car was smaller than the Bonneville, parking was always tight. It turned out my sister had been going to the **Handicap Center on 164th Street**, as she had been born with cerebral palsy. Up to that point, my father had been driving her there each morning on his way to work. He suggested that if I took over that responsibility, he would try to arrange for the college to grant me an on-campus parking pass so I could get to class without being late. The college agreed. From then on, and for the rest of my time at Queens College, I had the rare privilege of an **on-campus parking space** — a small but meaningful benefit that made both commuting and classes far easier.
+I was still concerned about trying to park the Porsche on the crowded streets around Queens College. Even though the car was smaller than the Bonneville, parking was always tight. It turned out my sister had been going to the **United Cerebral Palsy of Queens on 164th Street**, as she had been born with cerebral palsy. Up to that point, my father had been driving her there each morning on his way to work. He suggested that if I took over that responsibility, he would try to arrange for the college to grant me an on-campus parking pass so I could get to class without being late. The college agreed. From then on, and for the rest of my time at Queens College, I had the rare privilege of an **on-campus parking space** — a small but meaningful benefit that made both commuting and classes far easier.
 
 Owning the 911E came with a few lessons. New York’s rough roads meant frequent alignments, and Porsche charged about $150 for the service — real money in the early ’70s. But every time I slid into the low-slung seat, turned the key, and heard that flat-six come to life, it felt worth it.
 
+<article class="story-leadin">
+  <h3>Intersession 1972: The Flamingo, the Grand Canyon, and the Pepto-Bismol Blackjack Run</h3>
+  <p>Las Vegas neon, a white-knuckle Grand Canyon flight, and an unlikely blackjack streak — all in a single January trip. From the Flamingo’s casino floor to burro riders on canyon trails, this intersession was unforgettable.</p>
+  <a href="/stories/1972-vega-flamingo" class="btn" id="from-lasvegas">Read the Story about our Trip</a>
+</article>
 
 
 

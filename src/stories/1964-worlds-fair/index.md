@@ -101,7 +101,7 @@ But the Fair wasn’t just a display of American innovation — it was a **globa
   <figcaption>The Belgian Village courtyard — cafes, waffle stands, shops, and folk performers.</figcaption>
 </figure>
 
-Though I was there as a 12-year-old, my wife later shared one of her earliest memories — the **Bel‑Gem / Brussels waffles** at the Belgian Village, crisp and warm, served with fresh strawberries and whipped cream. They cost about $1 and became the fair’s most talked-about treat. The Village itself was modeled on old Flemish streets, complete with a cobblestone square, shops, a carousel, and folk dancers in traditional costume. :contentReference[oaicite:6]{index=6}
+Though I was there as a 12-year-old, my wife later shared one of her earliest memories — the **Bel‑Gem / Brussels waffles** at the Belgian Village, crisp and warm, served with fresh strawberries and whipped cream. They cost about $1 and became the fair’s most talked-about treat. The Village itself was modeled on old Flemish streets, complete with a cobblestone square, shops, a carousel, and folk dancers in traditional costume.
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
   <img src="/assets/images/waffle.jpeg" alt="Belgian waffles stand at Belgian Village" />
