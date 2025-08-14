@@ -16,11 +16,11 @@ When you arrived and parked, you didn’t just walk into an amusement park — y
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;">
   <figure style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="/assets/images/freedomland-map.jpg" alt="Vintage map layout of Freedomland U.S.A." />
+    <img src="/assets/images/freedomland-map_upscayl_4x_upscayl-standard-4x.png" alt="Vintage map layout of Freedomland U.S.A." />
     <figcaption>A map of Freedomland, laid out to resemble the continental United States.</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="/assets/images/freedomland-old-nyc.jpg" alt="Street scene from Little Old New York at Freedomland" />
+    <img src="/assets/images/freedomland-old-nyc_upscayl_4x_upscayl-standard-4x.png" alt="Street scene from Little Old New York at Freedomland" />
     <figcaption>Little Old New York: Model T cars, trolleys, and staged political rallies from the 1890s.</figcaption>
   </figure>
 </div>
@@ -34,7 +34,7 @@ From the Old New York train station, you could board an authentic-looking train 
 Every 20 minutes, the Great Chicago Fire would "break out," and kids like me could help put it out using hand pumps. We even got firefighter certificates! There was also a massive artificial lake that mimicked the Great Lakes.
 
 <figure>
-  <img src="/assets/images/freedomland-chicago-fire.jpg" alt="Chicago Fire reenactment attraction" />
+  <img src="/assets/images/freedomland-chicago-fire_upscayl_4x_upscayl-standard-4x.png" alt="Chicago Fire reenactment attraction" />
   <figcaption>Old Chicago: A dramatic simulation of the Great Chicago Fire every 20 minutes.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Every 20 minutes, the Great Chicago Fire would "break out," and kids like me cou
 Cowboy shootouts in dusty towns. Actors fell from balconies after staged gunfights. The **Casa Loco** tilted house made you stumble like you were in a cartoon. It was exhilarating.
 
 <figure>
-  <img src="/assets/images/freedomland-cowboy-town.jpg" alt="Cowboy gunfight show at Freedomland" />
+  <img src="/assets/images/freedomland-cowboy-town_upscayl_4x_upscayl-standard-4x.png" alt="Cowboy gunfight show at Freedomland" />
   <figcaption>The Old Southwest: Live cowboy stunt shows, mining rides, and Casa Loco.</figcaption>
 </figure>
 

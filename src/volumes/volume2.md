@@ -1,6 +1,6 @@
 ---
 title: "Volume 2"
-layout: page
+layout: page.njk
 permalink: /volumes/volume2/
 ---
 
@@ -20,7 +20,7 @@ On those rides along the Long Island Expressway service road, I struck up conver
 turning the bus into a rolling introduction to campus life — friendships forming before the first lecture even began.
 
 <figure style="text-align:center; margin:1.25rem auto; max-width:780px;">
-  <img src="/assets/images/q27-bus-1970s.jpeg" alt="Q27 bus in Queens in the late 1960s–early 1970s" style="width:100%; height:auto; border-radius:6px;" loading="lazy" />
+  <img src="/assets/images/q27-bus-1970s_upscayl_4x_upscayl-standard-4x.png" alt="Q27 bus in Queens in the late 1960s–early 1970s" style="width:100%; height:auto; border-radius:6px;" loading="lazy" />
   <figcaption style="font-size:.95rem; color:#666; margin-top:.4rem;">
     Morning commute on the <strong>Q27</strong> to Queens College.
   </figcaption>
@@ -33,7 +33,7 @@ Before classes began, I attended an off-campus orientation for new students. The
 
 <figure class="photo-block">
   <img
-    src="/assets/images/qc-orientation-vintage.jpeg"
+    src="/assets/images/qc-orientation-vintage_upscayl_4x_upscayl-standard-4x.png"
     alt="Queens College freshmen gathered during orientation activities outdoors, early 1970s"
     class="responsive-img"
     loading="lazy"
@@ -445,7 +445,7 @@ At night, we’d head back to the cabin, dry out by the fire, and share drinks, 
 As the winter of 1971 set in, my life found a rhythm that balanced discipline and pure freedom. By day, I was a member of the **Queens College golf team**, which played its home matches and held regular practices at the **Black course in Bethpage**. I spent many afternoons honing my game on **Bethpage Black**, a course already known for its difficulty — long carries, narrow fairways, and greens that punished even the faintest misread.
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/bethpage-black-18th-1.png" alt="The 18th hole at Bethpage Black" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/bethpage-black-18th_upscayl_4x_upscayl-standard-4x.png" alt="The 18th hole at Bethpage Black" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     The 18th hole at Bethpage Black — where I learned just how demanding those greens could be.
   </figcaption>
@@ -454,14 +454,14 @@ As the winter of 1971 set in, my life found a rhythm that balanced discipline an
 Competition wasn’t just limited to practice rounds. I remember matches at other venues — **Briar Hall**, a tight, tree-lined course that demanded precision, and **Baltusrol** in New Jersey, a storied championship layout whose prestige felt alive under my feet.
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/briar-hall-clubhouse.jpg" alt="Briar Hall (Briar Hills) — clubhouse, Briarcliff Manor" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/briar-hall-clubhouse_upscayl_4x_upscayl-standard-4x.png" alt="Briar Hall (Briar Hills) — clubhouse, Briarcliff Manor" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     Briar Hall (Briar Hills), Briarcliff Manor — narrow corridors of trees where every shot needed focus.
   </figcaption>
 </figure>
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/baltusrol-fairway.jpg" alt="Baltusrol — championship fairway" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/baltusrol-fairway_upscayl_4x_upscayl-standard-4x.png" alt="Baltusrol — championship fairway" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     Baltusrol, New Jersey — immaculate fairways and the weight of golf history underfoot.
   </figcaption>
@@ -472,7 +472,7 @@ That season, two teammates stood out by more than their swings: **Danny Rosentha
 When dusk fell, I traded the quiet of fairways for the raw electricity of concert halls, becoming a regular at the legendary **Fillmore East** in Manhattan. The atmosphere — shadowed aisles, the murmur just before the first chord — was something you felt in your bones.
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/fillmore-east-marque.jpg" alt="Fillmore East marquee, 1971" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/fillmore-east-marque_upscayl_4x_upscayl-standard-4x.png" alt="Fillmore East marquee, 1971" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     Fillmore East marquee, 1971 — the crowd knew the end of an era was near.
   </figcaption>
@@ -486,14 +486,14 @@ That spring’s concert lineup was one for the record books:
 - **June 26, 1971** — *The Grateful Dead*, headlining the Saturday night of the Fillmore East’s closing weekend. A charged farewell, as music and emotion collided in an unforgettable close to an era.
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/allman-brothers-fillmore.jpg" alt="Allman Brothers Band — Fillmore East, March 1971" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/allman-brothers-fillmore_upscayl_4x_upscayl-standard-4x.png" alt="Allman Brothers Band — Fillmore East, March 1971" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     The Allman Brothers Band — Saturday night at Fillmore East, March 1971.
   </figcaption>
 </figure>
 
 <figure style="margin: 0 auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/grateful-dead-fillmore-0629.jpg" alt="Grateful Dead — Fillmore East, June 26, 1971" style="width: 100%; height: auto; display: block; margin: auto;">
+  <img src="/assets/images/grateful-dead-fillmore-0629_upscayl_4x_upscayl-standard-4x.png" alt="Grateful Dead — Fillmore East, June 26, 1971" style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
     The Grateful Dead — Saturday, June 26, 1971, the night before the Fillmore’s final show.
   </figcaption>
@@ -521,16 +521,15 @@ Just after school started, a friend of mine at Knight House named **Andy Moss** 
 The first thing he did was teach me how to drive it. It wasn’t a sports car-style manual; this was a **three-on-the-tree column shift**, clutch on the floor, lever on the steering column. It took an hour or two before I got the hang of it.
 
 <figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <a href="/assets/images/good-humor-side-window-full.jpg" data-lightbox="icecream" data-title="Good Humor truck with side serving window — just like Andy’s">
-    <img src="/assets/images/good-humor-side-window.jpg"
-         alt="Good Humor ice cream truck with side serving window"
-         loading="lazy"
-         style="width:100%; height:auto; display:block; margin:auto;">
-  </a>
+  <img src="/assets/images/good-humor-side-window_upscayl_4x_upscayl-standard-4x.png"
+       alt="Good Humor ice cream truck with side serving window"
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
   <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
     Good Humor truck with side serving window — just like Andy’s.
   </figcaption>
 </figure>
+
 
 Once I could drive it, Andy showed me the route — cruising neighborhood streets, music playing, serving kids waiting at the window. Over the next few weeks, I ran the truck solo about six times. It wasn’t just popsicles — it was joy delivered, one cone at a time.
 
@@ -568,17 +567,16 @@ My father asked me what I thought.
 He negotiated quickly, and the dealer agreed to drop the price from the **$11,500 list** to **$7,500** — a steep and immediate discount for the Irish Green 1971 Porsche 911E, a demo model with only a few hundred miles.
 
 <figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <a href="/assets/images/porsche-1971-911e-green-full.png" data-lightbox="porsche" data-title="1971 Porsche 911E in Irish Green — my first sports car">
-    <img src="/assets/images/porsche-1971-911e-green.png"
-         alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens"
-         loading="lazy"
-         style="width:100%; height:auto; display:block; margin:auto;">
-  </a>
+  <img src="/assets/images/porsche-1971-911e-green.png"
+       alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens"
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
   <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
     My 1971 Porsche 911E (demo car, a few hundred miles when we bought it for $7,500).  
     Five-speed manual, rear-engine, and a feeling like you were sitting on the road.
   </figcaption>
 </figure>
+
 
 I drove it home from Westchester myself, being very careful at first. My only stick-shift experience had been helping a Knight House friend with his ice cream truck’s column-shift manual, so the Porsche’s short-throw floor shifter was new territory. I had a couple of rough clutch starts in the first twenty feet, but after that I settled in. By the time I reached Queens, it felt natural.
 

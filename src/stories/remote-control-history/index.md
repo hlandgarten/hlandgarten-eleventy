@@ -1,6 +1,6 @@
 ---
 title: "Click, Clunk, and Clicker: A Short History of the TV Remote"
-layout: page
+layout: page.njk
 permalink: /stories/remote-control-history/
 ---
 

@@ -6,12 +6,8 @@ permalink: /stories/1972-vega-flamingo/
 
 Alan and I decided to spend intersession in Las Vegas — January 1972, a chance to escape the cold and do something a little outrageous. We flew west, caught a cab from the airport to the **Flamingo**, and checked in under the glow of its famous neon.
 
-<figure class="story-image">
-  <a href="/assets/images/flamingo-1972-exterior.jpg" data-lightbox="intersession-1972" data-title="Flamingo Hotel exterior, early 1970s">
-    <img src="/assets/images/flamingo-1972-exterior.jpg"
-         alt="Flamingo Hotel exterior, early 1970s"
-         loading="lazy">
-  </a>
+<figure style="text-align:center; margin: 1.5rem auto; max-width: 780px;">
+  <img src="/assets/images/flamingo-1972-exterior.jpg" alt="Flamingo Hotel exterior, early 1970s" class="responsive-img" />
   <figcaption>Flamingo Hotel, Las Vegas — the welcome sight at the start of our intersession adventure.</figcaption>
 </figure>
 
@@ -21,32 +17,26 @@ The plane — a high-wing single-engine — didn’t just fly over; the pilot de
 
 On the ground, we toured the rim and watched a group of riders making their way down the canyon trails on burros — slow, careful steps against the vast drop. It looked like an unforgettable experience, though I decided it was one I’d rather photograph than try.
 
-<figure class="story-image">
-  <a href="/assets/images/grand-canyon-plane-1972-full.png" data-lightbox="intersession-1972" data-title="Sightseeing plane banking inside the Grand Canyon">
-    <img src="/assets/images/grand-canyon-plane-1972-full.png"
-         alt="Small sightseeing plane banking inside the Grand Canyon"
-         loading="lazy">
-  </a>
+<figure style="text-align:center; margin: 1.5rem auto; max-width: 780px;">
+  <img src="/assets/images/grand-canyon-plane-1972-full.png"
+       alt="Small sightseeing plane banking inside the Grand Canyon"
+       class="responsive-img" />
   <figcaption>Our sightseeing plane banking inside the Grand Canyon — breathtaking, and stomach-churning.</figcaption>
 </figure>
 
-<figure class="story-image">
-  <a href="/assets/images/grand-canyon-burros-1972.png" data-lightbox="intersession-1972" data-title="Burro riders descending Grand Canyon trail">
-    <img src="/assets/images/grand-canyon-burros-1972.png"
-         alt="Burro riders descending a Grand Canyon trail, 1972"
-         loading="lazy">
-  </a>
+<figure style="text-align:center; margin: 1.5rem auto; max-width: 780px;">
+  <img src="/assets/images/grand-canyon-burros-1972-1.png"
+       alt="Burro riders descending a Grand Canyon trail, 1972"
+       class="responsive-img" />
   <figcaption>Riders on burros making their way into the Grand Canyon — a slow, deliberate journey into the depths.</figcaption>
 </figure>
 
-We flew back to Las Vegas that afternoon. By the time we landed, my stomach was still in knots. That evening, I sat down at a blackjack table in the Flamingo with a bottle of **Pepto-Bismol** in my hand. I must have been quite a sight, but I kept playing — and winning. Over the next couple of days, I held my own at the tables, enough that the dealers began to recognize me. I wasn’t doing anything fancy, just applying the **basic strategy** I’d learned from from Ed Thorp’s Beat the Dealer — a book Mike Berkley had gotten me started on back at college.
+We flew back to Las Vegas that afternoon. By the time we landed, my stomach was still in knots. That evening, I sat down at a blackjack table in the Flamingo with a bottle of **Pepto-Bismol** in my hand. I must have been quite a sight, but I kept playing — and winning. Over the next couple of days, I held my own at the tables, enough that the dealers began to recognize me. I wasn’t doing anything fancy, just applying the **basic strategy** I’d learned from Ed Thorp’s *Beat the Dealer* — a book Mike Berkley had gotten me started on back at college.
 
-<figure class="story-image">
-  <a href="/assets/images/flamingo-blackjack-pepto-1972.png" data-lightbox="intersession-1972" data-title="Blackjack at the Flamingo with a bottle of Pepto-Bismol, 1972">
-    <img src="/assets/images/flamingo-blackjack-pepto-1972.png"
-         alt="Playing blackjack at the Flamingo with a bottle of Pepto-Bismol, 1972"
-         loading="lazy">
-  </a>
+<figure style="text-align:center; margin: 1.5rem auto; max-width: 780px;">
+  <img src="/assets/images/flamingo-blackjack-pepto-1972.png"
+       alt="Playing blackjack at the Flamingo with a bottle of Pepto-Bismol, 1972"
+       class="responsive-img" />
   <figcaption>Flamingo blackjack, January 1972 — Pepto-Bismol in one hand, chips in the other.</figcaption>
 </figure>
 

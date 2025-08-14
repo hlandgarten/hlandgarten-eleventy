@@ -21,65 +21,65 @@ By summer 1964, I was ready to experience the Fair. But getting there was anothe
 ## Unisphere
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/unisphere.jpeg" alt="Unisphere at the 1964 World’s Fair" />
+  <img src="/assets/images/unisphere_upscayl_4x_upscayl-standard-4x.png" alt="Unisphere at the 1964 World’s Fair" />
   <figcaption>The 140-foot Unisphere: centerpiece of the 1964–65 World’s Fair.</figcaption>
 </figure>
 
 ## General Motors – Futurama II
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/gm-exhibit.jpeg" alt="Futurama Ride interior" />
+  <img src="/assets/images/gm-exhibit_upscayl_4x_upscayl-standard-4x.png" alt="Futurama Ride interior" />
   <figcaption>Futurama ride: visitors glided through model cities of the future.</figcaption>
 </figure>
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/gm-futurama.jpeg" alt="Futurama Model Exhibit" />
+  <img src="/assets/images/gm-futurama_upscayl_4x_upscayl-standard-4x.png" alt="Futurama Model Exhibit" />
   <figcaption>Model dioramas showed underwater cities, lunar colonies, and automated highways.</figcaption>
 </figure>
 
 ## IBM Pavilion
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/ibm.jpeg" alt="IBM Pavilion" />
+  <img src="/assets/images/ibm_upscayl_4x_upscayl-standard-4x.png" alt="IBM Pavilion" />
   <figcaption>The IBM Pavilion's iconic egg structure sat atop steel columns.</figcaption>
 </figure>
 
 ## GE Carousel of Progress (Progressland)
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/ge.jpeg" alt="Carousel of Progress exterior" />
+  <img src="/assets/images/ge_upscayl_4x_upscayl-standard-4x.png" alt="Carousel of Progress exterior" />
   <figcaption>Progressland’s dome, home of GE’s Carousel of Progress developed by Disney.</figcaption>
 </figure>
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/crowds.jpeg" alt="Progressland crowd" />
+  <img src="/assets/images/crowds_upscayl_4x_upscayl-standard-4x.png" alt="Progressland crowd" />
   <figcaption>Crowds waited hours for a rotating tour of 20th-century American life.</figcaption>
 </figure>
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/ge-construction.jpg" alt="Progressland under construction" />
+  <img src="/assets/images/ge-construction_upscayl_4x_upscayl-standard-4x.png" alt="Progressland under construction" />
   <figcaption>Progressland under construction in early 1964, showing its massive truss design.</figcaption>
 </figure>
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/early.jpeg" alt="Progressland poster" />
+  <img src="/assets/images/early_upscayl_4x_upscayl-standard-4x.png" alt="Progressland poster" />
   <figcaption>Promotional artwork for GE’s “Carousel of Progress.”</figcaption>
 </figure>
 
 ### Inside the Show
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/int-1.jpeg" alt="Interior scene from Carousel of Progress" />
+  <img src="/assets/images/int-1_upscayl_4x_upscayl-standard-4x.png" alt="Interior scene from Carousel of Progress" />
   <figcaption>The final scene: a futuristic family celebrating Christmas with VR and appliances.</figcaption>
 </figure>
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/int-2.jpg" alt="Animatronic family scene" />
+  <img src="/assets/images/int-2_upscayl_4x_upscayl-standard-4x.png" alt="Animatronic family scene" />
   <figcaption>Each act featured animatronic families living through technological change.</figcaption>
 </figure>
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/int-3.jpg" alt="Audience view during rotation" />
+  <img src="/assets/images/int-3_upscayl_4x_upscayl-standard-4x.png" alt="Audience view during rotation" />
   <figcaption>The audience rotated around six theater stages in a seamless loop.</figcaption>
 </figure>
 
@@ -97,36 +97,36 @@ But the Fair wasn’t just a display of American innovation — it was a **globa
 ### Belgian Village & Waffles
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/belgian.jpeg" alt="Belgian Village square at Fair" />
+  <img src="/assets/images/belgian_upscayl_4x_upscayl-standard-4x.png" alt="Belgian Village square at Fair" />
   <figcaption>The Belgian Village courtyard — cafes, waffle stands, shops, and folk performers.</figcaption>
 </figure>
 
 Though I was there as a 12-year-old, my wife later shared one of her earliest memories — the **Bel‑Gem / Brussels waffles** at the Belgian Village, crisp and warm, served with fresh strawberries and whipped cream. They cost about $1 and became the fair’s most talked-about treat. The Village itself was modeled on old Flemish streets, complete with a cobblestone square, shops, a carousel, and folk dancers in traditional costume.
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/waffle.jpeg" alt="Belgian waffles stand at Belgian Village" />
+  <img src="/assets/images/waffle_upscayl_4x_upscayl-standard-4x.png" alt="Belgian waffles stand at Belgian Village" />
   <figcaption>Visitors lining up for Belgian waffles at the Belgian Village pavilion.</figcaption>
 </figure>
 
 ### Vatican Pavilion & Michelangelo’s Sistine Chapel Ceiling 
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/vatican-entrance.jpg" alt="Vatican Pavilion exterior at 1964 World's Fair" />
+  <img src="/assets/images/vatican-entrance_upscayl_4x_upscayl-standard-4x.png" alt="Vatican Pavilion exterior at 1964 World's Fair" />
   <figcaption>The Vatican Pavilion, an elegant oval-shaped building topped by a cross.</figcaption>
 </figure>
 
 Inside the **Vatican Pavilion**, millions stood in reverent silence as they were carried past *Michelangelo's Sistine Chapel Ceiling* on a moving walkway. It was the second‑most visited pavilion after GM and remains one of the Fair’s most powerful moments. 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/vatican-sistine.jpg" alt="Interior view of Michelangelo’s sistine ceiling at the Vatican Pavilion" />
+  <img src="/assets/images/vatican-sistine_upscayl_4x_upscayl-standard-4x.png" alt="Interior view of Michelangelo’s sistine ceiling at the Vatican Pavilion" />
   <figcaption>Visitors were moved past Michelangelo’s "Sistine Ceiling" on a conveyor belt inside the Pavilion.</figcaption>
 </figure>
 
 ### Republic of China Pavilion  
 
-Nearby was the **Republic of China Pavilion**, a vivid red-and-gold structure modeled on an imperial palace and filled with silks, jade, and artifacts. :contentReference[oaicite:8]{index=8}
+Nearby was the **Republic of China Pavilion**, a vivid red-and-gold structure modeled on an imperial palace and filled with silks, jade, and artifacts.
 
 <figure style="flex: 1; min-width: 280px; text-align: center;">
-  <img src="/assets/images/china_pavilion.jpeg" alt="Republic of China Pavilion at the Fair" />
+  <img src="/assets/images/china_pavilion_upscayl_4x_upscayl-standard-4x.png" alt="Republic of China Pavilion at the Fair" />
   <figcaption>The Republic of China Pavilion, modeled after an imperial palace, showcased Chinese culture and artistry.</figcaption>
 </figure>
 
