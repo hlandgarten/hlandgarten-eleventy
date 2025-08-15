@@ -593,6 +593,72 @@ Owning the 911E came with a few lessons. New York’s rough roads meant frequent
 </article>
 
 
+## The Porsche on the Ice Incident
+
+### A Brush with Death on a Second Date
+
+Spring semester had just begun when I met her in Knighthouse — pretty, smart, with a tumble of curly black hair. It was the third week of February, and a heavy snowstorm had swept through the week before.
+
+It was only our second time out together. I was driving the Porsche; she sat in the passenger seat, her curls catching the glow of the dash lights, as I picked her up for dinner. Around 7:30 on a winter night, we headed down the Whitestone Expressway toward that unusual left-side entrance to the Grand Central Parkway, right by LaGuardia Airport.
+
+The main roads were mostly clear, but the storm had left its mark. The lanes were bare asphalt, yet here and there, meltwater and slush had pooled where they didn’t belong.
+
+I eased into the left-side acceleration lane, building speed — not fast, just enough to merge. As I reached the curve onto the Parkway, the front tires sliced into what looked like harmless water. It wasn’t. Beneath the thin layer was ice. The steering wheel went light in my hands.
+
+### 1. End of the acceleration lane, hitting ice
+
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/porsche-ice-acceleration-lane.png"
+       alt="Porsche 911E at the end of an acceleration lane with four lanes beside it as it hits ice"
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    At the very end of the acceleration lane — four lanes beside us — just as we hit the patch of ice.
+  </figcaption>
+</figure>
+
+### 2. Middle lane, facing the wrong direction
+
+The Porsche snapped into its first spin — headlights sweeping past the side window.
+Second spin — airport floodlights whipped through the windshield. If someone was coming at sixty in any lane, this could be it.
+
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/porsche-ice-wrong-direction.png"
+       alt="Porsche 911E in the middle lane facing the wrong direction with taillights toward oncoming cars"
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    In the middle lane, facing the wrong way — taillights toward the oncoming cars — just moments after the spin.
+  </figcaption>
+</figure>
+
+### 3. Stopped in the right lane, facing the correct direction, cars passing
+
+Third spin — taillights and guardrails blurred together — and then, suddenly, stillness.
+
+We were in the far right lane, perfectly facing forward, the engine stalled. I turned the key — the motor caught instantly — and we drove on as if nothing had happened.
+
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/porsche-ice-right-lane.png"
+       alt="Porsche 911E stopped in the right lane facing the correct direction with cars whizzing past"
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    Finally stopped in the right lane, pointed the correct way, with traffic still rushing past.
+  </figcaption>
+</figure>
+
+But I knew exactly what had almost happened. On the Grand Central Parkway, at that spot, at that hour, there was almost always traffic. Yet in those few spinning seconds, every lane was empty. It was as if the entire highway had paused for us.
+
+I glanced at her — she met my eyes, a little wide but steady.
+“You okay?” I asked.
+She nodded. “We were lucky.”
+
+It felt like more than luck. It felt like a miracle.
+
+
+
+
 
 ------------------------
 
