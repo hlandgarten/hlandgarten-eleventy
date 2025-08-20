@@ -567,7 +567,7 @@ My father asked me what I thought.
 He negotiated quickly, and the dealer agreed to drop the price from the **$11,500 list** to **$7,500** — a steep and immediate discount for the Irish Green 1971 Porsche 911E, a demo model with only a few hundred miles.
 
 <figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/porsche-1971-911e-green.png"
+  <img src="/assets/images/porsche-driving-home.png"
        alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens"
        loading="lazy"
        style="width:100%; height:auto; display:block; margin:auto;">
@@ -623,7 +623,7 @@ The Porsche snapped into its first spin — headlights sweeping past the side wi
 Second spin — airport floodlights whipped through the windshield. If someone was coming at sixty in any lane, this could be it.
 
 <figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/porsche-ice-wrong-direction.png"
+  <img src="/assets/images/porsche-ice-wrong-direction1.png"
        alt="Porsche 911E in the middle lane facing the wrong direction with taillights toward oncoming cars"
        loading="lazy"
        style="width:100%; height:auto; display:block; margin:auto;">
@@ -655,6 +655,49 @@ I glanced at her — she met my eyes, a little wide but steady.
 She nodded. “We were lucky.”
 
 It felt like more than luck. It felt like a miracle.
+
+---
+
+That was our last date.
+
+### The Spinning Porsche
+
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <img src="/assets/images/porsche-1971-911e-green.png"
+       alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens"
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    My 1971 Porsche 911E (demo car, a few hundred miles when we bought it for $7,500).  
+    Five-speed manual, rear-engine, and a feeling like you were sitting on the road.
+  </figcaption>
+</figure>
+
+The Porsche incident happened in February — the kind of cold, gray day where the road feels harder than usual. A moment of wrong-lane chaos, spinning metal, and pounding hearts burned into memory.
+
+---
+
+### The Girl with the Balance Problem
+
+By March, I met someone new. She was beautiful, lively, and completely at ease in any room. To all appearances, she was perfectly normal — confident in her stride, steady on her feet.
+
+That’s why I was stunned the first time it happened.
+
+We were standing side-by-side at a football game. I looked away for a moment, and when I turned back, she was lying flat on the ground. No stumble, no warning — just down. It was almost as if she’d lost consciousness, but she hadn’t. Within seconds, she was getting back up, brushing it off as if nothing had happened.
+
+Later, she explained it was something she’d lived with since birth — a strange balance problem that could strike without warning. Weeks might pass between episodes, or it could happen twice in the same evening. She never faltered in spirit, never seemed self-conscious about it.
+
+Somewhere in those first weeks, she told me about her longtime childhood boyfriend — the man she always assumed she’d marry. But lately, she wasn’t so sure. Maybe that uncertainty was part of what brought her to me.
+
+For two months — March, April, and into May — we were inseparable. Late-night dinners, spontaneous road trips, and plenty of private time together at the Knight house. It was a relationship that filled every corner of my schedule without me even realizing.
+
+Then one night, she told me she had decided to go back to him. There was no fight, no drama — just quiet certainty. We didn’t really break up; she simply stepped back into the life she had always imagined for herself.
+
+---
+
+### Enter Lori
+
+That summer, the empty space she left was quickly filled. Lori arrived like a spark — and everything took a different turn.
 
 
 
