@@ -363,16 +363,13 @@ In the context of the Vietnam War, this number carried real weight — the draft
   </figcaption>
 </figure>
 
-
 ### The New Semester Begins
 
 The new semester began against a backdrop of political tension and uncertainty, still echoing from the spring shutdown after Kent State. In an unprecedented move, the administration gave students the last two weeks of October off specifically for political activity. This decision underscored just how deeply the events of the spring — from the Cambodia incursion to the Kent State shootings — had shaped the student body’s priorities and the institution’s willingness to accommodate activism.
 
-### The 1970 Draft Lottery
+But in the fall of 1970, one topic dominated the cafeteria conversations — the Vietnam draft lottery. My birthday came up at number **182**, high enough to make me cautiously optimistic but still close enough to leave a trace of uncertainty. The cafeteria buzzed with the sound of people comparing numbers as if they were trading baseball stats. “What’s your number?” became a standard greeting. Those with low numbers often faced immediate and difficult choices. Several people I knew enlisted in the Army Reserves or the National Guard right away, hoping to serve under more controlled conditions rather than risk being drafted into active combat in Vietnam. For those of us with higher numbers, there was some relief — but no one knew exactly where the cutoff would be, so the topic stayed in the air all semester.
 
-But in the fall of 1970, one topic dominated the cafeteria conversations — the Vietnam draft lottery. On July 1, 1970, the Selective Service held its second lottery, determining the order in which men born in 1951 would be called for possible military service. Each birth date was assigned a random number from 1 to 366, drawn in sequence.
-
-My birthday came up at number **182**, high enough to make me cautiously optimistic but still close enough to leave a trace of uncertainty. The cafeteria buzzed with the sound of people comparing numbers as if they were trading baseball stats. “What’s your number?” became a standard greeting. Those with low numbers often faced immediate and difficult choices. Several people I knew enlisted in the Army Reserves or the National Guard right away, hoping to serve under more controlled conditions rather than risk being drafted into active combat in Vietnam. For those of us with higher numbers, there was some relief — but no one knew exactly where the cutoff would be, so the topic stayed in the air all semester.
+As it turned out, the draft boards eventually reached **number 195 before the intersession in January 1971**. That meant my own number, 182, had indeed been within range. When I heard that 195 had been called, it reinforced in my mind just how important my student deferment was — the narrow margin by which my life had taken one path instead of another.
 
 ---
 
@@ -638,15 +635,55 @@ Third spin — taillights and guardrails blurred together — and then, suddenly
 
 We were in the far right lane, perfectly facing forward, the engine stalled. I turned the key — the motor caught instantly — and we drove on as if nothing had happened.
 
-<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/porsche-ice-right-lane.png"
-       alt="Porsche 911E stopped in the right lane facing the correct direction with cars whizzing past"
-       loading="lazy"
-       style="width:100%; height:auto; display:block; margin:auto;">
-  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
-    Finally stopped in the right lane, pointed the correct way, with traffic still rushing past.
+### Porsche Spinout Simulation
+
+<figure class="video-wrapper" style="margin:2rem auto;max-width:900px;border:2px solid #ccc;padding:10px;background:#000;box-shadow:0 2px 6px rgba(0,0,0,.1);">
+  <video controls preload="metadata" playsinline poster="/assets/images/porsche-spin-title.png"
+         style="width:100%;height:auto;display:block;margin:auto;">
+    <source src="/assets/videos/porsche-spin.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="text-align:center;font-style:italic;margin-top:8px;">
+    Simulation of the Porsche spinout — click to play. While playing, the video stays at the top of your screen.
   </figcaption>
 </figure>
+
+<style>
+.video-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #111;
+  padding-top: 8px;
+}
+.video-sticky video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+<script>
+(function () {
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('figure.video-wrapper').forEach(fig => {
+      const vid = fig.querySelector('video');
+      if (!vid) return;
+
+      vid.addEventListener('play', () => {
+        fig.classList.add('video-sticky');
+      });
+      const unstick = () => fig.classList.remove('video-sticky');
+      vid.addEventListener('pause', unstick);
+      vid.addEventListener('ended', unstick);
+    });
+  });
+})();
+</script>
+
+
+
+
 
 But I knew exactly what had almost happened. On the Grand Central Parkway, at that spot, at that hour, there was almost always traffic. Yet in those few spinning seconds, every lane was empty. It was as if the entire highway had paused for us.
 
@@ -660,20 +697,6 @@ It felt like more than luck. It felt like a miracle.
 
 That was our last date.
 
-### The Spinning Porsche
-
-<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  <img src="/assets/images/porsche-1971-911e-green.png"
-       alt="Porsche 911E (1971) in period-correct Irish Green, parked curbside in Queens"
-       loading="lazy"
-       style="width:100%; height:auto; display:block; margin:auto;">
-  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
-    My 1971 Porsche 911E (demo car, a few hundred miles when we bought it for $7,500).  
-    Five-speed manual, rear-engine, and a feeling like you were sitting on the road.
-  </figcaption>
-</figure>
-
-The Porsche incident happened in February — the kind of cold, gray day where the road feels harder than usual. A moment of wrong-lane chaos, spinning metal, and pounding hearts burned into memory.
 
 ---
 
@@ -699,15 +722,22 @@ Then one night, she told me she had decided to go back to him. There was no figh
 
 That summer, the empty space she left was quickly filled. Lori arrived like a spark — and everything took a different turn.
 
+During that period, I was in a steady relationship with Lori, and we spent much of our time together in Whitestone. Looking back, those two years were important for me — they gave me stability and companionship while I was wrestling with the pressures of school, work, and the larger world around me.  
 
+I grew a lot during that time, learning to face certain weaknesses head-on and to understand myself more clearly. In the end, I realized I wasn’t yet ready to settle down, but the experience left me with lessons about responsibility, balance, and what it really means to commit.
 
+### My Decision to Take a Leave of Absense from School
+
+In the summer of 1973, my father suffered a heart attack at the age of 51. His own father — my Grandpa Harry — had died of a heart attack at the very same age, just before I was born. Fortunately, my father’s story turned out differently. He was visiting his osteopath for back pain when the doctor recognized the early signs of a heart attack and sent him straight to the hospital. That intervention saved his life.  
+
+With my father unable to work, I made the decision to take a leave of absence from college in order to help keep Ace Brass going. It wasn’t the path I had imagined for myself, but it was the step I felt I needed to take for my family.
 
 
 ------------------------
 
-Sometime during the **summer of 1973**, I was paired in a golf round at Douglaston Golf Course with a woman named **Barbara** and her father. We hit it off, and although we dated briefly, we mostly became close friends. Through Barbara, I met **Bryan Popko**, who was a distributor for a company called **SYBERVISION**. That connection would become life-changing. SYBERVISION, founded on neuropsychological principles, offered programs like *The Neuropsychology of Achievement* and *The Neuropsychology of Self-Determination*. These taught you to **reprogram your brain** to overcome limiting beliefs, build confidence, and change behavior through mental rehearsal and visualization. 
+Sometime during the **summer of 1974**, I was paired in a golf round at Douglaston Golf Course with a woman named **Barbara** and her father. We hit it off, and although we dated briefly, we mostly became close friends. Through Barbara, I met **Bryan Popko**, who was a distributor for a company called **SYBERVISION**. That connection would become life-changing. SYBERVISION, founded on neuropsychological principles, offered programs like *The Neuropsychology of Achievement* and *The Neuropsychology of Self-Determination*. These taught you to **reprogram your brain** to overcome limiting beliefs, build confidence, and change behavior through mental rehearsal and visualization. 
 
-I took their personality self-assessment and scored **9 out of 12** on their “achievement traits” — meaning I already had a strong base. The training helped me **fine-tune** my habits. It was my first exposure to self-directed psychological transformation. Decades later, **Scott Adams’ books**, especially *Win Bigly*, further confirmed what I had learned — that memory is not fixed, it is rewritten, and understanding how our brains simulate confidence, identity, and belief is the key to unlocking success. Along the way, **Gary Null’s work**, like *Who Am I Really*, gave additional reinforcement. All of this helped shape the strategic way I’ve approached every opportunity in life — understanding how mindset is malleable and ultimately programmable.
+I took their personality self-assessment and scored **18 out of 21** on their “achievement traits” — meaning I already had a strong base. The training helped me **fine-tune** my habits. It was my first exposure to self-directed psychological transformation. Decades later, **Scott Adams’ books**, especially *Win Bigly* and *Loser Think, further confirmed what I had learned — that memory is not fixed, it is rewritten, and understanding how our brains simulate confidence, identity, and belief is the key to unlocking success. Along the way, **Gary Null’s work**, like *Who Am I Really*, gave additional reinforcement. All of this helped shape the strategic way I’ve approached every opportunity in life — understanding how mindset is malleable and ultimately programmable.
 
 In 1974, I returned to college after taking a year off to help run **Ace Brass** when my father had a heart attack in **1973**. I was now serious about graduating and took three **18-credit terms**, completing my degree by **December 1975**. I also took a course called **Theoretical Mechanics** taught by **Dr. Banesh Hoffmann**, Einstein’s former collaborator and biographer. The course covered advanced topics like **Laplace's method for small oscillations**, **special and general relativity**, and required you to **write out your thinking** — not just the answer. Even when I got answers wrong, he would give me **A+ for my reasoning**. After the class, he wrote a recommendation letter saying I was the **best student he had taught in over 30 years** and that he **expected great things** from me. I still have the letter to this day.
 
