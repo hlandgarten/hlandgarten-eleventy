@@ -732,6 +732,19 @@ In the summer of 1973, my father suffered a heart attack at the age of 51. His o
 
 With my father unable to work, I made the decision to take a leave of absence from college in order to help keep Ace Brass going. It wasn’t the path I had imagined for myself, but it was the step I felt I needed to take for my family.
 
+### The Summer of 1973: A Nation in Turmoil
+
+As I stepped away from Queens College to help run Ace Brass, the country itself felt like it was spinning.  
+
+In June, former White House counsel John Dean gave explosive testimony before the Senate Watergate Committee, directly implicating President Nixon in the cover-up of the Watergate break-in. A month later, Alexander Butterfield revealed the existence of Nixon’s Oval Office taping system — a bombshell that would define the scandal. The fight over those tapes dominated headlines all summer, creating a constitutional crisis that eroded trust in the presidency and set the stage for Nixon’s resignation a year later.  
+
+Elsewhere, America was adjusting to the end of major U.S. combat operations in Vietnam following the Paris Peace Accords, even as the war continued for South Vietnam. The economy was faltering too, with inflation rising and the first signs of what would become the 1973–74 recession appearing on the horizon.  
+
+Despite the political tension, popular culture thrived: *American Graffiti* and *The Exorcist* hit theaters, Stevie Wonder and The Rolling Stones topped the charts, and the nation’s mood swung between cynicism and escapism.  
+
+That was the world I was stepping into — a time of upheaval and uncertainty — just as my own life was changing dramatically at home.
+
+
 
 ------------------------
 
