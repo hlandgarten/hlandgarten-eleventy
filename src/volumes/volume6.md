@@ -59,12 +59,31 @@ To make matters worse, I had worked hard to get them in front of Bear Stearns. T
 
 These years — from 1998 to 2004 — were about **recognizing revolutions**, adapting quickly, and knowing when to commit and when to walk away. I missed some things. I made others work. But the lessons I learned during this time continue to shape how I see innovation — and opportunity — today.
 
-### A Hole-in-One in Mobile, Alabama
+## A Hole-in-One in Mobile, Alabama
 
-As part of a Compusport meeting, I traveled to Mobile, Alabama, where we held our annual golf outing. On the morning I was set to return home — with a connection through Atlanta to meet Joann in Orlando — I decided to play the front nine of the Legislator Course at Capitol Hill.
+As part of a Compusport meeting, I traveled to Mobile, Alabama, where we held our annual golf outing. On the morning I was set to return home — with a connection through Atlanta to meet Joann in Orlando — I decided to play the back nine of the Legislator Course at Capitol Hill.
 
-The sixth hole on that course featured an elevated tee, a picture-perfect green surrounded by trees, and a lake in front of it. The hole measured about 160 yards. When I struck my tee shot, I knew immediately that it was headed straight for the pin. Because of the glare of the sun, we couldn't actually see it land, but we heard a loud clank.
+The eleventh hole on that course featured an elevated tee, a picture-perfect green surrounded by trees, and a lake in front of it. The hole measured about 170 yards. When I struck my tee shot, I knew immediately that it was headed straight for the pin. Because of the glare of the sun, we couldn't actually see it land, but we heard a loud clank.
 
 When we got to the green, we found that my ball had gone directly into the hole on the fly — a hole-in-one, right into what we joked was the clown’s mouth. That meant I had to finish the round to make the hole-in-one official, which I did. However, I missed my scheduled flight and had to drive all the way to Atlanta to catch up with my travel plans.
 
 It was a perfect example of how golf, serendipity, and timing continued to intersect in my life.
+<figure style="margin: 2rem auto; max-width: 900px; border: 2px solid #ccc; padding: 10px; background-color: #fafafa; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <!-- Tee photo -->
+  <img src="/assets/images/legislator-11-tee.png"
+       alt="Capitol Hill — Legislator #11 tee view: elevated par-3 over water with front bunker and trees."
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:auto;">
+
+  <!-- Scorecard (rotated) -->
+  <img src="/assets/images/legislator-11-scorecard1.png"
+       alt="Scorecard showing hole-in-one on Legislator #11."
+       loading="lazy"
+       style="width:100%; height:auto; display:block; margin:1rem auto;">
+
+  <figcaption style="text-align:center; font-style:italic; margin-top:8px;">
+    Hole-in-One on #11, Legislator Course, Capitol Hill (Par 3, ~170 yds).  
+    The tee shot flew straight into the cup on the fly — scorecard below shows the ace circled.
+  </figcaption>
+</figure>
+
